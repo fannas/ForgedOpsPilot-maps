@@ -16,6 +16,9 @@ This repository holds **only map files**. The app itself is not here.
 | Namibia | `na.mbtiles` | 93 MB | 1 November 2026 |
 | Zimbabwe | `zw.mbtiles` | 79 MB | 1 November 2026 |
 | Malawi | `mw.mbtiles` | 68 MB | 1 November 2026 |
+| Mauritius, Rodrigues and Réunion (with Agaléga and St Brandon) | `mu.mbtiles` | 13 MB | 1 November 2026 |
+| Comoros and Mayotte | `km.mbtiles` | 5 MB | 1 November 2026 |
+| Seychelles (all islands, out to Aldabra) | `sc.mbtiles` | 5 MB | 1 November 2026 |
 
 The app reads its list of areas from `packs.json` in this repository (on the `main` branch), which points at the
 release files here.
