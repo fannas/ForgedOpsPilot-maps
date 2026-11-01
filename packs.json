@@ -176,6 +176,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/eg-20261101/eg.mbtiles"
  },
  {
+  "id": "er",
+  "name": "Eritrea",
+  "region": "East Africa",
+  "file": "er.mbtiles",
+  "size": 53755904,
+  "edition": "20261101",
+  "bounds": [
+   36.4,
+   12.3,
+   43.3,
+   18.1
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/er-20261101/er.mbtiles"
+ },
+ {
   "id": "et",
   "name": "Ethiopia",
   "region": "East Africa",
