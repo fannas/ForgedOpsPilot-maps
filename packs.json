@@ -1,5 +1,21 @@
 [
  {
+  "id": "dz",
+  "name": "Algeria",
+  "region": "North Africa",
+  "file": "dz.mbtiles",
+  "size": 378777600,
+  "edition": "20261101",
+  "bounds": [
+   -8.8,
+   18.8,
+   12.1,
+   37.2
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/dz-20261101/dz.mbtiles"
+ },
+ {
   "id": "ao",
   "name": "Angola",
   "file": "ao.mbtiles",
