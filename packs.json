@@ -80,6 +80,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/cm-20261101/cm.mbtiles"
  },
  {
+  "id": "cf",
+  "name": "Central African Republic",
+  "region": "Central Africa",
+  "file": "cf.mbtiles",
+  "size": 230572032,
+  "edition": "20261101",
+  "bounds": [
+   14.3,
+   2.2,
+   27.5,
+   11.1
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/cf-20261101/cf.mbtiles"
+ },
+ {
   "id": "td",
   "name": "Chad",
   "region": "Central Africa",
