@@ -352,6 +352,22 @@
   "region": "Southern Africa"
  },
  {
+  "id": "sd",
+  "name": "Sudan",
+  "region": "North Africa",
+  "file": "sd.mbtiles",
+  "size": 211976192,
+  "edition": "20261101",
+  "bounds": [
+   21.7,
+   8.5,
+   38.8,
+   22.4
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/sd-20261101/sd.mbtiles"
+ },
+ {
   "id": "tz",
   "name": "Tanzania, Zanzibar and Pemba",
   "file": "tz.mbtiles",
