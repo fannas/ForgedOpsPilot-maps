@@ -352,6 +352,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/tr-20261101/tr.mbtiles"
  },
  {
+  "id": "ug",
+  "name": "Uganda",
+  "region": "East Africa",
+  "file": "ug.mbtiles",
+  "size": 175390720,
+  "edition": "20261101",
+  "bounds": [
+   29.4,
+   -1.6,
+   35.1,
+   4.3
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/ug-20261101/ug.mbtiles"
+ },
+ {
   "id": "zm",
   "name": "Zambia",
   "file": "zm.mbtiles",
