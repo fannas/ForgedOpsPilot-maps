@@ -176,6 +176,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/gh-20261101/gh.mbtiles"
  },
  {
+  "id": "gn",
+  "name": "Guinea",
+  "region": "West Africa",
+  "file": "gn.mbtiles",
+  "size": 103743488,
+  "edition": "20261101",
+  "bounds": [
+   -15.2,
+   7.1,
+   -7.6,
+   12.8
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/gn-20261101/gn.mbtiles"
+ },
+ {
   "id": "ir",
   "name": "Iran",
   "region": "Middle East",
