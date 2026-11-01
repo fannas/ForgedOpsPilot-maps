@@ -352,6 +352,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/iq-20261101/iq.mbtiles"
  },
  {
+  "id": "il",
+  "name": "Israel and the Palestinian territories",
+  "region": "Middle East",
+  "file": "il.mbtiles",
+  "size": 60162048,
+  "edition": "20261101",
+  "bounds": [
+   34.2,
+   29.4,
+   35.9,
+   33.4
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/il-20261101/il.mbtiles"
+ },
+ {
   "id": "jo",
   "name": "Jordan",
   "region": "Middle East",
