@@ -105,6 +105,21 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/na-20261101/na.mbtiles"
  },
  {
+  "id": "sc",
+  "name": "Seychelles",
+  "file": "sc.mbtiles",
+  "size": 5468160,
+  "edition": "20261101",
+  "bounds": [
+   45.9,
+   -10.6,
+   56.2,
+   -3.5
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/sc-20261101/sc.mbtiles"
+ },
+ {
   "id": "za",
   "name": "South Africa, Lesotho and Eswatini",
   "file": "za.mbtiles",
