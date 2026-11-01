@@ -48,6 +48,22 @@
   "region": "Southern Africa"
  },
  {
+  "id": "bf",
+  "name": "Burkina Faso",
+  "region": "West Africa",
+  "file": "bf.mbtiles",
+  "size": 120549376,
+  "edition": "20261101",
+  "bounds": [
+   -5.6,
+   9.3,
+   2.5,
+   15.2
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/bf-20261101/bf.mbtiles"
+ },
+ {
   "id": "km",
   "name": "Comoros and Mayotte",
   "file": "km.mbtiles",
