@@ -208,6 +208,22 @@
   "region": "East Africa"
  },
  {
+  "id": "tr",
+  "name": "Turkey",
+  "region": "Middle East",
+  "file": "tr.mbtiles",
+  "size": 581087232,
+  "edition": "20261101",
+  "bounds": [
+   25.6,
+   35.8,
+   44.9,
+   42.2
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/tr-20261101/tr.mbtiles"
+ },
+ {
   "id": "zm",
   "name": "Zambia",
   "file": "zm.mbtiles",
