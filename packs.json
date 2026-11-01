@@ -432,6 +432,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/ng-20261101/ng.mbtiles"
  },
  {
+  "id": "om",
+  "name": "Oman",
+  "region": "Middle East",
+  "file": "om.mbtiles",
+  "size": 54759424,
+  "edition": "20261101",
+  "bounds": [
+   51.9,
+   16.6,
+   60.0,
+   26.5
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/om-20261101/om.mbtiles"
+ },
+ {
   "id": "sa",
   "name": "Saudi Arabia",
   "region": "Middle East",
