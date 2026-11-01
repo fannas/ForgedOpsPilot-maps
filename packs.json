@@ -128,6 +128,22 @@
   "region": "Southern Africa"
  },
  {
+  "id": "ml",
+  "name": "Mali",
+  "region": "West Africa",
+  "file": "ml.mbtiles",
+  "size": 258818048,
+  "edition": "20261101",
+  "bounds": [
+   -12.3,
+   10.1,
+   4.3,
+   25.1
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/ml-20261101/ml.mbtiles"
+ },
+ {
   "id": "mu",
   "name": "Mauritius, Rodrigues and R\u00e9union",
   "file": "mu.mbtiles",
