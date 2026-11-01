@@ -128,6 +128,22 @@
   "region": "Indian Ocean islands"
  },
  {
+  "id": "cg",
+  "name": "Congo (Brazzaville)",
+  "region": "Central Africa",
+  "file": "cg.mbtiles",
+  "size": 106291200,
+  "edition": "20261101",
+  "bounds": [
+   11.1,
+   -5.1,
+   18.7,
+   3.8
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/cg-20261101/cg.mbtiles"
+ },
+ {
   "id": "ci",
   "name": "C\u00f4te d'Ivoire",
   "region": "West Africa",
