@@ -1,5 +1,20 @@
 [
  {
+  "id": "bw",
+  "name": "Botswana",
+  "file": "bw.mbtiles",
+  "size": 101376000,
+  "edition": "20261101",
+  "bounds": [
+   19.9,
+   -27.0,
+   29.4,
+   -17.7
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/bw-20261101/bw.mbtiles"
+ },
+ {
   "id": "mz",
   "name": "Mozambique",
   "file": "mz.mbtiles",
