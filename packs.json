@@ -1,5 +1,20 @@
 [
  {
+  "id": "na",
+  "name": "Namibia",
+  "file": "na.mbtiles",
+  "size": 93474816,
+  "edition": "20261101",
+  "bounds": [
+   11.5,
+   -29.2,
+   25.3,
+   -16.9
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/na-20261101/na.mbtiles"
+ },
+ {
   "id": "za",
   "name": "South Africa, Lesotho and Eswatini",
   "file": "za.mbtiles",
