@@ -192,6 +192,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/ml-20261101/ml.mbtiles"
  },
  {
+  "id": "mr",
+  "name": "Mauritania",
+  "region": "West Africa",
+  "file": "mr.mbtiles",
+  "size": 74125312,
+  "edition": "20261101",
+  "bounds": [
+   -17.2,
+   14.6,
+   -4.7,
+   27.4
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/mr-20261101/mr.mbtiles"
+ },
+ {
   "id": "mu",
   "name": "Mauritius, Rodrigues and R\u00e9union",
   "file": "mu.mbtiles",
