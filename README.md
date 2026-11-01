@@ -9,7 +9,7 @@ This repository holds **only map files**. The app itself is not here.
 |---|---|---|---|
 | South Africa, Lesotho and Eswatini | `za.mbtiles` | 303 MB | 1 November 2026 |
 
-The app reads its list of areas from `https://forgedops-pilot.web.app/maps/packs.json`, which points at the
+The app reads its list of areas from `packs.json` in this repository (on the `main` branch), which points at the
 release files here.
 
 ## Licence and attribution
