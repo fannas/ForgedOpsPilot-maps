@@ -496,6 +496,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/om-20261101/om.mbtiles"
  },
  {
+  "id": "qa",
+  "name": "Qatar and Bahrain",
+  "region": "Middle East",
+  "file": "qa.mbtiles",
+  "size": 14286848,
+  "edition": "20261101",
+  "bounds": [
+   50.3,
+   24.4,
+   51.7,
+   26.4
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/qa-20261101/qa.mbtiles"
+ },
+ {
   "id": "sa",
   "name": "Saudi Arabia",
   "region": "Middle East",
