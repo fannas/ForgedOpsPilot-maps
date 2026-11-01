@@ -704,6 +704,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/qa-20261101/qa.mbtiles"
  },
  {
+  "id": "rw",
+  "name": "Rwanda",
+  "region": "East Africa",
+  "file": "rw.mbtiles",
+  "size": 68980736,
+  "edition": "20261101",
+  "bounds": [
+   28.8,
+   -2.9,
+   30.9,
+   -1.0
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/rw-20261101/rw.mbtiles"
+ },
+ {
   "id": "sa",
   "name": "Saudi Arabia",
   "region": "Middle East",
