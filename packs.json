@@ -240,6 +240,22 @@
   "region": "Southern Africa"
  },
  {
+  "id": "ne",
+  "name": "Niger",
+  "region": "West Africa",
+  "file": "ne.mbtiles",
+  "size": 173907968,
+  "edition": "20261101",
+  "bounds": [
+   0.1,
+   11.6,
+   16.1,
+   23.6
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/ne-20261101/ne.mbtiles"
+ },
+ {
   "id": "ng",
   "name": "Nigeria",
   "region": "West Africa",
