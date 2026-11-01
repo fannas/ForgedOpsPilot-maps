@@ -224,6 +224,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/eg-20261101/eg.mbtiles"
  },
  {
+  "id": "gq",
+  "name": "Equatorial Guinea",
+  "region": "Central Africa",
+  "file": "gq.mbtiles",
+  "size": 42983424,
+  "edition": "20261101",
+  "bounds": [
+   5.5,
+   -1.6,
+   11.4,
+   3.9
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/gq-20261101/gq.mbtiles"
+ },
+ {
   "id": "er",
   "name": "Eritrea",
   "region": "East Africa",
