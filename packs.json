@@ -592,6 +592,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/eh-20261101/eh.mbtiles"
  },
  {
+  "id": "ye",
+  "name": "Yemen and Socotra",
+  "region": "Middle East",
+  "file": "ye.mbtiles",
+  "size": 68980736,
+  "edition": "20261101",
+  "bounds": [
+   41.8,
+   12.0,
+   54.7,
+   19.0
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/ye-20261101/ye.mbtiles"
+ },
+ {
   "id": "zm",
   "name": "Zambia",
   "file": "zm.mbtiles",
