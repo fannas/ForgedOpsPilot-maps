@@ -8,6 +8,7 @@ This repository holds **only map files**. The app itself is not here.
 | Area | File | Size | Map data of |
 |---|---|---|---|
 | South Africa, Lesotho and Eswatini | `za.mbtiles` | 303 MB | 1 November 2026 |
+| Tanzania, Zanzibar and Pemba | `tz.mbtiles` | 271 MB | 1 November 2026 |
 | Mozambique | `mz.mbtiles` | 193 MB | 1 November 2026 |
 | Zambia | `zm.mbtiles` | 171 MB | 1 November 2026 |
 | Madagascar | `mg.mbtiles` | 168 MB | 1 November 2026 |
