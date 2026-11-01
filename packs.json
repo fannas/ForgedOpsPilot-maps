@@ -496,6 +496,22 @@
   "region": "Indian Ocean islands"
  },
  {
+  "id": "so",
+  "name": "Somalia",
+  "region": "East Africa",
+  "file": "so.mbtiles",
+  "size": 180948992,
+  "edition": "20261101",
+  "bounds": [
+   40.9,
+   -1.8,
+   51.5,
+   12.1
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/so-20261101/so.mbtiles"
+ },
+ {
   "id": "za",
   "name": "South Africa, Lesotho and Eswatini",
   "file": "za.mbtiles",
