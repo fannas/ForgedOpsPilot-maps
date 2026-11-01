@@ -96,6 +96,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/eg-20261101/eg.mbtiles"
  },
  {
+  "id": "ke",
+  "name": "Kenya",
+  "region": "East Africa",
+  "file": "ke.mbtiles",
+  "size": 160768000,
+  "edition": "20261101",
+  "bounds": [
+   33.8,
+   -4.9,
+   42.0,
+   5.2
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/ke-20261101/ke.mbtiles"
+ },
+ {
   "id": "mg",
   "name": "Madagascar",
   "file": "mg.mbtiles",
