@@ -30,6 +30,21 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/bw-20261101/bw.mbtiles"
  },
  {
+  "id": "mg",
+  "name": "Madagascar",
+  "file": "mg.mbtiles",
+  "size": 167931904,
+  "edition": "20261101",
+  "bounds": [
+   43.0,
+   -25.8,
+   50.7,
+   -11.8
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/mg-20261101/mg.mbtiles"
+ },
+ {
   "id": "mz",
   "name": "Mozambique",
   "file": "mz.mbtiles",
