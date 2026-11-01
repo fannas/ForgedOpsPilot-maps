@@ -224,6 +224,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/et-20261101/et.mbtiles"
  },
  {
+  "id": "ga",
+  "name": "Gabon",
+  "region": "Central Africa",
+  "file": "ga.mbtiles",
+  "size": 51421184,
+  "edition": "20261101",
+  "bounds": [
+   8.6,
+   -4.0,
+   14.6,
+   2.4
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/ga-20261101/ga.mbtiles"
+ },
+ {
   "id": "gh",
   "name": "Ghana",
   "region": "West Africa",
