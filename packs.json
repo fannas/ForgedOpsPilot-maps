@@ -656,6 +656,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/ug-20261101/ug.mbtiles"
  },
  {
+  "id": "ae",
+  "name": "United Arab Emirates",
+  "region": "Middle East",
+  "file": "ae.mbtiles",
+  "size": 34234368,
+  "edition": "20261101",
+  "bounds": [
+   51.5,
+   22.6,
+   56.5,
+   26.1
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/ae-20261101/ae.mbtiles"
+ },
+ {
   "id": "eh",
   "name": "Western Sahara",
   "region": "North Africa",
