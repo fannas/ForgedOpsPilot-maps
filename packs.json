@@ -496,6 +496,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/ug-20261101/ug.mbtiles"
  },
  {
+  "id": "eh",
+  "name": "Western Sahara",
+  "region": "North Africa",
+  "file": "eh.mbtiles",
+  "size": 20094976,
+  "edition": "20261101",
+  "bounds": [
+   -17.3,
+   20.6,
+   -8.6,
+   27.8
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/eh-20261101/eh.mbtiles"
+ },
+ {
   "id": "zm",
   "name": "Zambia",
   "file": "zm.mbtiles",
