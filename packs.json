@@ -176,6 +176,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/cg-20261101/cg.mbtiles"
  },
  {
+  "id": "cy",
+  "name": "Cyprus",
+  "region": "Middle East",
+  "file": "cy.mbtiles",
+  "size": 24834048,
+  "edition": "20261101",
+  "bounds": [
+   32.2,
+   34.5,
+   34.7,
+   35.8
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/cy-20261101/cy.mbtiles"
+ },
+ {
   "id": "ci",
   "name": "C\u00f4te d'Ivoire",
   "region": "West Africa",
