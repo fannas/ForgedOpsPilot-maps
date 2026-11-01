@@ -1,0 +1,17 @@
+[
+ {
+  "id": "za",
+  "name": "South Africa, Lesotho and Eswatini",
+  "file": "za.mbtiles",
+  "size": 302759936,
+  "edition": "20261101",
+  "bounds": [
+   16.3,
+   -35.0,
+   33.1,
+   -22.0
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/za-20261101/za.mbtiles"
+ }
+]
