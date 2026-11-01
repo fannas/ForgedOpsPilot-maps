@@ -80,6 +80,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/bf-20261101/bf.mbtiles"
  },
  {
+  "id": "bi",
+  "name": "Burundi",
+  "region": "East Africa",
+  "file": "bi.mbtiles",
+  "size": 67739648,
+  "edition": "20261101",
+  "bounds": [
+   28.9,
+   -4.5,
+   30.9,
+   -2.3
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/bi-20261101/bi.mbtiles"
+ },
+ {
   "id": "cm",
   "name": "Cameroon",
   "region": "Central Africa",
