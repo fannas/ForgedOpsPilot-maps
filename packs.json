@@ -416,6 +416,22 @@
   "region": "East Africa"
  },
  {
+  "id": "tn",
+  "name": "Tunisia",
+  "region": "North Africa",
+  "file": "tn.mbtiles",
+  "size": 61710336,
+  "edition": "20261101",
+  "bounds": [
+   7.4,
+   30.1,
+   11.7,
+   37.6
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/tn-20261101/tn.mbtiles"
+ },
+ {
   "id": "tr",
   "name": "Turkey",
   "region": "Middle East",
