@@ -32,6 +32,22 @@
   "region": "Southern Africa"
  },
  {
+  "id": "bj",
+  "name": "Benin",
+  "region": "West Africa",
+  "file": "bj.mbtiles",
+  "size": 60358656,
+  "edition": "20261101",
+  "bounds": [
+   0.7,
+   6.1,
+   4.0,
+   12.5
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/bj-20261101/bj.mbtiles"
+ },
+ {
   "id": "bw",
   "name": "Botswana",
   "file": "bw.mbtiles",
