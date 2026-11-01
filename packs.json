@@ -160,6 +160,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/ir-20261101/ir.mbtiles"
  },
  {
+  "id": "iq",
+  "name": "Iraq",
+  "region": "Middle East",
+  "file": "iq.mbtiles",
+  "size": 175808512,
+  "edition": "20261101",
+  "bounds": [
+   38.7,
+   29.0,
+   48.6,
+   37.4
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/iq-20261101/iq.mbtiles"
+ },
+ {
   "id": "ke",
   "name": "Kenya",
   "region": "East Africa",
