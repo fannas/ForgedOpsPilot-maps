@@ -75,6 +75,21 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/za-20261101/za.mbtiles"
  },
  {
+  "id": "zm",
+  "name": "Zambia",
+  "file": "zm.mbtiles",
+  "size": 170950656,
+  "edition": "20261101",
+  "bounds": [
+   21.9,
+   -18.1,
+   33.8,
+   -8.2
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/zm-20261101/zm.mbtiles"
+ },
+ {
   "id": "zw",
   "name": "Zimbabwe",
   "file": "zw.mbtiles",
