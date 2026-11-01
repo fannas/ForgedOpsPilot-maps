@@ -320,6 +320,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/ke-20261101/ke.mbtiles"
  },
  {
+  "id": "kw",
+  "name": "Kuwait",
+  "region": "Middle East",
+  "file": "kw.mbtiles",
+  "size": 11272192,
+  "edition": "20261101",
+  "bounds": [
+   46.5,
+   28.5,
+   48.5,
+   30.1
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/kw-20261101/kw.mbtiles"
+ },
+ {
   "id": "lr",
   "name": "Liberia",
   "region": "West Africa",
