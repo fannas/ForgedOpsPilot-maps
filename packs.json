@@ -64,6 +64,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/bf-20261101/bf.mbtiles"
  },
  {
+  "id": "td",
+  "name": "Chad",
+  "region": "Central Africa",
+  "file": "td.mbtiles",
+  "size": 172797952,
+  "edition": "20261101",
+  "bounds": [
+   13.4,
+   7.4,
+   24.1,
+   23.5
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/td-20261101/td.mbtiles"
+ },
+ {
   "id": "km",
   "name": "Comoros and Mayotte",
   "file": "km.mbtiles",
