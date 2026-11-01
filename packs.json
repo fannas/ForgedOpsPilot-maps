@@ -464,6 +464,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/sd-20261101/sd.mbtiles"
  },
  {
+  "id": "sy",
+  "name": "Syria",
+  "region": "Middle East",
+  "file": "sy.mbtiles",
+  "size": 128311296,
+  "edition": "20261101",
+  "bounds": [
+   35.6,
+   32.3,
+   42.4,
+   37.4
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/sy-20261101/sy.mbtiles"
+ },
+ {
   "id": "tz",
   "name": "Tanzania, Zanzibar and Pemba",
   "file": "tz.mbtiles",
