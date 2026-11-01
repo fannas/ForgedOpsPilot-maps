@@ -448,6 +448,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/sa-20261101/sa.mbtiles"
  },
  {
+  "id": "sn",
+  "name": "Senegal and The Gambia",
+  "region": "West Africa",
+  "file": "sn.mbtiles",
+  "size": 71897088,
+  "edition": "20261101",
+  "bounds": [
+   -17.7,
+   12.2,
+   -11.3,
+   16.8
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/sn-20261101/sn.mbtiles"
+ },
+ {
   "id": "sc",
   "name": "Seychelles",
   "file": "sc.mbtiles",
