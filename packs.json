@@ -704,6 +704,22 @@
   "region": "East Africa"
  },
  {
+  "id": "tg",
+  "name": "Togo",
+  "region": "West Africa",
+  "file": "tg.mbtiles",
+  "size": 36061184,
+  "edition": "20261101",
+  "bounds": [
+   -0.2,
+   5.9,
+   1.9,
+   11.2
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/tg-20261101/tg.mbtiles"
+ },
+ {
   "id": "tn",
   "name": "Tunisia",
   "region": "North Africa",
