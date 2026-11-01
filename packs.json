@@ -160,6 +160,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/cd-20261101/cd.mbtiles"
  },
  {
+  "id": "dj",
+  "name": "Djibouti",
+  "region": "East Africa",
+  "file": "dj.mbtiles",
+  "size": 7737344,
+  "edition": "20261101",
+  "bounds": [
+   41.7,
+   10.9,
+   43.5,
+   12.8
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/dj-20261101/dj.mbtiles"
+ },
+ {
   "id": "eg",
   "name": "Egypt",
   "region": "North Africa",
