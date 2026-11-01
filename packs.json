@@ -150,6 +150,21 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/za-20261101/za.mbtiles"
  },
  {
+  "id": "tz",
+  "name": "Tanzania, Zanzibar and Pemba",
+  "file": "tz.mbtiles",
+  "size": 271196160,
+  "edition": "20261101",
+  "bounds": [
+   29.3,
+   -11.8,
+   40.5,
+   -0.9
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/tz-20261101/tz.mbtiles"
+ },
+ {
   "id": "zm",
   "name": "Zambia",
   "file": "zm.mbtiles",
