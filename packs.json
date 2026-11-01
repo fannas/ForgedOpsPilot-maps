@@ -13,5 +13,20 @@
   ],
   "maxzoom": 13,
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/za-20261101/za.mbtiles"
+ },
+ {
+  "id": "zw",
+  "name": "Zimbabwe",
+  "file": "zw.mbtiles",
+  "size": 78700544,
+  "edition": "20261101",
+  "bounds": [
+   25.2,
+   -22.5,
+   33.1,
+   -15.6
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/zw-20261101/zw.mbtiles"
  }
 ]
