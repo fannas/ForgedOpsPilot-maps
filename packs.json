@@ -272,6 +272,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/ke-20261101/ke.mbtiles"
  },
  {
+  "id": "lr",
+  "name": "Liberia",
+  "region": "West Africa",
+  "file": "lr.mbtiles",
+  "size": 35696640,
+  "edition": "20261101",
+  "bounds": [
+   -11.6,
+   4.2,
+   -7.3,
+   8.6
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/lr-20261101/lr.mbtiles"
+ },
+ {
   "id": "ly",
   "name": "Libya",
   "region": "North Africa",
