@@ -112,6 +112,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/cm-20261101/cm.mbtiles"
  },
  {
+  "id": "ic",
+  "name": "Canary Islands and Madeira",
+  "region": "Atlantic islands",
+  "file": "ic.mbtiles",
+  "size": 20951040,
+  "edition": "20261101",
+  "bounds": [
+   -18.4,
+   27.5,
+   -13.3,
+   33.2
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/ic-20261101/ic.mbtiles"
+ },
+ {
   "id": "cv",
   "name": "Cape Verde",
   "region": "West Africa",
