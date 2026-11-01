@@ -848,6 +848,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/ss-20261101/ss.mbtiles"
  },
  {
+  "id": "sh",
+  "name": "St Helena, Ascension and Tristan da Cunha",
+  "region": "Atlantic islands",
+  "file": "sh.mbtiles",
+  "size": 12046336,
+  "edition": "20261101",
+  "bounds": [
+   -14.6,
+   -40.5,
+   -5.5,
+   -7.7
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/sh-20261101/sh.mbtiles"
+ },
+ {
   "id": "sd",
   "name": "Sudan",
   "region": "North Africa",
