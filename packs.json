@@ -75,6 +75,21 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/mw-20261101/mw.mbtiles"
  },
  {
+  "id": "mu",
+  "name": "Mauritius, Rodrigues and R\u00e9union",
+  "file": "mu.mbtiles",
+  "size": 12689408,
+  "edition": "20261101",
+  "bounds": [
+   55.0,
+   -21.6,
+   63.8,
+   -10.2
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/mu-20261101/mu.mbtiles"
+ },
+ {
   "id": "mz",
   "name": "Mozambique",
   "file": "mz.mbtiles",
