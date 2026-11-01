@@ -59,7 +59,8 @@
    -11.8
   ],
   "maxzoom": 13,
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/mg-20261101/mg.mbtiles"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/mg-20261101/mg.mbtiles",
+  "region": "Indian Ocean islands"
  },
  {
   "id": "mw",
