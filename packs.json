@@ -12,7 +12,8 @@
    -4.3
   ],
   "maxzoom": 13,
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/ao-20261101/ao.mbtiles"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/ao-20261101/ao.mbtiles",
+  "region": "Southern Africa"
  },
  {
   "id": "bw",
