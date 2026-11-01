@@ -96,6 +96,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/eg-20261101/eg.mbtiles"
  },
  {
+  "id": "ir",
+  "name": "Iran",
+  "region": "Middle East",
+  "file": "ir.mbtiles",
+  "size": 400629760,
+  "edition": "20261101",
+  "bounds": [
+   44.0,
+   25.0,
+   63.4,
+   39.8
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/ir-20261101/ir.mbtiles"
+ },
+ {
   "id": "ke",
   "name": "Kenya",
   "region": "East Africa",
