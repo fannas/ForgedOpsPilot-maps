@@ -1,5 +1,20 @@
 [
  {
+  "id": "mz",
+  "name": "Mozambique",
+  "file": "mz.mbtiles",
+  "size": 193114112,
+  "edition": "20261101",
+  "bounds": [
+   30.2,
+   -27.0,
+   40.9,
+   -10.4
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/mz-20261101/mz.mbtiles"
+ },
+ {
   "id": "na",
   "name": "Namibia",
   "file": "na.mbtiles",
