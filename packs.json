@@ -30,6 +30,21 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/bw-20261101/bw.mbtiles"
  },
  {
+  "id": "km",
+  "name": "Comoros and Mayotte",
+  "file": "km.mbtiles",
+  "size": 4624384,
+  "edition": "20261101",
+  "bounds": [
+   43.0,
+   -13.2,
+   45.5,
+   -11.2
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/km-20261101/km.mbtiles"
+ },
+ {
   "id": "mg",
   "name": "Madagascar",
   "file": "mg.mbtiles",
