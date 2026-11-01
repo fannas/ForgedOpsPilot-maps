@@ -64,6 +64,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/bf-20261101/bf.mbtiles"
  },
  {
+  "id": "cm",
+  "name": "Cameroon",
+  "region": "Central Africa",
+  "file": "cm.mbtiles",
+  "size": 308355072,
+  "edition": "20261101",
+  "bounds": [
+   8.4,
+   1.6,
+   16.3,
+   13.2
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/cm-20261101/cm.mbtiles"
+ },
+ {
   "id": "td",
   "name": "Chad",
   "region": "Central Africa",
