@@ -1696,6 +1696,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/jp-n-20261101/jp-n.mbtiles"
  },
  {
+  "id": "jp-s",
+  "name": "Japan south and west (Hiroshima, Okayama, Shikoku, Kyushu, Okinawa)",
+  "region": "East Asia",
+  "file": "jp-s.mbtiles",
+  "size": 295636992,
+  "edition": "20261101",
+  "bounds": [
+   122.9,
+   24.0,
+   135.0,
+   36.0
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/jp-s-20261101/jp-s.mbtiles"
+ },
+ {
   "id": "jo",
   "name": "Jordan",
   "region": "Middle East",
