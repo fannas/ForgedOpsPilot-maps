@@ -1552,6 +1552,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/jm-20261101/jm.mbtiles"
  },
  {
+  "id": "jp-n",
+  "name": "Japan north (Hokkaido, Sapporo, Tohoku, Sendai)",
+  "region": "East Asia",
+  "file": "jp-n.mbtiles",
+  "size": 204578816,
+  "edition": "20261101",
+  "bounds": [
+   138.0,
+   36.8,
+   146.0,
+   45.6
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/jp-n-20261101/jp-n.mbtiles"
+ },
+ {
   "id": "jo",
   "name": "Jordan",
   "region": "Middle East",
