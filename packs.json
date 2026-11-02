@@ -3168,6 +3168,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/win-20261101/win.mbtiles"
  },
  {
+  "id": "cn-xj",
+  "name": "Xinjiang (\u00dcr\u00fcmqi, Kashgar)",
+  "region": "East Asia",
+  "file": "cn-xj.mbtiles",
+  "size": 264396800,
+  "edition": "20261101",
+  "bounds": [
+   73.4,
+   34.3,
+   96.4,
+   49.2
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/cn-xj-20261101/cn-xj.mbtiles"
+ },
+ {
   "id": "ye",
   "name": "Yemen and Socotra",
   "region": "Middle East",
