@@ -2096,6 +2096,22 @@
   "region": "East Africa"
  },
  {
+  "id": "us-tx",
+  "name": "Texas",
+  "region": "United States",
+  "file": "us-tx.mbtiles",
+  "size": 384032768,
+  "edition": "20261101",
+  "bounds": [
+   -106.7,
+   25.8,
+   -93.5,
+   36.5
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/us-tx-20261101/us-tx.mbtiles"
+ },
+ {
   "id": "tg",
   "name": "Togo",
   "region": "West Africa",
