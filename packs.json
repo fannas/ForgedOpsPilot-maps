@@ -1776,6 +1776,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/ru-ka-20261101/ru-ka.mbtiles"
  },
  {
+  "id": "kz-w",
+  "name": "Kazakhstan west (Atyrau, Aktau, Aktobe, Kyzylorda)",
+  "region": "Caucasus and Central Asia",
+  "file": "kz-w.mbtiles",
+  "size": 502763520,
+  "edition": "20261101",
+  "bounds": [
+   46.4,
+   40.5,
+   66.0,
+   55.5
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/kz-w-20261101/kz-w.mbtiles"
+ },
+ {
   "id": "ke",
   "name": "Kenya",
   "region": "East Africa",
