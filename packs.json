@@ -1568,6 +1568,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/jm-20261101/jm.mbtiles"
  },
  {
+  "id": "jp-w",
+  "name": "Japan central west (Nagoya, Osaka, Kyoto, Kobe, Kanazawa, Toyama, Wakayama)",
+  "region": "East Asia",
+  "file": "jp-w.mbtiles",
+  "size": 192782336,
+  "edition": "20261101",
+  "bounds": [
+   133.0,
+   33.0,
+   137.4,
+   37.6
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/jp-w-20261101/jp-w.mbtiles"
+ },
+ {
   "id": "jp-e",
   "name": "Japan east (Tokyo, Yokohama, Chiba, Saitama, Niigata, Nagano, Shizuoka, Mount Fuji)",
   "region": "East Asia",
