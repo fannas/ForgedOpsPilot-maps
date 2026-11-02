@@ -1328,6 +1328,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/it-s-20261101/it-s.mbtiles"
  },
  {
+  "id": "jm",
+  "name": "Jamaica",
+  "region": "Central America and the Caribbean",
+  "file": "jm.mbtiles",
+  "size": 8847360,
+  "edition": "20261101",
+  "bounds": [
+   -78.5,
+   17.6,
+   -76.1,
+   18.6
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/jm-20261101/jm.mbtiles"
+ },
+ {
   "id": "jo",
   "name": "Jordan",
   "region": "Middle East",
