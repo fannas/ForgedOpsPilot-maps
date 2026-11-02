@@ -1600,6 +1600,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/ru-kg-20261101/ru-kg.mbtiles"
  },
  {
+  "id": "ru-ka",
+  "name": "Kamchatka, the Kuril Islands, Magadan and the Sea of Okhotsk coast",
+  "region": "Russia",
+  "file": "ru-ka.mbtiles",
+  "size": 48721920,
+  "edition": "20261101",
+  "bounds": [
+   144.9,
+   43.3,
+   180.0,
+   60.0
+  ],
+  "maxzoom": 12,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/ru-ka-20261101/ru-ka.mbtiles"
+ },
+ {
   "id": "ke",
   "name": "Kenya",
   "region": "East Africa",
