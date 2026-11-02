@@ -1120,6 +1120,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/om-20261101/om.mbtiles"
  },
  {
+  "id": "ca-on",
+  "name": "Ontario",
+  "region": "North America",
+  "file": "ca-on.mbtiles",
+  "size": 1547804672,
+  "edition": "20261101",
+  "bounds": [
+   -95.2,
+   41.6,
+   -74.3,
+   56.9
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/ca-on-20261101/ca-on.mbtiles"
+ },
+ {
   "id": "pl",
   "name": "Poland",
   "region": "Eastern Europe and the Balkans",
