@@ -5,7 +5,7 @@ Map files for the **Forged Ops Pilot** phone app (Fly > Offline map areas). Each
 
 This repository holds **only map files**. The app itself is not here.
 
-68 areas, 8.8 GB together, listed by region as the app lists them.
+104 areas, 32.3 GB together, listed by region as the app lists them.
 
 ## Southern Africa (8 areas, 1.2 GB)
 
@@ -114,6 +114,67 @@ This repository holds **only map files**. The app itself is not here.
 | Cyprus | `cy.mbtiles` | 25 MB | 1 November 2026 |
 | Qatar and Bahrain | `qa.mbtiles` | 14 MB | 1 November 2026 |
 | Kuwait | `kw.mbtiles` | 11 MB | 1 November 2026 |
+
+## British Isles (3 areas, 1.1 GB)
+
+| Area | File | Size | Map data of |
+|---|---|---|---|
+| England, Wales, Isle of Man and Channel Islands | `gb-s.mbtiles` | 726 MB | 1 November 2026 |
+| Scotland | `gb-n.mbtiles` | 248 MB | 1 November 2026 |
+| Ireland and Northern Ireland | `ie.mbtiles` | 167 MB | 1 November 2026 |
+
+## Western Europe (7 areas, 7.0 GB)
+
+| Area | File | Size | Map data of |
+|---|---|---|---|
+| France north | `fr-n.mbtiles` | 1.5 GB | 1 November 2026 |
+| Germany south | `de-s.mbtiles` | 1.4 GB | 1 November 2026 |
+| France south, Corsica and Monaco | `fr-s.mbtiles` | 1.1 GB | 1 November 2026 |
+| Germany north | `de-n.mbtiles` | 1.0 GB | 1 November 2026 |
+| Austria | `at.mbtiles` | 854 MB | 1 November 2026 |
+| Belgium, Netherlands and Luxembourg | `benelux.mbtiles` | 711 MB | 1 November 2026 |
+| Switzerland and Liechtenstein | `ch.mbtiles` | 436 MB | 1 November 2026 |
+
+## Northern Europe (10 areas, 5.5 GB)
+
+| Area | File | Size | Map data of |
+|---|---|---|---|
+| Sweden north | `se-n.mbtiles` | 1.0 GB | 1 November 2026 |
+| Norway south | `no-s.mbtiles` | 934 MB | 1 November 2026 |
+| Norway north | `no-n.mbtiles` | 835 MB | 1 November 2026 |
+| Finland south and Åland | `fi-s.mbtiles` | 638 MB | 1 November 2026 |
+| Sweden south | `se-s.mbtiles` | 599 MB | 1 November 2026 |
+| Finland north | `fi-n.mbtiles` | 527 MB | 1 November 2026 |
+| Estonia, Latvia and Lithuania | `baltics.mbtiles` | 509 MB | 1 November 2026 |
+| Denmark | `dk.mbtiles` | 348 MB | 1 November 2026 |
+| Iceland | `is.mbtiles` | 108 MB | 1 November 2026 |
+| Faroe Islands | `fo.mbtiles` | 7 MB | 1 November 2026 |
+
+## Southern Europe (6 areas, 2.8 GB)
+
+| Area | File | Size | Map data of |
+|---|---|---|---|
+| Spain, Gibraltar, Andorra and the Balearic Islands | `es.mbtiles` | 1.0 GB | 1 November 2026 |
+| Italy north and San Marino | `it-n.mbtiles` | 773 MB | 1 November 2026 |
+| Italy south, Sicily, Sardinia and Malta | `it-s.mbtiles` | 454 MB | 1 November 2026 |
+| Greece and Crete | `gr.mbtiles` | 358 MB | 1 November 2026 |
+| Portugal | `pt.mbtiles` | 222 MB | 1 November 2026 |
+| Azores | `az.mbtiles` | 8 MB | 1 November 2026 |
+
+## Eastern Europe and the Balkans (10 areas, 6.9 GB)
+
+| Area | File | Size | Map data of |
+|---|---|---|---|
+| Poland | `pl.mbtiles` | 1.3 GB | 1 November 2026 |
+| Czechia and Slovakia | `cz-sk.mbtiles` | 1.2 GB | 1 November 2026 |
+| Ukraine west | `ua-w.mbtiles` | 864 MB | 1 November 2026 |
+| Serbia, Bosnia, Montenegro, Kosovo, Albania and North Macedonia | `balkans.mbtiles` | 618 MB | 1 November 2026 |
+| Ukraine east and Crimea | `ua-e.mbtiles` | 591 MB | 1 November 2026 |
+| Slovenia and Croatia | `si-hr.mbtiles` | 589 MB | 1 November 2026 |
+| Belarus | `by.mbtiles` | 576 MB | 1 November 2026 |
+| Romania and Moldova | `ro-md.mbtiles` | 569 MB | 1 November 2026 |
+| Hungary | `hu.mbtiles` | 428 MB | 1 November 2026 |
+| Bulgaria | `bg.mbtiles` | 227 MB | 1 November 2026 |
 
 The app reads its list of areas from `packs.json` in this repository (on the `main` branch), which points at the
 release files here.
