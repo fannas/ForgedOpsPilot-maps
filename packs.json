@@ -624,6 +624,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/td-20261101/td.mbtiles"
  },
  {
+  "id": "nz-ch",
+  "name": "Chatham Islands",
+  "region": "Australia and the Pacific",
+  "file": "nz-ch.mbtiles",
+  "size": 692224,
+  "edition": "20261101",
+  "bounds": [
+   -177.0,
+   -44.5,
+   -175.9,
+   -43.5
+  ],
+  "maxzoom": 12,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/nz-ch-20261101/nz-ch.mbtiles"
+ },
+ {
   "id": "cl-n",
   "name": "Chile north",
   "region": "South America",
