@@ -656,6 +656,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/il-20261101/il.mbtiles"
  },
  {
+  "id": "it-n",
+  "name": "Italy north and San Marino",
+  "region": "Southern Europe",
+  "file": "it-n.mbtiles",
+  "size": 772509696,
+  "edition": "20261101",
+  "bounds": [
+   6.5,
+   43.4,
+   13.9,
+   47.2
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/it-n-20261101/it-n.mbtiles"
+ },
+ {
   "id": "it-s",
   "name": "Italy south, Sicily, Sardinia and Malta",
   "region": "Southern Europe",
