@@ -1728,6 +1728,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/jp-s-20261101/jp-s.mbtiles"
  },
  {
+  "id": "id-jv",
+  "name": "Java, Bali and Lombok (Jakarta, Surabaya, Denpasar)",
+  "region": "Southeast Asia",
+  "file": "id-jv.mbtiles",
+  "size": 140980224,
+  "edition": "20261101",
+  "bounds": [
+   105.0,
+   -9.1,
+   116.8,
+   -5.8
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/id-jv-20261101/id-jv.mbtiles"
+ },
+ {
   "id": "jo",
   "name": "Jordan",
   "region": "Middle East",
