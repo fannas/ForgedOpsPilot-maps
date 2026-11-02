@@ -1328,6 +1328,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/ng-20261101/ng.mbtiles"
  },
  {
+  "id": "us-pl",
+  "name": "North Dakota, South Dakota, Nebraska and Kansas",
+  "region": "United States",
+  "file": "us-pl.mbtiles",
+  "size": 356233216,
+  "edition": "20261101",
+  "bounds": [
+   -104.1,
+   36.9,
+   -94.5,
+   49.0
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/us-pl-20261101/us-pl.mbtiles"
+ },
+ {
   "id": "ca-nt",
   "name": "Northwest Territories",
   "region": "North America",
