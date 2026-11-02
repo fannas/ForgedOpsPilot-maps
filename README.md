@@ -5,7 +5,7 @@ Map files for the **Forged Ops Pilot** phone app (Fly > Offline map areas). Each
 
 This repository holds **only map files**. The app itself is not here.
 
-104 areas, 32.3 GB together, listed by region as the app lists them.
+166 areas, 54.4 GB together, listed by region as the app lists them.
 
 ## Southern Africa (8 areas, 1.2 GB)
 
@@ -175,6 +175,88 @@ This repository holds **only map files**. The app itself is not here.
 | Romania and Moldova | `ro-md.mbtiles` | 569 MB | 1 November 2026 |
 | Hungary | `hu.mbtiles` | 428 MB | 1 November 2026 |
 | Bulgaria | `bg.mbtiles` | 227 MB | 1 November 2026 |
+
+## North America (13 areas, 8.6 GB)
+
+| Area | File | Size | Map data of |
+|---|---|---|---|
+| Ontario | `ca-on.mbtiles` | 1.5 GB | 1 November 2026 |
+| Quebec | `ca-qc.mbtiles` | 1.4 GB | 1 November 2026 |
+| British Columbia and Yukon | `ca-bc.mbtiles` | 1.3 GB | 1 November 2026 |
+| Alberta, Saskatchewan and Manitoba | `ca-pr.mbtiles` | 998 MB | 1 November 2026 |
+| Nunavut west (Kitikmeot and Kivalliq) | `ca-nuw.mbtiles` | 684 MB | 1 November 2026 |
+| Nunavut east (Baffin Island and the Hudson Bay islands) | `ca-nue.mbtiles` | 679 MB | 1 November 2026 |
+| New Brunswick, Nova Scotia, Prince Edward Island, Newfoundland and Labrador | `ca-at.mbtiles` | 631 MB | 1 November 2026 |
+| Northwest Territories | `ca-nt.mbtiles` | 566 MB | 1 November 2026 |
+| Mexico north and Baja California | `mx-n.mbtiles` | 313 MB | 1 November 2026 |
+| Mexico south and Yucatán | `mx-s.mbtiles` | 292 MB | 1 November 2026 |
+| Greenland | `gl.mbtiles` | 164 MB | 1 November 2026 |
+| Canadian High Arctic (Ellesmere, Devon, Axel Heiberg and the Queen Elizabeth Islands) | `ca-ar.mbtiles` | 66 MB | 1 November 2026 |
+| Bermuda | `bm.mbtiles` | 1 MB | 1 November 2026 |
+
+## United States (19 areas, 8.4 GB)
+
+| Area | File | Size | Map data of |
+|---|---|---|---|
+| Ohio, Michigan and Indiana | `us-oh.mbtiles` | 766 MB | 1 November 2026 |
+| Alabama, Mississippi, Tennessee and Kentucky | `us-so.mbtiles` | 683 MB | 1 November 2026 |
+| Delaware, Maryland, Washington DC, Virginia, West Virginia and North Carolina | `us-ma.mbtiles` | 660 MB | 1 November 2026 |
+| New York, New Jersey and Pennsylvania | `us-ny.mbtiles` | 621 MB | 1 November 2026 |
+| South Carolina, Georgia and Florida | `us-se.mbtiles` | 614 MB | 1 November 2026 |
+| Minnesota, Iowa and Missouri | `us-mn.mbtiles` | 611 MB | 1 November 2026 |
+| Arizona, New Mexico and Nevada | `us-sw.mbtiles` | 598 MB | 1 November 2026 |
+| Alaska | `us-ak.mbtiles` | 576 MB | 1 November 2026 |
+| Montana, Wyoming, Idaho, Colorado and Utah | `us-mt.mbtiles` | 543 MB | 1 November 2026 |
+| Illinois and Wisconsin | `us-il.mbtiles` | 452 MB | 1 November 2026 |
+| Louisiana, Arkansas and Oklahoma | `us-la.mbtiles` | 450 MB | 1 November 2026 |
+| Texas | `us-tx.mbtiles` | 384 MB | 1 November 2026 |
+| New England | `us-ne.mbtiles` | 358 MB | 1 November 2026 |
+| North Dakota, South Dakota, Nebraska and Kansas | `us-pl.mbtiles` | 356 MB | 1 November 2026 |
+| Washington and Oregon | `us-nw.mbtiles` | 312 MB | 1 November 2026 |
+| California north | `us-can.mbtiles` | 238 MB | 1 November 2026 |
+| California south | `us-cas.mbtiles` | 119 MB | 1 November 2026 |
+| Hawaii | `us-hi.mbtiles` | 9 MB | 1 November 2026 |
+| Aleutian Islands west of 180° | `us-akw.mbtiles` | 4 MB | 1 November 2026 |
+
+## Central America and the Caribbean (12 areas, 435 MB)
+
+| Area | File | Size | Map data of |
+|---|---|---|---|
+| Honduras, El Salvador and Nicaragua | `hn.mbtiles` | 116 MB | 1 November 2026 |
+| Guatemala and Belize | `gt.mbtiles` | 90 MB | 1 November 2026 |
+| Costa Rica and Panama | `cr.mbtiles` | 59 MB | 1 November 2026 |
+| Cuba and the Cayman Islands | `cu.mbtiles` | 51 MB | 1 November 2026 |
+| Bahamas and Turks and Caicos | `bs.mbtiles` | 36 MB | 1 November 2026 |
+| Haiti and the Dominican Republic | `hisp.mbtiles` | 32 MB | 1 November 2026 |
+| Puerto Rico and the Virgin Islands | `pr.mbtiles` | 13 MB | 1 November 2026 |
+| Leeward Islands (Anguilla to Dominica) | `lee.mbtiles` | 9 MB | 1 November 2026 |
+| Jamaica | `jm.mbtiles` | 9 MB | 1 November 2026 |
+| Windward Islands and Barbados | `win.mbtiles` | 8 MB | 1 November 2026 |
+| Trinidad and Tobago | `tt.mbtiles` | 6 MB | 1 November 2026 |
+| Aruba, Curaçao and Bonaire | `abc.mbtiles` | 5 MB | 1 November 2026 |
+
+## South America (18 areas, 4.7 GB)
+
+| Area | File | Size | Map data of |
+|---|---|---|---|
+| Brazil southeast | `br-se.mbtiles` | 629 MB | 1 November 2026 |
+| Brazil centre-west | `br-cw.mbtiles` | 461 MB | 1 November 2026 |
+| Argentina north | `ar-n.mbtiles` | 444 MB | 1 November 2026 |
+| Brazil north (Amazon) | `br-n.mbtiles` | 421 MB | 1 November 2026 |
+| Brazil northeast | `br-ne.mbtiles` | 385 MB | 1 November 2026 |
+| Brazil south | `br-s.mbtiles` | 353 MB | 1 November 2026 |
+| Colombia | `co.mbtiles` | 340 MB | 1 November 2026 |
+| Argentina south (Patagonia) | `ar-s.mbtiles` | 296 MB | 1 November 2026 |
+| Peru | `pe.mbtiles` | 273 MB | 1 November 2026 |
+| Chile south | `cl-s.mbtiles` | 256 MB | 1 November 2026 |
+| Bolivia | `bo.mbtiles` | 210 MB | 1 November 2026 |
+| Venezuela | `ve.mbtiles` | 185 MB | 1 November 2026 |
+| Chile north | `cl-n.mbtiles` | 138 MB | 1 November 2026 |
+| Paraguay | `py.mbtiles` | 129 MB | 1 November 2026 |
+| Ecuador and the Galápagos | `ec.mbtiles` | 94 MB | 1 November 2026 |
+| Uruguay | `uy.mbtiles` | 70 MB | 1 November 2026 |
+| Guyana, Suriname and French Guiana | `gy.mbtiles` | 56 MB | 1 November 2026 |
+| Falkland Islands | `fk.mbtiles` | 8 MB | 1 November 2026 |
 
 The app reads its list of areas from `packs.json` in this repository (on the `main` branch), which points at the
 release files here.
