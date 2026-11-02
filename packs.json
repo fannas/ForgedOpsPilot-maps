@@ -1056,6 +1056,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/pl-20261101/pl.mbtiles"
  },
  {
+  "id": "pt",
+  "name": "Portugal",
+  "region": "Southern Europe",
+  "file": "pt.mbtiles",
+  "size": 222478336,
+  "edition": "20261101",
+  "bounds": [
+   -9.6,
+   36.9,
+   -6.1,
+   42.2
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/pt-20261101/pt.mbtiles"
+ },
+ {
   "id": "qa",
   "name": "Qatar and Bahrain",
   "region": "Middle East",
