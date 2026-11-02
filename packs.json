@@ -448,6 +448,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/et-20261101/et.mbtiles"
  },
  {
+  "id": "fo",
+  "name": "Faroe Islands",
+  "region": "Northern Europe",
+  "file": "fo.mbtiles",
+  "size": 6844416,
+  "edition": "20261101",
+  "bounds": [
+   -7.9,
+   61.3,
+   -6.1,
+   62.5
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/fo-20261101/fo.mbtiles"
+ },
+ {
   "id": "fi-n",
   "name": "Finland north",
   "region": "Northern Europe",
