@@ -3552,6 +3552,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/uy-20261101/uy.mbtiles"
  },
  {
+  "id": "uz-tm",
+  "name": "Uzbekistan and Turkmenistan",
+  "region": "Caucasus and Central Asia",
+  "file": "uz-tm.mbtiles",
+  "size": 273391616,
+  "edition": "20261101",
+  "bounds": [
+   52.4,
+   35.1,
+   73.2,
+   45.7
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/uz-tm-20261101/uz-tm.mbtiles"
+ },
+ {
   "id": "ve",
   "name": "Venezuela",
   "region": "South America",
