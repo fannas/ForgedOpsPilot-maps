@@ -2240,6 +2240,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/ae-20261101/ae.mbtiles"
  },
  {
+  "id": "ve",
+  "name": "Venezuela",
+  "region": "South America",
+  "file": "ve.mbtiles",
+  "size": 185278464,
+  "edition": "20261101",
+  "bounds": [
+   -73.4,
+   0.6,
+   -59.8,
+   12.3
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/ve-20261101/ve.mbtiles"
+ },
+ {
   "id": "us-nw",
   "name": "Washington and Oregon",
   "region": "United States",
