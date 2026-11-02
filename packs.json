@@ -2432,6 +2432,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/ro-md-20261101/ro-md.mbtiles"
  },
  {
+  "id": "ru-fe-n",
+  "name": "Russia Far East north (Yakutsk, Yakutia east, Kolyma, Chukotka)",
+  "region": "Russia",
+  "file": "ru-fe-n.mbtiles",
+  "size": 199905280,
+  "edition": "20261101",
+  "bounds": [
+   119.9,
+   59.9,
+   180.0,
+   71.7
+  ],
+  "maxzoom": 12,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/ru-fe-n-20261101/ru-fe-n.mbtiles"
+ },
+ {
   "id": "ru-fe-s",
   "name": "Russia Far East south (Blagoveshchensk, Khabarovsk, Vladivostok, Sakhalin)",
   "region": "Russia",
