@@ -432,6 +432,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/td-20261101/td.mbtiles"
  },
  {
+  "id": "co",
+  "name": "Colombia",
+  "region": "South America",
+  "file": "co.mbtiles",
+  "size": 339660800,
+  "edition": "20261101",
+  "bounds": [
+   -82.0,
+   -4.3,
+   -66.8,
+   13.5
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/co-20261101/co.mbtiles"
+ },
+ {
   "id": "km",
   "name": "Comoros and Mayotte",
   "file": "km.mbtiles",
