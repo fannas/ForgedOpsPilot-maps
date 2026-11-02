@@ -1808,6 +1808,22 @@
   "region": "Southern Africa"
  },
  {
+  "id": "mm",
+  "name": "Myanmar",
+  "region": "Southeast Asia",
+  "file": "mm.mbtiles",
+  "size": 384888832,
+  "edition": "20261101",
+  "bounds": [
+   92.1,
+   9.5,
+   101.2,
+   28.6
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/mm-20261101/mm.mbtiles"
+ },
+ {
   "id": "na",
   "name": "Namibia",
   "file": "na.mbtiles",
