@@ -80,6 +80,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/ar-n-20261101/ar-n.mbtiles"
  },
  {
+  "id": "us-sw",
+  "name": "Arizona, New Mexico and Nevada",
+  "region": "United States",
+  "file": "us-sw.mbtiles",
+  "size": 597856256,
+  "edition": "20261101",
+  "bounds": [
+   -120.0,
+   31.3,
+   -103.0,
+   42.0
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/us-sw-20261101/us-sw.mbtiles"
+ },
+ {
   "id": "at",
   "name": "Austria",
   "region": "Western Europe",
