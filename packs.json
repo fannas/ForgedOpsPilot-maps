@@ -1040,6 +1040,22 @@
   "region": "Southern Africa"
  },
  {
+  "id": "us-ny",
+  "name": "New York, New Jersey and Pennsylvania",
+  "region": "United States",
+  "file": "us-ny.mbtiles",
+  "size": 620716032,
+  "edition": "20261101",
+  "bounds": [
+   -80.6,
+   38.9,
+   -71.7,
+   45.1
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/us-ny-20261101/us-ny.mbtiles"
+ },
+ {
   "id": "ne",
   "name": "Niger",
   "region": "West Africa",
