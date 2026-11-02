@@ -1,5 +1,21 @@
 [
  {
+  "id": "us-so",
+  "name": "Alabama, Mississippi, Tennessee and Kentucky",
+  "region": "United States",
+  "file": "us-so.mbtiles",
+  "size": 682663936,
+  "edition": "20261101",
+  "bounds": [
+   -91.7,
+   30.1,
+   -81.6,
+   39.2
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/us-so-20261101/us-so.mbtiles"
+ },
+ {
   "id": "us-ak",
   "name": "Alaska",
   "region": "United States",
