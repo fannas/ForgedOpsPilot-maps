@@ -3072,6 +3072,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/us-tx-20261101/us-tx.mbtiles"
  },
  {
+  "id": "cn-xz",
+  "name": "Tibet (Lhasa)",
+  "region": "East Asia",
+  "file": "cn-xz.mbtiles",
+  "size": 398581760,
+  "edition": "20261101",
+  "bounds": [
+   78.3,
+   26.8,
+   99.2,
+   36.6
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/cn-xz-20261101/cn-xz.mbtiles"
+ },
+ {
   "id": "tg",
   "name": "Togo",
   "region": "West Africa",
