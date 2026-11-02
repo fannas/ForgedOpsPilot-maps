@@ -1952,6 +1952,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/ca-on-20261101/ca-on.mbtiles"
  },
  {
+  "id": "pk",
+  "name": "Pakistan",
+  "region": "South Asia",
+  "file": "pk.mbtiles",
+  "size": 466714624,
+  "edition": "20261101",
+  "bounds": [
+   60.8,
+   23.6,
+   77.9,
+   37.1
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/pk-20261101/pk.mbtiles"
+ },
+ {
   "id": "py",
   "name": "Paraguay",
   "region": "South America",
