@@ -2272,6 +2272,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/ru-s-20261101/ru-s.mbtiles"
  },
  {
+  "id": "ru-ws-s",
+  "name": "Russia west Siberia south (Omsk, Novosibirsk, Tomsk, Kemerovo, Barnaul, Altai)",
+  "region": "Russia",
+  "file": "ru-ws-s.mbtiles",
+  "size": 475435008,
+  "edition": "20261101",
+  "bounds": [
+   69.9,
+   49.1,
+   90.0,
+   60.0
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/ru-ws-s-20261101/ru-ws-s.mbtiles"
+ },
+ {
   "id": "rw",
   "name": "Rwanda",
   "region": "East Africa",
