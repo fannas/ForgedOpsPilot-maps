@@ -624,6 +624,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/cg-20261101/cg.mbtiles"
  },
  {
+  "id": "cr",
+  "name": "Costa Rica and Panama",
+  "region": "Central America and the Caribbean",
+  "file": "cr.mbtiles",
+  "size": 59191296,
+  "edition": "20261101",
+  "bounds": [
+   -86.0,
+   7.1,
+   -77.1,
+   11.3
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/cr-20261101/cr.mbtiles"
+ },
+ {
   "id": "cy",
   "name": "Cyprus",
   "region": "Middle East",
