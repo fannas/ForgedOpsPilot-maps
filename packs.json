@@ -2400,6 +2400,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/tg-20261101/tg.mbtiles"
  },
  {
+  "id": "tt",
+  "name": "Trinidad and Tobago",
+  "region": "Central America and the Caribbean",
+  "file": "tt.mbtiles",
+  "size": 5795840,
+  "edition": "20261101",
+  "bounds": [
+   -62.0,
+   10.0,
+   -60.4,
+   11.4
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/tt-20261101/tt.mbtiles"
+ },
+ {
   "id": "tn",
   "name": "Tunisia",
   "region": "North Africa",
