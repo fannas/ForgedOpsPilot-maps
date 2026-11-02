@@ -1008,6 +1008,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/sd-20261101/sd.mbtiles"
  },
  {
+  "id": "se-n",
+  "name": "Sweden north",
+  "region": "Northern Europe",
+  "file": "se-n.mbtiles",
+  "size": 1005191168,
+  "edition": "20261101",
+  "bounds": [
+   11.8,
+   60.9,
+   24.2,
+   69.1
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/se-n-20261101/se-n.mbtiles"
+ },
+ {
   "id": "sy",
   "name": "Syria",
   "region": "Middle East",
