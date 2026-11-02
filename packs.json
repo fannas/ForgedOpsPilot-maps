@@ -3120,6 +3120,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/sd-20261101/sd.mbtiles"
  },
  {
+  "id": "id-su",
+  "name": "Sumatra",
+  "region": "Southeast Asia",
+  "file": "id-su.mbtiles",
+  "size": 170827776,
+  "edition": "20261101",
+  "bounds": [
+   94.9,
+   -6.0,
+   106.3,
+   6.1
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/id-su-20261101/id-su.mbtiles"
+ },
+ {
   "id": "sj",
   "name": "Svalbard, Bear Island and Jan Mayen",
   "region": "Northern Europe",
