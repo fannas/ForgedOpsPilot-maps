@@ -2528,6 +2528,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/pe-20261101/pe.mbtiles"
  },
  {
+  "id": "ph",
+  "name": "Philippines",
+  "region": "Southeast Asia",
+  "file": "ph.mbtiles",
+  "size": 190283776,
+  "edition": "20261101",
+  "bounds": [
+   116.9,
+   4.5,
+   126.7,
+   21.2
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/ph-20261101/ph.mbtiles"
+ },
+ {
   "id": "pl",
   "name": "Poland",
   "region": "Eastern Europe and the Balkans",
