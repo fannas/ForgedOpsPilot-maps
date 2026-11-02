@@ -464,6 +464,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/td-20261101/td.mbtiles"
  },
  {
+  "id": "cl-s",
+  "name": "Chile south",
+  "region": "South America",
+  "file": "cl-s.mbtiles",
+  "size": 256131072,
+  "edition": "20261101",
+  "bounds": [
+   -76.0,
+   -56.1,
+   -66.4,
+   -35.9
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/cl-s-20261101/cl-s.mbtiles"
+ },
+ {
   "id": "co",
   "name": "Colombia",
   "region": "South America",
