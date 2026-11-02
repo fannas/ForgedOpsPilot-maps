@@ -736,6 +736,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/dj-20261101/dj.mbtiles"
  },
  {
+  "id": "ec",
+  "name": "Ecuador and the Gal\u00e1pagos",
+  "region": "South America",
+  "file": "ec.mbtiles",
+  "size": 94392320,
+  "edition": "20261101",
+  "bounds": [
+   -92.1,
+   -5.1,
+   -75.1,
+   1.7
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/ec-20261101/ec.mbtiles"
+ },
+ {
   "id": "eg",
   "name": "Egypt",
   "region": "North Africa",
