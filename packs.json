@@ -992,6 +992,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/sl-20261101/sl.mbtiles"
  },
  {
+  "id": "si-hr",
+  "name": "Slovenia and Croatia",
+  "region": "Eastern Europe and the Balkans",
+  "file": "si-hr.mbtiles",
+  "size": 588791808,
+  "edition": "20261101",
+  "bounds": [
+   13.3,
+   42.3,
+   19.5,
+   46.9
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/si-hr-20261101/si-hr.mbtiles"
+ },
+ {
   "id": "so",
   "name": "Somalia",
   "region": "East Africa",
