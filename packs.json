@@ -1168,6 +1168,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/qa-20261101/qa.mbtiles"
  },
  {
+  "id": "ca-qc",
+  "name": "Quebec",
+  "region": "North America",
+  "file": "ca-qc.mbtiles",
+  "size": 1384562688,
+  "edition": "20261101",
+  "bounds": [
+   -79.8,
+   44.9,
+   -57.1,
+   62.6
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/ca-qc-20261101/ca-qc.mbtiles"
+ },
+ {
   "id": "ro-md",
   "name": "Romania and Moldova",
   "region": "Eastern Europe and the Balkans",
