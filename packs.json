@@ -1344,6 +1344,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/ug-20261101/ug.mbtiles"
  },
  {
+  "id": "ua-e",
+  "name": "Ukraine east and Crimea",
+  "region": "Eastern Europe and the Balkans",
+  "file": "ua-e.mbtiles",
+  "size": 591421440,
+  "edition": "20261101",
+  "bounds": [
+   31.3,
+   44.3,
+   40.3,
+   52.5
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/ua-e-20261101/ua-e.mbtiles"
+ },
+ {
   "id": "ua-w",
   "name": "Ukraine west",
   "region": "Eastern Europe and the Balkans",
