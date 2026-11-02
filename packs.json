@@ -2256,6 +2256,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/pk-20261101/pk.mbtiles"
  },
  {
+  "id": "pg",
+  "name": "Papua New Guinea and the Solomon Islands",
+  "region": "Australia and the Pacific",
+  "file": "pg.mbtiles",
+  "size": 79900672,
+  "edition": "20261101",
+  "bounds": [
+   140.8,
+   -12.4,
+   162.5,
+   -1.0
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/pg-20261101/pg.mbtiles"
+ },
+ {
   "id": "py",
   "name": "Paraguay",
   "region": "South America",
