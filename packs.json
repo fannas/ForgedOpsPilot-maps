@@ -720,6 +720,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/cn-ne-20261101/cn-ne.mbtiles"
  },
  {
+  "id": "cn-s",
+  "name": "China south (Guangdong, Hong Kong, Macau, Guangxi, Hainan)",
+  "region": "East Asia",
+  "file": "cn-s.mbtiles",
+  "size": 338784256,
+  "edition": "20261101",
+  "bounds": [
+   104.3,
+   18.1,
+   117.4,
+   26.4
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/cn-s-20261101/cn-s.mbtiles"
+ },
+ {
   "id": "co",
   "name": "Colombia",
   "region": "South America",
