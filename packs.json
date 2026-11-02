@@ -2624,6 +2624,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/rw-20261101/rw.mbtiles"
  },
  {
+  "id": "ws",
+  "name": "Samoa, American Samoa, Tonga, Wallis and Futuna, Niue, Tokelau, the Cook Islands and Kiribati east",
+  "region": "Australia and the Pacific",
+  "file": "ws.mbtiles",
+  "size": 27111424,
+  "edition": "20261101",
+  "bounds": [
+   -180.0,
+   -22.5,
+   -157.0,
+   5.0
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/ws-20261101/ws.mbtiles"
+ },
+ {
   "id": "sa",
   "name": "Saudi Arabia",
   "region": "Middle East",
