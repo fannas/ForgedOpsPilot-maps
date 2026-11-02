@@ -672,6 +672,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/cn-c-20261101/cn-c.mbtiles"
  },
  {
+  "id": "cn-e",
+  "name": "China east (Shanghai, Jiangsu, Zhejiang, Anhui, Fujian)",
+  "region": "East Asia",
+  "file": "cn-e.mbtiles",
+  "size": 423231488,
+  "edition": "20261101",
+  "bounds": [
+   114.8,
+   23.5,
+   123.0,
+   35.2
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/cn-e-20261101/cn-e.mbtiles"
+ },
+ {
   "id": "cn-n",
   "name": "China north (Beijing, Tianjin, Hebei, Shanxi, Shandong, Henan, Inner Mongolia centre)",
   "region": "East Asia",
