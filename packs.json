@@ -1408,6 +1408,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/jo-20261101/jo.mbtiles"
  },
  {
+  "id": "ru-kg",
+  "name": "Kaliningrad",
+  "region": "Russia",
+  "file": "ru-kg.mbtiles",
+  "size": 93409280,
+  "edition": "20261101",
+  "bounds": [
+   19.6,
+   54.3,
+   22.9,
+   55.3
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/ru-kg-20261101/ru-kg.mbtiles"
+ },
+ {
   "id": "ke",
   "name": "Kenya",
   "region": "East Africa",
