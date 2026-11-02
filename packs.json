@@ -1888,6 +1888,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/us-pl-20261101/us-pl.mbtiles"
  },
  {
+  "id": "kp",
+  "name": "North Korea",
+  "region": "East Asia",
+  "file": "kp.mbtiles",
+  "size": 140193792,
+  "edition": "20261101",
+  "bounds": [
+   124.1,
+   37.6,
+   130.8,
+   43.1
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/kp-20261101/kp.mbtiles"
+ },
+ {
   "id": "ca-nt",
   "name": "Northwest Territories",
   "region": "North America",
