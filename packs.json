@@ -16,6 +16,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/us-ak-20261101/us-ak.mbtiles"
  },
  {
+  "id": "ca-pr",
+  "name": "Alberta, Saskatchewan and Manitoba",
+  "region": "North America",
+  "file": "ca-pr.mbtiles",
+  "size": 997560320,
+  "edition": "20261101",
+  "bounds": [
+   -120.1,
+   48.9,
+   -88.9,
+   60.1
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/ca-pr-20261101/ca-pr.mbtiles"
+ },
+ {
   "id": "dz",
   "name": "Algeria",
   "region": "North Africa",
