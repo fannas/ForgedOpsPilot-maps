@@ -1552,6 +1552,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/jm-20261101/jm.mbtiles"
  },
  {
+  "id": "jp-e",
+  "name": "Japan east (Tokyo, Yokohama, Chiba, Saitama, Niigata, Nagano, Shizuoka, Mount Fuji)",
+  "region": "East Asia",
+  "file": "jp-e.mbtiles",
+  "size": 205365248,
+  "edition": "20261101",
+  "bounds": [
+   137.3,
+   33.0,
+   141.0,
+   38.1
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/jp-e-20261101/jp-e.mbtiles"
+ },
+ {
   "id": "jp-n",
   "name": "Japan north (Hokkaido, Sapporo, Tohoku, Sendai)",
   "region": "East Asia",
