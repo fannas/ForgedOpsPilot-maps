@@ -1264,6 +1264,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/gl-20261101/gl.mbtiles"
  },
  {
+  "id": "gu",
+  "name": "Guam, Northern Marianas, Palau, Micronesia, Marshall Islands, Nauru and Kiribati west",
+  "region": "Australia and the Pacific",
+  "file": "gu.mbtiles",
+  "size": 61743104,
+  "edition": "20261101",
+  "bounds": [
+   131.0,
+   -3.0,
+   177.5,
+   20.6
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/gu-20261101/gu.mbtiles"
+ },
+ {
   "id": "gt",
   "name": "Guatemala and Belize",
   "region": "Central America and the Caribbean",
