@@ -1952,6 +1952,22 @@
   "region": "Southern Africa"
  },
  {
+  "id": "my",
+  "name": "Malaysia, Singapore and Brunei",
+  "region": "Southeast Asia",
+  "file": "my.mbtiles",
+  "size": 148418560,
+  "edition": "20261101",
+  "bounds": [
+   99.6,
+   0.8,
+   119.3,
+   7.4
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/my-20261101/my.mbtiles"
+ },
+ {
   "id": "ml",
   "name": "Mali",
   "region": "West Africa",
