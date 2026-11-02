@@ -352,6 +352,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/et-20261101/et.mbtiles"
  },
  {
+  "id": "fr-n",
+  "name": "France north",
+  "region": "Western Europe",
+  "file": "fr-n.mbtiles",
+  "size": 1474719744,
+  "edition": "20261101",
+  "bounds": [
+   -5.3,
+   46.4,
+   8.3,
+   51.2
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/fr-n-20261101/fr-n.mbtiles"
+ },
+ {
   "id": "ga",
   "name": "Gabon",
   "region": "Central Africa",
