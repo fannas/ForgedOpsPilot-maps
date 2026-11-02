@@ -2144,6 +2144,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/ro-md-20261101/ro-md.mbtiles"
  },
  {
+  "id": "ru-n",
+  "name": "Russia north (Arkhangelsk, Komi, Nenets)",
+  "region": "Russia",
+  "file": "ru-n.mbtiles",
+  "size": 521670656,
+  "edition": "20261101",
+  "bounds": [
+   39.9,
+   58.0,
+   60.0,
+   70.1
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/ru-n-20261101/ru-n.mbtiles"
+ },
+ {
   "id": "ru-nw",
   "name": "Russia northwest (St Petersburg, Pskov, Novgorod, Karelia, Murmansk)",
   "region": "Russia",
