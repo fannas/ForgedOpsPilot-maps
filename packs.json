@@ -1,5 +1,21 @@
 [
  {
+  "id": "af",
+  "name": "Afghanistan",
+  "region": "South Asia",
+  "file": "af.mbtiles",
+  "size": 252174336,
+  "edition": "20261101",
+  "bounds": [
+   60.4,
+   29.3,
+   75.0,
+   38.5
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/af-20261101/af.mbtiles"
+ },
+ {
   "id": "us-so",
   "name": "Alabama, Mississippi, Tennessee and Kentucky",
   "region": "United States",
