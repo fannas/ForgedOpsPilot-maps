@@ -1168,6 +1168,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/fr-s-20261101/fr-s.mbtiles"
  },
  {
+  "id": "pf",
+  "name": "French Polynesia (Tahiti)",
+  "region": "Australia and the Pacific",
+  "file": "pf.mbtiles",
+  "size": 23269376,
+  "edition": "20261101",
+  "bounds": [
+   -154.8,
+   -28.0,
+   -134.0,
+   -7.5
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/pf-20261101/pf.mbtiles"
+ },
+ {
   "id": "ga",
   "name": "Gabon",
   "region": "Central Africa",
