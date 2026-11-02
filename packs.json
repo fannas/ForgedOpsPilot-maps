@@ -1248,6 +1248,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/ca-at-20261101/ca-at.mbtiles"
  },
  {
+  "id": "us-ne",
+  "name": "New England",
+  "region": "United States",
+  "file": "us-ne.mbtiles",
+  "size": 358211584,
+  "edition": "20261101",
+  "bounds": [
+   -73.8,
+   40.9,
+   -66.9,
+   47.5
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/us-ne-20261101/us-ne.mbtiles"
+ },
+ {
   "id": "us-ny",
   "name": "New York, New Jersey and Pennsylvania",
   "region": "United States",
