@@ -1728,6 +1728,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/ca-on-20261101/ca-on.mbtiles"
  },
  {
+  "id": "py",
+  "name": "Paraguay",
+  "region": "South America",
+  "file": "py.mbtiles",
+  "size": 129171456,
+  "edition": "20261101",
+  "bounds": [
+   -62.7,
+   -27.7,
+   -54.2,
+   -19.2
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/py-20261101/py.mbtiles"
+ },
+ {
   "id": "pe",
   "name": "Peru",
   "region": "South America",
