@@ -1024,6 +1024,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/gl-20261101/gl.mbtiles"
  },
  {
+  "id": "gt",
+  "name": "Guatemala and Belize",
+  "region": "Central America and the Caribbean",
+  "file": "gt.mbtiles",
+  "size": 90324992,
+  "edition": "20261101",
+  "bounds": [
+   -92.3,
+   13.7,
+   -87.5,
+   18.6
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/gt-20261101/gt.mbtiles"
+ },
+ {
   "id": "gn",
   "name": "Guinea",
   "region": "West Africa",
