@@ -1248,6 +1248,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/ng-20261101/ng.mbtiles"
  },
  {
+  "id": "ca-nt",
+  "name": "Northwest Territories",
+  "region": "North America",
+  "file": "ca-nt.mbtiles",
+  "size": 565624832,
+  "edition": "20261101",
+  "bounds": [
+   -136.5,
+   60.0,
+   -102.0,
+   78.9
+  ],
+  "maxzoom": 12,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/ca-nt-20261101/ca-nt.mbtiles"
+ },
+ {
   "id": "no-n",
   "name": "Norway north",
   "region": "Northern Europe",
