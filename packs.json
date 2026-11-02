@@ -656,6 +656,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/cl-s-20261101/cl-s.mbtiles"
  },
  {
+  "id": "cn-c",
+  "name": "China central (Hubei, Wuhan, Hunan, Jiangxi)",
+  "region": "East Asia",
+  "file": "cn-c.mbtiles",
+  "size": 388538368,
+  "edition": "20261101",
+  "bounds": [
+   108.3,
+   24.4,
+   118.5,
+   33.4
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/cn-c-20261101/cn-c.mbtiles"
+ },
+ {
   "id": "cn-n",
   "name": "China north (Beijing, Tianjin, Hebei, Shanxi, Shandong, Henan, Inner Mongolia centre)",
   "region": "East Asia",
