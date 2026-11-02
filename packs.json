@@ -48,6 +48,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/at-20261101/at.mbtiles"
  },
  {
+  "id": "az",
+  "name": "Azores",
+  "region": "Southern Europe",
+  "file": "az.mbtiles",
+  "size": 8036352,
+  "edition": "20261101",
+  "bounds": [
+   -31.4,
+   36.8,
+   -24.9,
+   39.9
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/az-20261101/az.mbtiles"
+ },
+ {
   "id": "bj",
   "name": "Benin",
   "region": "West Africa",
