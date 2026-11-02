@@ -1408,6 +1408,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/in-n-20261101/in-n.mbtiles"
  },
  {
+  "id": "in-s",
+  "name": "India south (Mumbai, Goa, Karnataka, Kerala, Tamil Nadu, Andhra Pradesh, Telangana, Odisha, Chhattisgarh)",
+  "region": "South Asia",
+  "file": "in-s.mbtiles",
+  "size": 474886144,
+  "edition": "20261101",
+  "bounds": [
+   71.6,
+   7.9,
+   87.6,
+   22.3
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/in-s-20261101/in-s.mbtiles"
+ },
+ {
   "id": "ir",
   "name": "Iran",
   "region": "Middle East",
