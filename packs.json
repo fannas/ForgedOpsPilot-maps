@@ -208,6 +208,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/br-cw-20261101/br-cw.mbtiles"
  },
  {
+  "id": "br-n",
+  "name": "Brazil north (Amazon)",
+  "region": "South America",
+  "file": "br-n.mbtiles",
+  "size": 420786176,
+  "edition": "20261101",
+  "bounds": [
+   -74.0,
+   -13.7,
+   -46.0,
+   5.3
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/br-n-20261101/br-n.mbtiles"
+ },
+ {
   "id": "br-se",
   "name": "Brazil southeast",
   "region": "South America",
