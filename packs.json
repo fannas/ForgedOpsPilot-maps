@@ -400,6 +400,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/ga-20261101/ga.mbtiles"
  },
  {
+  "id": "de-n",
+  "name": "Germany north",
+  "region": "Western Europe",
+  "file": "de-n.mbtiles",
+  "size": 1019936768,
+  "edition": "20261101",
+  "bounds": [
+   5.8,
+   50.9,
+   15.1,
+   55.1
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/de-n-20261101/de-n.mbtiles"
+ },
+ {
   "id": "de-s",
   "name": "Germany south",
   "region": "Western Europe",
