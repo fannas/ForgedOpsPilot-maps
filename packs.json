@@ -144,6 +144,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/us-sw-20261101/us-sw.mbtiles"
  },
  {
+  "id": "abc",
+  "name": "Aruba, Cura\u00e7ao and Bonaire",
+  "region": "Central America and the Caribbean",
+  "file": "abc.mbtiles",
+  "size": 5423104,
+  "edition": "20261101",
+  "bounds": [
+   -70.2,
+   11.9,
+   -68.1,
+   12.7
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/abc-20261101/abc.mbtiles"
+ },
+ {
   "id": "at",
   "name": "Austria",
   "region": "Western Europe",
