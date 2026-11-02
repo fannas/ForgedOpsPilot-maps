@@ -1408,6 +1408,22 @@
   "region": "Southern Africa"
  },
  {
+  "id": "us-se",
+  "name": "South Carolina, Georgia and Florida",
+  "region": "United States",
+  "file": "us-se.mbtiles",
+  "size": 614043648,
+  "edition": "20261101",
+  "bounds": [
+   -87.7,
+   24.4,
+   -78.4,
+   35.3
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/us-se-20261101/us-se.mbtiles"
+ },
+ {
   "id": "ss",
   "name": "South Sudan",
   "region": "East Africa",
