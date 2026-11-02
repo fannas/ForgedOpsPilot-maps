@@ -1296,6 +1296,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/se-n-20261101/se-n.mbtiles"
  },
  {
+  "id": "se-s",
+  "name": "Sweden south",
+  "region": "Northern Europe",
+  "file": "se-s.mbtiles",
+  "size": 598769664,
+  "edition": "20261101",
+  "bounds": [
+   10.8,
+   55.2,
+   20.0,
+   61.1
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/se-s-20261101/se-s.mbtiles"
+ },
+ {
   "id": "ch",
   "name": "Switzerland and Liechtenstein",
   "region": "Western Europe",
