@@ -928,6 +928,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/is-20261101/is.mbtiles"
  },
  {
+  "id": "us-il",
+  "name": "Illinois and Wisconsin",
+  "region": "United States",
+  "file": "us-il.mbtiles",
+  "size": 452214784,
+  "edition": "20261101",
+  "bounds": [
+   -92.9,
+   36.9,
+   -86.2,
+   47.2
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/us-il-20261101/us-il.mbtiles"
+ },
+ {
   "id": "ir",
   "name": "Iran",
   "region": "Middle East",
