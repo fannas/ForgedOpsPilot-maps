@@ -2352,6 +2352,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/ae-20261101/ae.mbtiles"
  },
  {
+  "id": "uy",
+  "name": "Uruguay",
+  "region": "South America",
+  "file": "uy.mbtiles",
+  "size": 70438912,
+  "edition": "20261101",
+  "bounds": [
+   -58.5,
+   -35.1,
+   -53.0,
+   -30.0
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/uy-20261101/uy.mbtiles"
+ },
+ {
   "id": "ve",
   "name": "Venezuela",
   "region": "South America",
