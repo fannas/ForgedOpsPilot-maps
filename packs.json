@@ -1152,6 +1152,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/ly-20261101/ly.mbtiles"
  },
  {
+  "id": "us-la",
+  "name": "Louisiana, Arkansas and Oklahoma",
+  "region": "United States",
+  "file": "us-la.mbtiles",
+  "size": 449949696,
+  "edition": "20261101",
+  "bounds": [
+   -103.1,
+   28.9,
+   -88.7,
+   37.1
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/us-la-20261101/us-la.mbtiles"
+ },
+ {
   "id": "mg",
   "name": "Madagascar",
   "file": "mg.mbtiles",
