@@ -144,6 +144,22 @@
   "region": "Southern Africa"
  },
  {
+  "id": "br-cw",
+  "name": "Brazil centre-west",
+  "region": "South America",
+  "file": "br-cw.mbtiles",
+  "size": 461369344,
+  "edition": "20261101",
+  "bounds": [
+   -61.7,
+   -24.1,
+   -45.9,
+   -7.3
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/br-cw-20261101/br-cw.mbtiles"
+ },
+ {
   "id": "br-se",
   "name": "Brazil southeast",
   "region": "South America",
