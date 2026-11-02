@@ -240,6 +240,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/br-ne-20261101/br-ne.mbtiles"
  },
  {
+  "id": "br-s",
+  "name": "Brazil south",
+  "region": "South America",
+  "file": "br-s.mbtiles",
+  "size": 352841728,
+  "edition": "20261101",
+  "bounds": [
+   -57.7,
+   -33.8,
+   -48.0,
+   -22.5
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/br-s-20261101/br-s.mbtiles"
+ },
+ {
   "id": "br-se",
   "name": "Brazil southeast",
   "region": "South America",
