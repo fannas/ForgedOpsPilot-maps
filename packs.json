@@ -928,6 +928,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/ss-20261101/ss.mbtiles"
  },
  {
+  "id": "es",
+  "name": "Spain, Gibraltar, Andorra and the Balearic Islands",
+  "region": "Southern Europe",
+  "file": "es.mbtiles",
+  "size": 1007181824,
+  "edition": "20261101",
+  "bounds": [
+   -9.5,
+   35.8,
+   4.5,
+   43.9
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/es-20261101/es.mbtiles"
+ },
+ {
   "id": "sh",
   "name": "St Helena, Ascension and Tristan da Cunha",
   "region": "Atlantic islands",
