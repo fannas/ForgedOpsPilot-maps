@@ -752,6 +752,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/cn-s-20261101/cn-s.mbtiles"
  },
  {
+  "id": "cx",
+  "name": "Christmas Island and the Cocos (Keeling) Islands",
+  "region": "Southeast Asia",
+  "file": "cx.mbtiles",
+  "size": 1433600,
+  "edition": "20261101",
+  "bounds": [
+   96.5,
+   -12.4,
+   106.0,
+   -10.2
+  ],
+  "maxzoom": 12,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/cx-20261101/cx.mbtiles"
+ },
+ {
   "id": "ru-fe-e",
   "name": "Chukotka east of 180\u00b0",
   "region": "Russia",
