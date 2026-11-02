@@ -2304,6 +2304,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/ru-s-20261101/ru-s.mbtiles"
  },
  {
+  "id": "ru-ws-n",
+  "name": "Russia west Siberia north (Khanty-Mansi, Yamal, Norilsk)",
+  "region": "Russia",
+  "file": "ru-ws-n.mbtiles",
+  "size": 163196928,
+  "edition": "20261101",
+  "bounds": [
+   59.9,
+   59.9,
+   90.0,
+   73.6
+  ],
+  "maxzoom": 12,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/ru-ws-n-20261101/ru-ws-n.mbtiles"
+ },
+ {
   "id": "ru-ws-s",
   "name": "Russia west Siberia south (Omsk, Novosibirsk, Tomsk, Kemerovo, Barnaul, Altai)",
   "region": "Russia",
