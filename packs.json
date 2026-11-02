@@ -720,6 +720,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/iq-20261101/iq.mbtiles"
  },
  {
+  "id": "ie",
+  "name": "Ireland and Northern Ireland",
+  "region": "British Isles",
+  "file": "ie.mbtiles",
+  "size": 167301120,
+  "edition": "20261101",
+  "bounds": [
+   -10.8,
+   51.3,
+   -5.2,
+   55.5
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/ie-20261101/ie.mbtiles"
+ },
+ {
   "id": "il",
   "name": "Israel and the Palestinian territories",
   "region": "Middle East",
