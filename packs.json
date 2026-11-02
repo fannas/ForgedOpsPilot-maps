@@ -2288,6 +2288,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/sd-20261101/sd.mbtiles"
  },
  {
+  "id": "sj",
+  "name": "Svalbard, Bear Island and Jan Mayen",
+  "region": "Northern Europe",
+  "file": "sj.mbtiles",
+  "size": 36614144,
+  "edition": "20261101",
+  "bounds": [
+   -9.5,
+   70.7,
+   36.0,
+   81.0
+  ],
+  "maxzoom": 11,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/sj-20261101/sj.mbtiles"
+ },
+ {
   "id": "se-n",
   "name": "Sweden north",
   "region": "Northern Europe",
