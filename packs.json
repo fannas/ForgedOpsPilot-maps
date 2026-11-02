@@ -384,6 +384,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/us-can-20261101/us-can.mbtiles"
  },
  {
+  "id": "us-cas",
+  "name": "California south",
+  "region": "United States",
+  "file": "us-cas.mbtiles",
+  "size": 118796288,
+  "edition": "20261101",
+  "bounds": [
+   -121.6,
+   32.5,
+   -114.1,
+   36.1
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/us-cas-20261101/us-cas.mbtiles"
+ },
+ {
   "id": "cm",
   "name": "Cameroon",
   "region": "Central Africa",
