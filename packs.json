@@ -1872,6 +1872,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/kw-20261101/kw.mbtiles"
  },
  {
+  "id": "kg-tj",
+  "name": "Kyrgyzstan and Tajikistan",
+  "region": "Caucasus and Central Asia",
+  "file": "kg-tj.mbtiles",
+  "size": 212557824,
+  "edition": "20261101",
+  "bounds": [
+   67.3,
+   36.6,
+   80.3,
+   43.3
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/kg-tj-20261101/kg-tj.mbtiles"
+ },
+ {
   "id": "la-kh",
   "name": "Laos and Cambodia",
   "region": "Southeast Asia",
