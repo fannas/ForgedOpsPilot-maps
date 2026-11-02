@@ -2192,6 +2192,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/ng-20261101/ng.mbtiles"
  },
  {
+  "id": "nf",
+  "name": "Norfolk Island and Lord Howe Island",
+  "region": "Australia and the Pacific",
+  "file": "nf.mbtiles",
+  "size": 2289664,
+  "edition": "20261101",
+  "bounds": [
+   158.5,
+   -32.0,
+   168.5,
+   -28.5
+  ],
+  "maxzoom": 12,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/nf-20261101/nf.mbtiles"
+ },
+ {
   "id": "us-pl",
   "name": "North Dakota, South Dakota, Nebraska and Kansas",
   "region": "United States",
