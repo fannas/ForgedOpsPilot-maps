@@ -1136,6 +1136,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/gy-20261101/gy.mbtiles"
  },
  {
+  "id": "hisp",
+  "name": "Haiti and the Dominican Republic",
+  "region": "Central America and the Caribbean",
+  "file": "hisp.mbtiles",
+  "size": 31977472,
+  "edition": "20261101",
+  "bounds": [
+   -74.6,
+   17.4,
+   -68.2,
+   20.1
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/hisp-20261101/hisp.mbtiles"
+ },
+ {
   "id": "us-hi",
   "name": "Hawaii",
   "region": "United States",
