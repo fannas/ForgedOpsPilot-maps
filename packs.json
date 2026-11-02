@@ -752,6 +752,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/cn-s-20261101/cn-s.mbtiles"
  },
  {
+  "id": "ru-fe-e",
+  "name": "Chukotka east of 180\u00b0",
+  "region": "Russia",
+  "file": "ru-fe-e.mbtiles",
+  "size": 18583552,
+  "edition": "20261101",
+  "bounds": [
+   -180.0,
+   64.0,
+   -168.9,
+   71.6
+  ],
+  "maxzoom": 12,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/ru-fe-e-20261101/ru-fe-e.mbtiles"
+ },
+ {
   "id": "co",
   "name": "Colombia",
   "region": "South America",
