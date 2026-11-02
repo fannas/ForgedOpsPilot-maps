@@ -1,5 +1,21 @@
 [
  {
+  "id": "us-ak",
+  "name": "Alaska",
+  "region": "United States",
+  "file": "us-ak.mbtiles",
+  "size": 575627264,
+  "edition": "20261101",
+  "bounds": [
+   -180.0,
+   51.0,
+   -129.9,
+   71.5
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/us-ak-20261101/us-ak.mbtiles"
+ },
+ {
   "id": "dz",
   "name": "Algeria",
   "region": "North Africa",
