@@ -64,6 +64,22 @@
   "region": "Southern Africa"
  },
  {
+  "id": "ar-n",
+  "name": "Argentina north",
+  "region": "South America",
+  "file": "ar-n.mbtiles",
+  "size": 443805696,
+  "edition": "20261101",
+  "bounds": [
+   -73.6,
+   -36.0,
+   -53.6,
+   -21.7
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/ar-n-20261101/ar-n.mbtiles"
+ },
+ {
   "id": "at",
   "name": "Austria",
   "region": "Western Europe",
