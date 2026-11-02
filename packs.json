@@ -2544,6 +2544,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/eh-20261101/eh.mbtiles"
  },
  {
+  "id": "win",
+  "name": "Windward Islands and Barbados",
+  "region": "Central America and the Caribbean",
+  "file": "win.mbtiles",
+  "size": 8011776,
+  "edition": "20261101",
+  "bounds": [
+   -62.0,
+   11.9,
+   -59.3,
+   15.0
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/win-20261101/win.mbtiles"
+ },
+ {
   "id": "ye",
   "name": "Yemen and Socotra",
   "region": "Middle East",
