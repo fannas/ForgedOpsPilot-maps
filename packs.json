@@ -592,6 +592,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/gw-20261101/gw.mbtiles"
  },
  {
+  "id": "hu",
+  "name": "Hungary",
+  "region": "Eastern Europe and the Balkans",
+  "file": "hu.mbtiles",
+  "size": 428470272,
+  "edition": "20261101",
+  "bounds": [
+   16.0,
+   45.7,
+   23.0,
+   48.6
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/hu-20261101/hu.mbtiles"
+ },
+ {
   "id": "ir",
   "name": "Iran",
   "region": "Middle East",
