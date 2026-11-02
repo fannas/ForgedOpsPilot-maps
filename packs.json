@@ -640,6 +640,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/cl-s-20261101/cl-s.mbtiles"
  },
  {
+  "id": "cn-n",
+  "name": "China north (Beijing, Tianjin, Hebei, Shanxi, Shandong, Henan, Inner Mongolia centre)",
+  "region": "East Asia",
+  "file": "cn-n.mbtiles",
+  "size": 554692608,
+  "edition": "20261101",
+  "bounds": [
+   110.0,
+   31.3,
+   122.8,
+   46.7
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/cn-n-20261101/cn-n.mbtiles"
+ },
+ {
   "id": "co",
   "name": "Colombia",
   "region": "South America",
