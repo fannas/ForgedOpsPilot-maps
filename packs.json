@@ -400,6 +400,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/er-20261101/er.mbtiles"
  },
  {
+  "id": "baltics",
+  "name": "Estonia, Latvia and Lithuania",
+  "region": "Northern Europe",
+  "file": "baltics.mbtiles",
+  "size": 508878848,
+  "edition": "20261101",
+  "bounds": [
+   20.8,
+   53.8,
+   28.3,
+   59.8
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/baltics-20261101/baltics.mbtiles"
+ },
+ {
   "id": "et",
   "name": "Ethiopia",
   "region": "East Africa",
