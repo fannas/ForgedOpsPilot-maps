@@ -224,6 +224,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/bm-20261101/bm.mbtiles"
  },
  {
+  "id": "bo",
+  "name": "Bolivia",
+  "region": "South America",
+  "file": "bo.mbtiles",
+  "size": 209649664,
+  "edition": "20261101",
+  "bounds": [
+   -69.7,
+   -23.0,
+   -57.4,
+   -9.6
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/bo-20261101/bo.mbtiles"
+ },
+ {
   "id": "bw",
   "name": "Botswana",
   "file": "bw.mbtiles",
