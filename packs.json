@@ -1344,6 +1344,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/mx-n-20261101/mx-n.mbtiles"
  },
  {
+  "id": "mx-s",
+  "name": "Mexico south and Yucat\u00e1n",
+  "region": "North America",
+  "file": "mx-s.mbtiles",
+  "size": 291774464,
+  "edition": "20261101",
+  "bounds": [
+   -106.0,
+   14.5,
+   -86.7,
+   23.2
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/mx-s-20261101/mx-s.mbtiles"
+ },
+ {
   "id": "us-mn",
   "name": "Minnesota, Iowa and Missouri",
   "region": "United States",
