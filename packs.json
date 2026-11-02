@@ -1200,6 +1200,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/ga-20261101/ga.mbtiles"
  },
  {
+  "id": "cauc",
+  "name": "Georgia, Armenia and Azerbaijan",
+  "region": "Caucasus and Central Asia",
+  "file": "cauc.mbtiles",
+  "size": 255897600,
+  "edition": "20261101",
+  "bounds": [
+   39.9,
+   38.3,
+   50.5,
+   43.6
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/cauc-20261101/cauc.mbtiles"
+ },
+ {
   "id": "de-n",
   "name": "Germany north",
   "region": "Western Europe",
