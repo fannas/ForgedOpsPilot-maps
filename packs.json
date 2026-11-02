@@ -2304,6 +2304,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/ru-c-20261101/ru-c.mbtiles"
  },
  {
+  "id": "ru-es-s",
+  "name": "Russia east Siberia south (Krasnoyarsk, Irkutsk, Lake Baikal, Ulan-Ude, Chita)",
+  "region": "Russia",
+  "file": "ru-es-s.mbtiles",
+  "size": 300204032,
+  "edition": "20261101",
+  "bounds": [
+   89.9,
+   49.0,
+   120.0,
+   60.0
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/ru-es-s-20261101/ru-es-s.mbtiles"
+ },
+ {
   "id": "ru-n",
   "name": "Russia north (Arkhangelsk, Komi, Nenets)",
   "region": "Russia",
