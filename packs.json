@@ -2112,6 +2112,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/ro-md-20261101/ro-md.mbtiles"
  },
  {
+  "id": "ru-nw",
+  "name": "Russia northwest (St Petersburg, Pskov, Novgorod, Karelia, Murmansk)",
+  "region": "Russia",
+  "file": "ru-nw.mbtiles",
+  "size": 927952896,
+  "edition": "20261101",
+  "bounds": [
+   27.3,
+   57.0,
+   40.0,
+   70.1
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/ru-nw-20261101/ru-nw.mbtiles"
+ },
+ {
   "id": "rw",
   "name": "Rwanda",
   "region": "East Africa",
