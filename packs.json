@@ -1728,6 +1728,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/us-mn-20261101/us-mn.mbtiles"
  },
  {
+  "id": "mn",
+  "name": "Mongolia",
+  "region": "East Asia",
+  "file": "mn.mbtiles",
+  "size": 244830208,
+  "edition": "20261101",
+  "bounds": [
+   87.7,
+   41.5,
+   119.9,
+   52.2
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/mn-20261101/mn.mbtiles"
+ },
+ {
   "id": "us-mt",
   "name": "Montana, Wyoming, Idaho, Colorado and Utah",
   "region": "United States",
