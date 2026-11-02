@@ -2160,6 +2160,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/ro-md-20261101/ro-md.mbtiles"
  },
  {
+  "id": "ru-c",
+  "name": "Russia central (Moscow, Tver, Yaroslavl, Nizhny Novgorod, Voronezh, Kursk, Belgorod)",
+  "region": "Russia",
+  "file": "ru-c.mbtiles",
+  "size": 1049268224,
+  "edition": "20261101",
+  "bounds": [
+   30.0,
+   50.0,
+   47.0,
+   58.0
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/ru-c-20261101/ru-c.mbtiles"
+ },
+ {
   "id": "ru-n",
   "name": "Russia north (Arkhangelsk, Komi, Nenets)",
   "region": "Russia",
