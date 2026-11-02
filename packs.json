@@ -96,6 +96,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/dz-20261101/dz.mbtiles"
  },
  {
+  "id": "an",
+  "name": "Andaman and Nicobar Islands",
+  "region": "South Asia",
+  "file": "an.mbtiles",
+  "size": 6574080,
+  "edition": "20261101",
+  "bounds": [
+   91.9,
+   6.4,
+   94.3,
+   13.8
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/an-20261101/an.mbtiles"
+ },
+ {
   "id": "ao",
   "name": "Angola",
   "file": "ao.mbtiles",
