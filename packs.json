@@ -2624,6 +2624,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/ca-qc-20261101/ca-qc.mbtiles"
  },
  {
+  "id": "au-qld",
+  "name": "Queensland (Brisbane, Cairns, Townsville)",
+  "region": "Australia and the Pacific",
+  "file": "au-qld.mbtiles",
+  "size": 164675584,
+  "edition": "20261101",
+  "bounds": [
+   137.9,
+   -29.3,
+   153.7,
+   -9.9
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/au-qld-20261101/au-qld.mbtiles"
+ },
+ {
   "id": "ro-md",
   "name": "Romania and Moldova",
   "region": "Eastern Europe and the Balkans",
