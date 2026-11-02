@@ -832,6 +832,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/ng-20261101/ng.mbtiles"
  },
  {
+  "id": "no-n",
+  "name": "Norway north",
+  "region": "Northern Europe",
+  "file": "no-n.mbtiles",
+  "size": 834785280,
+  "edition": "20261101",
+  "bounds": [
+   10.0,
+   64.9,
+   31.3,
+   71.3
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/no-n-20261101/no-n.mbtiles"
+ },
+ {
   "id": "om",
   "name": "Oman",
   "region": "Middle East",
