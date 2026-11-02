@@ -960,6 +960,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/gr-20261101/gr.mbtiles"
  },
  {
+  "id": "gl",
+  "name": "Greenland",
+  "region": "North America",
+  "file": "gl.mbtiles",
+  "size": 164372480,
+  "edition": "20261101",
+  "bounds": [
+   -74.0,
+   59.7,
+   -10.0,
+   83.7
+  ],
+  "maxzoom": 11,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/gl-20261101/gl.mbtiles"
+ },
+ {
   "id": "gn",
   "name": "Guinea",
   "region": "West Africa",
