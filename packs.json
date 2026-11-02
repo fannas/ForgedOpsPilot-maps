@@ -1744,6 +1744,22 @@
   "region": "Southern Africa"
  },
  {
+  "id": "np",
+  "name": "Nepal and Bhutan",
+  "region": "South Asia",
+  "file": "np.mbtiles",
+  "size": 267948032,
+  "edition": "20261101",
+  "bounds": [
+   80.0,
+   26.3,
+   92.2,
+   30.5
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/np-20261101/np.mbtiles"
+ },
+ {
   "id": "ca-at",
   "name": "New Brunswick, Nova Scotia, Prince Edward Island, Newfoundland and Labrador",
   "region": "North America",
