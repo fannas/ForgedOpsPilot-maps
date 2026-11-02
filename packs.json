@@ -3088,6 +3088,22 @@
   "region": "Southern Africa"
  },
  {
+  "id": "au-sa",
+  "name": "South Australia (Adelaide)",
+  "region": "Australia and the Pacific",
+  "file": "au-sa.mbtiles",
+  "size": 71811072,
+  "edition": "20261101",
+  "bounds": [
+   128.9,
+   -38.2,
+   141.1,
+   -25.9
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/au-sa-20261101/au-sa.mbtiles"
+ },
+ {
   "id": "us-se",
   "name": "South Carolina, Georgia and Florida",
   "region": "United States",
