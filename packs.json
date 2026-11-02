@@ -1232,6 +1232,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/ca-nue-20261101/ca-nue.mbtiles"
  },
  {
+  "id": "ca-nuw",
+  "name": "Nunavut west (Kitikmeot and Kivalliq)",
+  "region": "North America",
+  "file": "ca-nuw.mbtiles",
+  "size": 683655168,
+  "edition": "20261101",
+  "bounds": [
+   -120.7,
+   59.9,
+   -88.0,
+   75.0
+  ],
+  "maxzoom": 12,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/ca-nuw-20261101/ca-nuw.mbtiles"
+ },
+ {
   "id": "om",
   "name": "Oman",
   "region": "Middle East",
