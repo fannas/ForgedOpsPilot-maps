@@ -3056,6 +3056,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/ve-20261101/ve.mbtiles"
  },
  {
+  "id": "vn",
+  "name": "Vietnam",
+  "region": "Southeast Asia",
+  "file": "vn.mbtiles",
+  "size": 315236352,
+  "edition": "20261101",
+  "bounds": [
+   102.1,
+   8.3,
+   109.6,
+   23.4
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/vn-20261101/vn.mbtiles"
+ },
+ {
   "id": "us-nw",
   "name": "Washington and Oregon",
   "region": "United States",
