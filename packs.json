@@ -1376,6 +1376,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/us-il-20261101/us-il.mbtiles"
  },
  {
+  "id": "in-n",
+  "name": "India north (Delhi, Punjab, Rajasthan, Gujarat, Uttar Pradesh, Madhya Pradesh, Bihar, Kolkata, the Himalayan states)",
+  "region": "South Asia",
+  "file": "in-n.mbtiles",
+  "size": 1011400704,
+  "edition": "20261101",
+  "bounds": [
+   68.0,
+   20.0,
+   89.9,
+   37.2
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/in-n-20261101/in-n.mbtiles"
+ },
+ {
   "id": "ir",
   "name": "Iran",
   "region": "Middle East",
