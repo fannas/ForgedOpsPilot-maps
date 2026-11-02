@@ -144,6 +144,22 @@
   "region": "Southern Africa"
  },
  {
+  "id": "br-se",
+  "name": "Brazil southeast",
+  "region": "South America",
+  "file": "br-se.mbtiles",
+  "size": 629391360,
+  "edition": "20261101",
+  "bounds": [
+   -53.2,
+   -25.4,
+   -39.6,
+   -14.2
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/br-se-20261101/br-se.mbtiles"
+ },
+ {
   "id": "bg",
   "name": "Bulgaria",
   "region": "Eastern Europe and the Balkans",
