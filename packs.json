@@ -224,6 +224,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/cy-20261101/cy.mbtiles"
  },
  {
+  "id": "cz-sk",
+  "name": "Czechia and Slovakia",
+  "region": "Eastern Europe and the Balkans",
+  "file": "cz-sk.mbtiles",
+  "size": 1168236544,
+  "edition": "20261101",
+  "bounds": [
+   12.0,
+   47.7,
+   22.6,
+   51.1
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/cz-sk-20261101/cz-sk.mbtiles"
+ },
+ {
   "id": "ci",
   "name": "C\u00f4te d'Ivoire",
   "region": "West Africa",
