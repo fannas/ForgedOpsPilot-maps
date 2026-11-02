@@ -1536,6 +1536,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/in-s-20261101/in-s.mbtiles"
  },
  {
+  "id": "id-e",
+  "name": "Indonesia east (Sulawesi, Nusa Tenggara, Maluku, Papua) and Timor-Leste",
+  "region": "Southeast Asia",
+  "file": "id-e.mbtiles",
+  "size": 203485184,
+  "edition": "20261101",
+  "bounds": [
+   114.0,
+   -11.1,
+   141.1,
+   4.5
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/id-e-20261101/id-e.mbtiles"
+ },
+ {
   "id": "ir",
   "name": "Iran",
   "region": "Middle East",
