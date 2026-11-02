@@ -2000,6 +2000,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/ca-at-20261101/ca-at.mbtiles"
  },
  {
+  "id": "nc",
+  "name": "New Caledonia, Vanuatu, Fiji and Tuvalu",
+  "region": "Australia and the Pacific",
+  "file": "nc.mbtiles",
+  "size": 29167616,
+  "edition": "20261101",
+  "bounds": [
+   163.0,
+   -23.0,
+   180.0,
+   -5.0
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/nc-20261101/nc.mbtiles"
+ },
+ {
   "id": "us-ne",
   "name": "New England",
   "region": "United States",
