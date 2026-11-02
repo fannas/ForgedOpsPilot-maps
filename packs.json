@@ -2352,6 +2352,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/ro-md-20261101/ro-md.mbtiles"
  },
  {
+  "id": "ru-fe-s",
+  "name": "Russia Far East south (Blagoveshchensk, Khabarovsk, Vladivostok, Sakhalin)",
+  "region": "Russia",
+  "file": "ru-fe-s.mbtiles",
+  "size": 488386560,
+  "edition": "20261101",
+  "bounds": [
+   119.9,
+   42.2,
+   145.0,
+   60.0
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/ru-fe-s-20261101/ru-fe-s.mbtiles"
+ },
+ {
   "id": "ru-v",
   "name": "Russia Volga and Urals (Kazan, Samara, Saratov, Orenburg, Ufa, Perm, Yekaterinburg, Chelyabinsk, Tyumen)",
   "region": "Russia",
