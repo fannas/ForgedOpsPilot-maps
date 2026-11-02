@@ -64,6 +64,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/az-20261101/az.mbtiles"
  },
  {
+  "id": "by",
+  "name": "Belarus",
+  "region": "Eastern Europe and the Balkans",
+  "file": "by.mbtiles",
+  "size": 576290816,
+  "edition": "20261101",
+  "bounds": [
+   23.1,
+   51.2,
+   32.8,
+   56.2
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/by-20261101/by.mbtiles"
+ },
+ {
   "id": "bj",
   "name": "Benin",
   "region": "West Africa",
