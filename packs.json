@@ -208,6 +208,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/bj-20261101/bj.mbtiles"
  },
  {
+  "id": "bm",
+  "name": "Bermuda",
+  "region": "North America",
+  "file": "bm.mbtiles",
+  "size": 1015808,
+  "edition": "20261101",
+  "bounds": [
+   -65.0,
+   32.1,
+   -64.5,
+   32.5
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/bm-20261101/bm.mbtiles"
+ },
+ {
   "id": "bw",
   "name": "Botswana",
   "file": "bw.mbtiles",
