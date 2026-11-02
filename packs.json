@@ -944,6 +944,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/gw-20261101/gw.mbtiles"
  },
  {
+  "id": "us-hi",
+  "name": "Hawaii",
+  "region": "United States",
+  "file": "us-hi.mbtiles",
+  "size": 8814592,
+  "edition": "20261101",
+  "bounds": [
+   -160.3,
+   18.8,
+   -154.7,
+   22.3
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/us-hi-20261101/us-hi.mbtiles"
+ },
+ {
   "id": "hu",
   "name": "Hungary",
   "region": "Eastern Europe and the Balkans",
