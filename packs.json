@@ -2336,6 +2336,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/ru-c-20261101/ru-c.mbtiles"
  },
  {
+  "id": "ru-es-n",
+  "name": "Russia east Siberia north (Taymyr, Evenkia, Yakutia west)",
+  "region": "Russia",
+  "file": "ru-es-n.mbtiles",
+  "size": 50122752,
+  "edition": "20261101",
+  "bounds": [
+   89.9,
+   59.9,
+   120.0,
+   77.8
+  ],
+  "maxzoom": 11,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/ru-es-n-20261101/ru-es-n.mbtiles"
+ },
+ {
   "id": "ru-es-s",
   "name": "Russia east Siberia south (Krasnoyarsk, Irkutsk, Lake Baikal, Ulan-Ude, Chita)",
   "region": "Russia",
