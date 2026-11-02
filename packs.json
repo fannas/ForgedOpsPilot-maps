@@ -1568,6 +1568,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/kw-20261101/kw.mbtiles"
  },
  {
+  "id": "la-kh",
+  "name": "Laos and Cambodia",
+  "region": "Southeast Asia",
+  "file": "la-kh.mbtiles",
+  "size": 340013056,
+  "edition": "20261101",
+  "bounds": [
+   100.0,
+   9.9,
+   107.7,
+   22.6
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/la-kh-20261101/la-kh.mbtiles"
+ },
+ {
   "id": "lb",
   "name": "Lebanon",
   "region": "Middle East",
