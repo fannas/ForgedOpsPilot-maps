@@ -3648,6 +3648,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/us-nw-20261101/us-nw.mbtiles"
  },
  {
+  "id": "au-wa",
+  "name": "Western Australia (Perth, Broome)",
+  "region": "Australia and the Pacific",
+  "file": "au-wa.mbtiles",
+  "size": 125181952,
+  "edition": "20261101",
+  "bounds": [
+   112.9,
+   -35.2,
+   129.1,
+   -13.6
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/au-wa-20261101/au-wa.mbtiles"
+ },
+ {
   "id": "eh",
   "name": "Western Sahara",
   "region": "North Africa",
