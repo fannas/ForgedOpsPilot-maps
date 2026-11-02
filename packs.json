@@ -1136,6 +1136,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/us-mn-20261101/us-mn.mbtiles"
  },
  {
+  "id": "us-mt",
+  "name": "Montana, Wyoming, Idaho, Colorado and Utah",
+  "region": "United States",
+  "file": "us-mt.mbtiles",
+  "size": 542703616,
+  "edition": "20261101",
+  "bounds": [
+   -117.3,
+   36.9,
+   -102.0,
+   49.0
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/us-mt-20261101/us-mt.mbtiles"
+ },
+ {
   "id": "ma",
   "name": "Morocco",
   "region": "North Africa",
