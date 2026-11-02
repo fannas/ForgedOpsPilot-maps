@@ -32,6 +32,22 @@
   "region": "Southern Africa"
  },
  {
+  "id": "at",
+  "name": "Austria",
+  "region": "Western Europe",
+  "file": "at.mbtiles",
+  "size": 854097920,
+  "edition": "20261101",
+  "bounds": [
+   9.4,
+   46.3,
+   17.3,
+   49.1
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/at-20261101/at.mbtiles"
+ },
+ {
   "id": "bj",
   "name": "Benin",
   "region": "West Africa",
