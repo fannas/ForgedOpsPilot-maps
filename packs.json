@@ -1072,6 +1072,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/gw-20261101/gw.mbtiles"
  },
  {
+  "id": "gy",
+  "name": "Guyana, Suriname and French Guiana",
+  "region": "South America",
+  "file": "gy.mbtiles",
+  "size": 56086528,
+  "edition": "20261101",
+  "bounds": [
+   -61.4,
+   1.2,
+   -51.6,
+   8.6
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/gy-20261101/gy.mbtiles"
+ },
+ {
   "id": "us-hi",
   "name": "Hawaii",
   "region": "United States",
