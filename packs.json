@@ -544,6 +544,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/cd-20261101/cd.mbtiles"
  },
  {
+  "id": "us-ma",
+  "name": "Delaware, Maryland, Washington DC, Virginia, West Virginia and North Carolina",
+  "region": "United States",
+  "file": "us-ma.mbtiles",
+  "size": 660250624,
+  "edition": "20261101",
+  "bounds": [
+   -84.4,
+   33.8,
+   -74.9,
+   40.7
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/us-ma-20261101/us-ma.mbtiles"
+ },
+ {
   "id": "dk",
   "name": "Denmark",
   "region": "Northern Europe",
