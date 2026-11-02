@@ -752,6 +752,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/om-20261101/om.mbtiles"
  },
  {
+  "id": "pl",
+  "name": "Poland",
+  "region": "Eastern Europe and the Balkans",
+  "file": "pl.mbtiles",
+  "size": 1311940608,
+  "edition": "20261101",
+  "bounds": [
+   14.0,
+   49.0,
+   24.2,
+   54.9
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/pl-20261101/pl.mbtiles"
+ },
+ {
   "id": "qa",
   "name": "Qatar and Bahrain",
   "region": "Middle East",
