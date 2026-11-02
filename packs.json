@@ -240,6 +240,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/bs-20261101/bs.mbtiles"
  },
  {
+  "id": "bd",
+  "name": "Bangladesh and India northeast (Assam, Meghalaya, Tripura, Mizoram, Manipur, Nagaland, Arunachal Pradesh)",
+  "region": "South Asia",
+  "file": "bd.mbtiles",
+  "size": 275197952,
+  "edition": "20261101",
+  "bounds": [
+   88.0,
+   20.6,
+   97.5,
+   29.5
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/bd-20261101/bd.mbtiles"
+ },
+ {
   "id": "by",
   "name": "Belarus",
   "region": "Eastern Europe and the Balkans",
