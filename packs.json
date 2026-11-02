@@ -2624,6 +2624,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/st-20261101/st.mbtiles"
  },
  {
+  "id": "tw",
+  "name": "Taiwan",
+  "region": "East Asia",
+  "file": "tw.mbtiles",
+  "size": 68653056,
+  "edition": "20261101",
+  "bounds": [
+   118.1,
+   21.8,
+   122.1,
+   25.4
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/tw-20261101/tw.mbtiles"
+ },
+ {
   "id": "tz",
   "name": "Tanzania, Zanzibar and Pemba",
   "file": "tz.mbtiles",
