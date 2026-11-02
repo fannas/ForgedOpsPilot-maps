@@ -1392,6 +1392,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/lb-20261101/lb.mbtiles"
  },
  {
+  "id": "lee",
+  "name": "Leeward Islands (Anguilla to Dominica)",
+  "region": "Central America and the Caribbean",
+  "file": "lee.mbtiles",
+  "size": 9461760,
+  "edition": "20261101",
+  "bounds": [
+   -63.5,
+   15.1,
+   -60.9,
+   18.6
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/lee-20261101/lee.mbtiles"
+ },
+ {
   "id": "lr",
   "name": "Liberia",
   "region": "West Africa",
