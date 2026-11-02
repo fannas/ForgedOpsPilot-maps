@@ -1392,6 +1392,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/ca-nuw-20261101/ca-nuw.mbtiles"
  },
  {
+  "id": "us-oh",
+  "name": "Ohio, Michigan and Indiana",
+  "region": "United States",
+  "file": "us-oh.mbtiles",
+  "size": 766398464,
+  "edition": "20261101",
+  "bounds": [
+   -90.5,
+   37.7,
+   -80.5,
+   48.3
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/us-oh-20261101/us-oh.mbtiles"
+ },
+ {
   "id": "om",
   "name": "Oman",
   "region": "Middle East",
