@@ -896,6 +896,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/et-20261101/et.mbtiles"
  },
  {
+  "id": "fk",
+  "name": "Falkland Islands",
+  "region": "South America",
+  "file": "fk.mbtiles",
+  "size": 7892992,
+  "edition": "20261101",
+  "bounds": [
+   -61.4,
+   -53.0,
+   -57.6,
+   -51.0
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/fk-20261101/fk.mbtiles"
+ },
+ {
   "id": "fo",
   "name": "Faroe Islands",
   "region": "Northern Europe",
