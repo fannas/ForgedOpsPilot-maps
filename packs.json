@@ -1008,6 +1008,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/sn-20261101/sn.mbtiles"
  },
  {
+  "id": "balkans",
+  "name": "Serbia, Bosnia, Montenegro, Kosovo, Albania and North Macedonia",
+  "region": "Eastern Europe and the Balkans",
+  "file": "balkans.mbtiles",
+  "size": 617926656,
+  "edition": "20261101",
+  "bounds": [
+   15.6,
+   39.5,
+   23.1,
+   46.3
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/balkans-20261101/balkans.mbtiles"
+ },
+ {
   "id": "sc",
   "name": "Seychelles",
   "file": "sc.mbtiles",
