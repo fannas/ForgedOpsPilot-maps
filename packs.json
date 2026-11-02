@@ -2064,6 +2064,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/ae-20261101/ae.mbtiles"
  },
  {
+  "id": "us-nw",
+  "name": "Washington and Oregon",
+  "region": "United States",
+  "file": "us-nw.mbtiles",
+  "size": 312156160,
+  "edition": "20261101",
+  "bounds": [
+   -124.9,
+   41.9,
+   -116.4,
+   49.1
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/us-nw-20261101/us-nw.mbtiles"
+ },
+ {
   "id": "eh",
   "name": "Western Sahara",
   "region": "North Africa",
