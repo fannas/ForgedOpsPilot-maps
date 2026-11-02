@@ -1072,6 +1072,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/qa-20261101/qa.mbtiles"
  },
  {
+  "id": "ro-md",
+  "name": "Romania and Moldova",
+  "region": "Eastern Europe and the Balkans",
+  "file": "ro-md.mbtiles",
+  "size": 568905728,
+  "edition": "20261101",
+  "bounds": [
+   20.2,
+   43.5,
+   30.2,
+   48.6
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/ro-md-20261101/ro-md.mbtiles"
+ },
+ {
   "id": "rw",
   "name": "Rwanda",
   "region": "East Africa",
