@@ -192,6 +192,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/br-se-20261101/br-se.mbtiles"
  },
  {
+  "id": "ca-bc",
+  "name": "British Columbia and Yukon",
+  "region": "North America",
+  "file": "ca-bc.mbtiles",
+  "size": 1310707712,
+  "edition": "20261101",
+  "bounds": [
+   -141.1,
+   48.2,
+   -114.0,
+   69.7
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/ca-bc-20261101/ca-bc.mbtiles"
+ },
+ {
   "id": "bg",
   "name": "Bulgaria",
   "region": "Eastern Europe and the Balkans",
