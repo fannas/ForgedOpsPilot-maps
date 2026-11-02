@@ -1984,6 +1984,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/us-ny-20261101/us-ny.mbtiles"
  },
  {
+  "id": "nz",
+  "name": "New Zealand",
+  "region": "Australia and the Pacific",
+  "file": "nz.mbtiles",
+  "size": 199122944,
+  "edition": "20261101",
+  "bounds": [
+   166.0,
+   -47.5,
+   178.7,
+   -34.3
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/nz-20261101/nz.mbtiles"
+ },
+ {
   "id": "ne",
   "name": "Niger",
   "region": "West Africa",
