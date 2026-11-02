@@ -1264,6 +1264,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/se-n-20261101/se-n.mbtiles"
  },
  {
+  "id": "ch",
+  "name": "Switzerland and Liechtenstein",
+  "region": "Western Europe",
+  "file": "ch.mbtiles",
+  "size": 435613696,
+  "edition": "20261101",
+  "bounds": [
+   5.9,
+   45.8,
+   10.6,
+   47.9
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/ch-20261101/ch.mbtiles"
+ },
+ {
   "id": "sy",
   "name": "Syria",
   "region": "Middle East",
