@@ -352,6 +352,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/eg-20261101/eg.mbtiles"
  },
  {
+  "id": "gb-s",
+  "name": "England, Wales, Isle of Man and Channel Islands",
+  "region": "British Isles",
+  "file": "gb-s.mbtiles",
+  "size": 726208512,
+  "edition": "20261101",
+  "bounds": [
+   -6.5,
+   49.1,
+   1.9,
+   55.9
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/gb-s-20261101/gb-s.mbtiles"
+ },
+ {
   "id": "gq",
   "name": "Equatorial Guinea",
   "region": "Central Africa",
