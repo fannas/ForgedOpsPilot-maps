@@ -1920,6 +1920,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/pt-20261101/pt.mbtiles"
  },
  {
+  "id": "pr",
+  "name": "Puerto Rico and the Virgin Islands",
+  "region": "Central America and the Caribbean",
+  "file": "pr.mbtiles",
+  "size": 13172736,
+  "edition": "20261101",
+  "bounds": [
+   -67.4,
+   17.6,
+   -64.2,
+   18.6
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/pr-20261101/pr.mbtiles"
+ },
+ {
   "id": "qa",
   "name": "Qatar and Bahrain",
   "region": "Middle East",
