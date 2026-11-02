@@ -2240,6 +2240,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/ru-nw-20261101/ru-nw.mbtiles"
  },
  {
+  "id": "ru-s",
+  "name": "Russia south (Rostov, Krasnodar, Sochi, Stavropol, Volgograd, Astrakhan, the North Caucasus)",
+  "region": "Russia",
+  "file": "ru-s.mbtiles",
+  "size": 524996608,
+  "edition": "20261101",
+  "bounds": [
+   36.5,
+   41.1,
+   49.5,
+   50.2
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/ru-s-20261101/ru-s.mbtiles"
+ },
+ {
   "id": "rw",
   "name": "Rwanda",
   "region": "East Africa",
