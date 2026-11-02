@@ -1168,6 +1168,22 @@
   "region": "Southern Africa"
  },
  {
+  "id": "ca-at",
+  "name": "New Brunswick, Nova Scotia, Prince Edward Island, Newfoundland and Labrador",
+  "region": "North America",
+  "file": "ca-at.mbtiles",
+  "size": 630874112,
+  "edition": "20261101",
+  "bounds": [
+   -69.1,
+   43.3,
+   -52.6,
+   60.4
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/ca-at-20261101/ca-at.mbtiles"
+ },
+ {
   "id": "us-ny",
   "name": "New York, New Jersey and Pennsylvania",
   "region": "United States",
