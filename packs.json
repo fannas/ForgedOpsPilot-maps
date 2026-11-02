@@ -2256,6 +2256,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/us-ne-20261101/us-ne.mbtiles"
  },
  {
+  "id": "au-nsw",
+  "name": "New South Wales, ACT, Victoria and Tasmania (Sydney, Canberra, Melbourne, Hobart)",
+  "region": "Australia and the Pacific",
+  "file": "au-nsw.mbtiles",
+  "size": 304685056,
+  "edition": "20261101",
+  "bounds": [
+   140.9,
+   -43.9,
+   153.7,
+   -28.0
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/au-nsw-20261101/au-nsw.mbtiles"
+ },
+ {
   "id": "us-ny",
   "name": "New York, New Jersey and Pennsylvania",
   "region": "United States",
