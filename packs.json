@@ -640,6 +640,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/cr-20261101/cr.mbtiles"
  },
  {
+  "id": "cu",
+  "name": "Cuba and the Cayman Islands",
+  "region": "Central America and the Caribbean",
+  "file": "cu.mbtiles",
+  "size": 50872320,
+  "edition": "20261101",
+  "bounds": [
+   -85.1,
+   19.2,
+   -74.1,
+   23.3
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/cu-20261101/cu.mbtiles"
+ },
+ {
   "id": "cy",
   "name": "Cyprus",
   "region": "Middle East",
