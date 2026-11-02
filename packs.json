@@ -736,6 +736,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/cn-ne-20261101/cn-ne.mbtiles"
  },
  {
+  "id": "cn-nw",
+  "name": "China northwest (Gansu, Qinghai, Ningxia, Shaanxi, Xi'an, Inner Mongolia west)",
+  "region": "East Asia",
+  "file": "cn-nw.mbtiles",
+  "size": 373493760,
+  "edition": "20261101",
+  "bounds": [
+   89.3,
+   31.4,
+   111.3,
+   42.8
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/cn-nw-20261101/cn-nw.mbtiles"
+ },
+ {
   "id": "cn-s",
   "name": "China south (Guangdong, Hong Kong, Macau, Guangxi, Hainan)",
   "region": "East Asia",
