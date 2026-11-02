@@ -1152,6 +1152,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/sa-20261101/sa.mbtiles"
  },
  {
+  "id": "gb-n",
+  "name": "Scotland",
+  "region": "British Isles",
+  "file": "gb-n.mbtiles",
+  "size": 248340480,
+  "edition": "20261101",
+  "bounds": [
+   -8.8,
+   54.5,
+   -0.6,
+   61.0
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/gb-n-20261101/gb-n.mbtiles"
+ },
+ {
   "id": "sn",
   "name": "Senegal and The Gambia",
   "region": "West Africa",
