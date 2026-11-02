@@ -80,6 +80,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/by-20261101/by.mbtiles"
  },
  {
+  "id": "benelux",
+  "name": "Belgium, Netherlands and Luxembourg",
+  "region": "Western Europe",
+  "file": "benelux.mbtiles",
+  "size": 710721536,
+  "edition": "20261101",
+  "bounds": [
+   2.4,
+   49.4,
+   7.3,
+   53.7
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/benelux-20261101/benelux.mbtiles"
+ },
+ {
   "id": "bj",
   "name": "Benin",
   "region": "West Africa",
