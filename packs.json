@@ -2352,6 +2352,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/es-20261101/es.mbtiles"
  },
  {
+  "id": "lk",
+  "name": "Sri Lanka and the Maldives",
+  "region": "South Asia",
+  "file": "lk.mbtiles",
+  "size": 81879040,
+  "edition": "20261101",
+  "bounds": [
+   72.6,
+   -0.8,
+   82.1,
+   10.0
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/lk-20261101/lk.mbtiles"
+ },
+ {
   "id": "sh",
   "name": "St Helena, Ascension and Tristan da Cunha",
   "region": "Atlantic islands",
