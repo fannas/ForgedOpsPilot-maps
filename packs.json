@@ -96,6 +96,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/ar-n-20261101/ar-n.mbtiles"
  },
  {
+  "id": "ar-s",
+  "name": "Argentina south (Patagonia)",
+  "region": "South America",
+  "file": "ar-s.mbtiles",
+  "size": 295890944,
+  "edition": "20261101",
+  "bounds": [
+   -73.6,
+   -55.1,
+   -56.5,
+   -35.9
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/ar-s-20261101/ar-s.mbtiles"
+ },
+ {
   "id": "us-sw",
   "name": "Arizona, New Mexico and Nevada",
   "region": "United States",
