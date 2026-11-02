@@ -1264,6 +1264,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/ug-20261101/ug.mbtiles"
  },
  {
+  "id": "ua-w",
+  "name": "Ukraine west",
+  "region": "Eastern Europe and the Balkans",
+  "file": "ua-w.mbtiles",
+  "size": 864354304,
+  "edition": "20261101",
+  "bounds": [
+   22.0,
+   44.3,
+   31.5,
+   52.5
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/ua-w-20261101/ua-w.mbtiles"
+ },
+ {
   "id": "ae",
   "name": "United Arab Emirates",
   "region": "Middle East",
