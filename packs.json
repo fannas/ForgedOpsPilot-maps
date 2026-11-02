@@ -688,6 +688,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/hu-20261101/hu.mbtiles"
  },
  {
+  "id": "is",
+  "name": "Iceland",
+  "region": "Northern Europe",
+  "file": "is.mbtiles",
+  "size": 107560960,
+  "edition": "20261101",
+  "bounds": [
+   -24.6,
+   63.3,
+   -13.4,
+   66.6
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/is-20261101/is.mbtiles"
+ },
+ {
   "id": "ir",
   "name": "Iran",
   "region": "Middle East",
