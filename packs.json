@@ -624,6 +624,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/gh-20261101/gh.mbtiles"
  },
  {
+  "id": "gr",
+  "name": "Greece and Crete",
+  "region": "Southern Europe",
+  "file": "gr.mbtiles",
+  "size": 357765120,
+  "edition": "20261101",
+  "bounds": [
+   19.2,
+   34.7,
+   29.7,
+   41.8
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/gr-20261101/gr.mbtiles"
+ },
+ {
   "id": "gn",
   "name": "Guinea",
   "region": "West Africa",
