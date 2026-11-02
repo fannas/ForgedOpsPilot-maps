@@ -176,6 +176,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/az-20261101/az.mbtiles"
  },
  {
+  "id": "bs",
+  "name": "Bahamas and Turks and Caicos",
+  "region": "Central America and the Caribbean",
+  "file": "bs.mbtiles",
+  "size": 35692544,
+  "edition": "20261101",
+  "bounds": [
+   -79.4,
+   20.8,
+   -70.9,
+   27.3
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/bs-20261101/bs.mbtiles"
+ },
+ {
   "id": "by",
   "name": "Belarus",
   "region": "Eastern Europe and the Balkans",
