@@ -368,6 +368,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/fr-n-20261101/fr-n.mbtiles"
  },
  {
+  "id": "fr-s",
+  "name": "France south, Corsica and Monaco",
+  "region": "Western Europe",
+  "file": "fr-s.mbtiles",
+  "size": 1138429952,
+  "edition": "20261101",
+  "bounds": [
+   -2.0,
+   41.2,
+   9.7,
+   46.6
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/fr-s-20261101/fr-s.mbtiles"
+ },
+ {
   "id": "ga",
   "name": "Gabon",
   "region": "Central Africa",
