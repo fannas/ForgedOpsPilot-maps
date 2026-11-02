@@ -288,6 +288,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/cd-20261101/cd.mbtiles"
  },
  {
+  "id": "dk",
+  "name": "Denmark",
+  "region": "Northern Europe",
+  "file": "dk.mbtiles",
+  "size": 347922432,
+  "edition": "20261101",
+  "bounds": [
+   8.0,
+   54.5,
+   15.3,
+   57.8
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/dk-20261101/dk.mbtiles"
+ },
+ {
   "id": "dj",
   "name": "Djibouti",
   "region": "East Africa",
