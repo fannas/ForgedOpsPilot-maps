@@ -2400,6 +2400,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/kp-20261101/kp.mbtiles"
  },
  {
+  "id": "au-nt",
+  "name": "Northern Territory (Darwin, Alice Springs)",
+  "region": "Australia and the Pacific",
+  "file": "au-nt.mbtiles",
+  "size": 37318656,
+  "edition": "20261101",
+  "bounds": [
+   128.9,
+   -26.1,
+   138.1,
+   -10.9
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/au-nt-20261101/au-nt.mbtiles"
+ },
+ {
   "id": "ca-nt",
   "name": "Northwest Territories",
   "region": "North America",
