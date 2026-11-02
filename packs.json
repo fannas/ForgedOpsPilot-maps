@@ -448,6 +448,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/cm-20261101/cm.mbtiles"
  },
  {
+  "id": "ca-ar",
+  "name": "Canadian High Arctic (Ellesmere, Devon, Axel Heiberg and the Queen Elizabeth Islands)",
+  "region": "North America",
+  "file": "ca-ar.mbtiles",
+  "size": 66101248,
+  "edition": "20261101",
+  "bounds": [
+   -125.0,
+   74.9,
+   -61.0,
+   83.2
+  ],
+  "maxzoom": 11,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/ca-ar-20261101/ca-ar.mbtiles"
+ },
+ {
   "id": "ic",
   "name": "Canary Islands and Madeira",
   "region": "Atlantic islands",
