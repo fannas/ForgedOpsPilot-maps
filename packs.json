@@ -2432,6 +2432,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/us-se-20261101/us-se.mbtiles"
  },
  {
+  "id": "kr",
+  "name": "South Korea",
+  "region": "East Asia",
+  "file": "kr.mbtiles",
+  "size": 251559936,
+  "edition": "20261101",
+  "bounds": [
+   124.5,
+   33.0,
+   132.0,
+   38.7
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/kr-20261101/kr.mbtiles"
+ },
+ {
   "id": "ss",
   "name": "South Sudan",
   "region": "East Africa",
