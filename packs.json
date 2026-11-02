@@ -1216,6 +1216,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/no-s-20261101/no-s.mbtiles"
  },
  {
+  "id": "ca-nue",
+  "name": "Nunavut east (Baffin Island and the Hudson Bay islands)",
+  "region": "North America",
+  "file": "ca-nue.mbtiles",
+  "size": 678821888,
+  "edition": "20261101",
+  "bounds": [
+   -88.2,
+   51.6,
+   -61.0,
+   75.0
+  ],
+  "maxzoom": 12,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/ca-nue-20261101/ca-nue.mbtiles"
+ },
+ {
   "id": "om",
   "name": "Oman",
   "region": "Middle East",
