@@ -672,6 +672,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/cn-n-20261101/cn-n.mbtiles"
  },
  {
+  "id": "cn-ne",
+  "name": "China northeast (Heilongjiang, Jilin, Liaoning, Inner Mongolia east)",
+  "region": "East Asia",
+  "file": "cn-ne.mbtiles",
+  "size": 419893248,
+  "edition": "20261101",
+  "bounds": [
+   117.0,
+   38.6,
+   135.2,
+   53.6
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/cn-ne-20261101/cn-ne.mbtiles"
+ },
+ {
   "id": "co",
   "name": "Colombia",
   "region": "South America",
