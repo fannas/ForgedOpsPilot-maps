@@ -3136,6 +3136,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/ye-20261101/ye.mbtiles"
  },
  {
+  "id": "cn-yg",
+  "name": "Yunnan and Guizhou (Kunming, Guiyang)",
+  "region": "East Asia",
+  "file": "cn-yg.mbtiles",
+  "size": 334950400,
+  "edition": "20261101",
+  "bounds": [
+   97.5,
+   21.1,
+   109.7,
+   29.3
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/cn-yg-20261101/cn-yg.mbtiles"
+ },
+ {
   "id": "zm",
   "name": "Zambia",
   "file": "zm.mbtiles",
