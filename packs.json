@@ -2192,6 +2192,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/ro-md-20261101/ro-md.mbtiles"
  },
  {
+  "id": "ru-v",
+  "name": "Russia Volga and Urals (Kazan, Samara, Saratov, Orenburg, Ufa, Perm, Yekaterinburg, Chelyabinsk, Tyumen)",
+  "region": "Russia",
+  "file": "ru-v.mbtiles",
+  "size": 941572096,
+  "edition": "20261101",
+  "bounds": [
+   45.0,
+   50.3,
+   70.0,
+   60.0
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/ru-v-20261101/ru-v.mbtiles"
+ },
+ {
   "id": "ru-c",
   "name": "Russia central (Moscow, Tver, Yaroslavl, Nizhny Novgorod, Voronezh, Kursk, Belgorod)",
   "region": "Russia",
