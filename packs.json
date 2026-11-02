@@ -48,6 +48,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/ca-pr-20261101/ca-pr.mbtiles"
  },
  {
+  "id": "us-akw",
+  "name": "Aleutian Islands west of 180\u00b0",
+  "region": "United States",
+  "file": "us-akw.mbtiles",
+  "size": 3571712,
+  "edition": "20261101",
+  "bounds": [
+   170.0,
+   51.0,
+   180.0,
+   53.5
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/us-akw-20261101/us-akw.mbtiles"
+ },
+ {
   "id": "dz",
   "name": "Algeria",
   "region": "North Africa",
