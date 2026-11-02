@@ -544,6 +544,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/td-20261101/td.mbtiles"
  },
  {
+  "id": "cl-n",
+  "name": "Chile north",
+  "region": "South America",
+  "file": "cl-n.mbtiles",
+  "size": 137797632,
+  "edition": "20261101",
+  "bounds": [
+   -71.8,
+   -36.0,
+   -66.4,
+   -17.4
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/cl-n-20261101/cl-n.mbtiles"
+ },
+ {
   "id": "cl-s",
   "name": "Chile south",
   "region": "South America",
