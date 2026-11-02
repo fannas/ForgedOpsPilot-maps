@@ -432,6 +432,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/et-20261101/et.mbtiles"
  },
  {
+  "id": "fi-s",
+  "name": "Finland south and \u00c5land",
+  "region": "Northern Europe",
+  "file": "fi-s.mbtiles",
+  "size": 638464000,
+  "edition": "20261101",
+  "bounds": [
+   19.0,
+   59.7,
+   31.6,
+   64.1
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/fi-s-20261101/fi-s.mbtiles"
+ },
+ {
   "id": "fr-n",
   "name": "France north",
   "region": "Western Europe",
