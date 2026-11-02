@@ -1760,6 +1760,22 @@
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/jo-20261101/jo.mbtiles"
  },
  {
+  "id": "id-ka",
+  "name": "Kalimantan (Indonesian Borneo)",
+  "region": "Southeast Asia",
+  "file": "id-ka.mbtiles",
+  "size": 85176320,
+  "edition": "20261101",
+  "bounds": [
+   108.7,
+   -4.3,
+   119.1,
+   4.5
+  ],
+  "maxzoom": 13,
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/id-ka-20261101/id-ka.mbtiles"
+ },
+ {
   "id": "ru-kg",
   "name": "Kaliningrad",
   "region": "Russia",
