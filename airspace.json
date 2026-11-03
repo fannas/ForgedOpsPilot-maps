@@ -7,7 +7,13 @@
   "size": 4489,
   "count": 9,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/ao.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/ao.json.gz",
+  "notYet": [
+   "Lesotho",
+   "Eswatini",
+   "Zimbabwe",
+   "Zambia"
+  ]
  },
  {
   "id": "bw",
@@ -17,7 +23,13 @@
   "size": 10829,
   "count": 41,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/bw.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/bw.json.gz",
+  "notYet": [
+   "Lesotho",
+   "Eswatini",
+   "Zimbabwe",
+   "Zambia"
+  ]
  },
  {
   "id": "mw",
@@ -27,7 +39,13 @@
   "size": 38105,
   "count": 23,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/mw.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/mw.json.gz",
+  "notYet": [
+   "Lesotho",
+   "Eswatini",
+   "Zimbabwe",
+   "Zambia"
+  ]
  },
  {
   "id": "mz",
@@ -37,7 +55,13 @@
   "size": 47974,
   "count": 37,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/mz.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/mz.json.gz",
+  "notYet": [
+   "Lesotho",
+   "Eswatini",
+   "Zimbabwe",
+   "Zambia"
+  ]
  },
  {
   "id": "na",
@@ -47,7 +71,13 @@
   "size": 38694,
   "count": 49,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/na.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/na.json.gz",
+  "notYet": [
+   "Lesotho",
+   "Eswatini",
+   "Zimbabwe",
+   "Zambia"
+  ]
  },
  {
   "id": "za",
@@ -57,7 +87,13 @@
   "size": 121769,
   "count": 273,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/za.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/za.json.gz",
+  "notYet": [
+   "Lesotho",
+   "Eswatini",
+   "Zimbabwe",
+   "Zambia"
+  ]
  },
  {
   "id": "dj",
@@ -67,7 +103,14 @@
   "size": 5156,
   "count": 15,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/dj.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/dj.json.gz",
+  "notYet": [
+   "Tanzania",
+   "Uganda",
+   "Burundi",
+   "Ethiopia",
+   "Eritrea"
+  ]
  },
  {
   "id": "ke",
@@ -77,7 +120,14 @@
   "size": 14602,
   "count": 18,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/ke.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/ke.json.gz",
+  "notYet": [
+   "Tanzania",
+   "Uganda",
+   "Burundi",
+   "Ethiopia",
+   "Eritrea"
+  ]
  },
  {
   "id": "rw",
@@ -87,7 +137,14 @@
   "size": 4509,
   "count": 10,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/rw.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/rw.json.gz",
+  "notYet": [
+   "Tanzania",
+   "Uganda",
+   "Burundi",
+   "Ethiopia",
+   "Eritrea"
+  ]
  },
  {
   "id": "so",
@@ -97,7 +154,14 @@
   "size": 17574,
   "count": 17,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/so.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/so.json.gz",
+  "notYet": [
+   "Tanzania",
+   "Uganda",
+   "Burundi",
+   "Ethiopia",
+   "Eritrea"
+  ]
  },
  {
   "id": "ss",
@@ -107,7 +171,14 @@
   "size": 5368,
   "count": 5,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/ss.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/ss.json.gz",
+  "notYet": [
+   "Tanzania",
+   "Uganda",
+   "Burundi",
+   "Ethiopia",
+   "Eritrea"
+  ]
  },
  {
   "id": "km",
@@ -117,7 +188,10 @@
   "size": 2128,
   "count": 2,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/km.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/km.json.gz",
+  "notYet": [
+   "Mayotte"
+  ]
  },
  {
   "id": "mg",
@@ -127,7 +201,10 @@
   "size": 31018,
   "count": 59,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/mg.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/mg.json.gz",
+  "notYet": [
+   "Mayotte"
+  ]
  },
  {
   "id": "mu",
@@ -137,7 +214,10 @@
   "size": 4165,
   "count": 7,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/mu.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/mu.json.gz",
+  "notYet": [
+   "Mayotte"
+  ]
  },
  {
   "id": "re",
@@ -147,7 +227,10 @@
   "size": 5715,
   "count": 13,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/re.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/re.json.gz",
+  "notYet": [
+   "Mayotte"
+  ]
  },
  {
   "id": "sc",
@@ -157,7 +240,10 @@
   "size": 7788,
   "count": 12,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/sc.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/sc.json.gz",
+  "notYet": [
+   "Mayotte"
+  ]
  },
  {
   "id": "cm",
@@ -167,7 +253,11 @@
   "size": 11598,
   "count": 28,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/cm.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/cm.json.gz",
+  "notYet": [
+   "DR Congo",
+   "São Tomé and Príncipe"
+  ]
  },
  {
   "id": "cf",
@@ -177,7 +267,11 @@
   "size": 4768,
   "count": 6,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/cf.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/cf.json.gz",
+  "notYet": [
+   "DR Congo",
+   "São Tomé and Príncipe"
+  ]
  },
  {
   "id": "td",
@@ -187,7 +281,11 @@
   "size": 14970,
   "count": 18,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/td.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/td.json.gz",
+  "notYet": [
+   "DR Congo",
+   "São Tomé and Príncipe"
+  ]
  },
  {
   "id": "cg",
@@ -197,7 +295,11 @@
   "size": 7818,
   "count": 20,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/cg.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/cg.json.gz",
+  "notYet": [
+   "DR Congo",
+   "São Tomé and Príncipe"
+  ]
  },
  {
   "id": "gq",
@@ -207,7 +309,11 @@
   "size": 4400,
   "count": 3,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/gq.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/gq.json.gz",
+  "notYet": [
+   "DR Congo",
+   "São Tomé and Príncipe"
+  ]
  },
  {
   "id": "ga",
@@ -217,7 +323,11 @@
   "size": 13895,
   "count": 23,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/ga.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/ga.json.gz",
+  "notYet": [
+   "DR Congo",
+   "São Tomé and Príncipe"
+  ]
  },
  {
   "id": "bj",
@@ -227,7 +337,17 @@
   "size": 3705,
   "count": 10,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/bj.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/bj.json.gz",
+  "notYet": [
+   "Nigeria",
+   "Ghana",
+   "Côte d'Ivoire",
+   "Liberia",
+   "Sierra Leone",
+   "Guinea",
+   "The Gambia",
+   "Cape Verde"
+  ]
  },
  {
   "id": "bf",
@@ -237,7 +357,17 @@
   "size": 4076,
   "count": 13,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/bf.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/bf.json.gz",
+  "notYet": [
+   "Nigeria",
+   "Ghana",
+   "Côte d'Ivoire",
+   "Liberia",
+   "Sierra Leone",
+   "Guinea",
+   "The Gambia",
+   "Cape Verde"
+  ]
  },
  {
   "id": "gw",
@@ -247,7 +377,17 @@
   "size": 4263,
   "count": 7,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/gw.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/gw.json.gz",
+  "notYet": [
+   "Nigeria",
+   "Ghana",
+   "Côte d'Ivoire",
+   "Liberia",
+   "Sierra Leone",
+   "Guinea",
+   "The Gambia",
+   "Cape Verde"
+  ]
  },
  {
   "id": "ml",
@@ -257,7 +397,17 @@
   "size": 14657,
   "count": 15,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/ml.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/ml.json.gz",
+  "notYet": [
+   "Nigeria",
+   "Ghana",
+   "Côte d'Ivoire",
+   "Liberia",
+   "Sierra Leone",
+   "Guinea",
+   "The Gambia",
+   "Cape Verde"
+  ]
  },
  {
   "id": "mr",
@@ -267,7 +417,17 @@
   "size": 9176,
   "count": 15,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/mr.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/mr.json.gz",
+  "notYet": [
+   "Nigeria",
+   "Ghana",
+   "Côte d'Ivoire",
+   "Liberia",
+   "Sierra Leone",
+   "Guinea",
+   "The Gambia",
+   "Cape Verde"
+  ]
  },
  {
   "id": "ne",
@@ -277,7 +437,17 @@
   "size": 7795,
   "count": 7,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/ne.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/ne.json.gz",
+  "notYet": [
+   "Nigeria",
+   "Ghana",
+   "Côte d'Ivoire",
+   "Liberia",
+   "Sierra Leone",
+   "Guinea",
+   "The Gambia",
+   "Cape Verde"
+  ]
  },
  {
   "id": "sn",
@@ -287,7 +457,17 @@
   "size": 16679,
   "count": 29,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/sn.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/sn.json.gz",
+  "notYet": [
+   "Nigeria",
+   "Ghana",
+   "Côte d'Ivoire",
+   "Liberia",
+   "Sierra Leone",
+   "Guinea",
+   "The Gambia",
+   "Cape Verde"
+  ]
  },
  {
   "id": "tg",
@@ -297,7 +477,17 @@
   "size": 4300,
   "count": 10,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/tg.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/tg.json.gz",
+  "notYet": [
+   "Nigeria",
+   "Ghana",
+   "Côte d'Ivoire",
+   "Liberia",
+   "Sierra Leone",
+   "Guinea",
+   "The Gambia",
+   "Cape Verde"
+  ]
  },
  {
   "id": "dz",
@@ -307,7 +497,12 @@
   "size": 58307,
   "count": 103,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/dz.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/dz.json.gz",
+  "notYet": [
+   "Western Sahara",
+   "Egypt",
+   "Sudan"
+  ]
  },
  {
   "id": "ly",
@@ -317,7 +512,12 @@
   "size": 13568,
   "count": 19,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/ly.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/ly.json.gz",
+  "notYet": [
+   "Western Sahara",
+   "Egypt",
+   "Sudan"
+  ]
  },
  {
   "id": "ma",
@@ -327,7 +527,12 @@
   "size": 39118,
   "count": 89,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/ma.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/ma.json.gz",
+  "notYet": [
+   "Western Sahara",
+   "Egypt",
+   "Sudan"
+  ]
  },
  {
   "id": "tn",
@@ -337,7 +542,12 @@
   "size": 29974,
   "count": 61,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/tn.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/tn.json.gz",
+  "notYet": [
+   "Western Sahara",
+   "Egypt",
+   "Sudan"
+  ]
  },
  {
   "id": "bh",
@@ -347,7 +557,16 @@
   "size": 2879,
   "count": 8,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/bh.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/bh.json.gz",
+  "notYet": [
+   "Yemen",
+   "Kuwait",
+   "Iraq",
+   "Jordan",
+   "Palestinian territories",
+   "Lebanon",
+   "Syria"
+  ]
  },
  {
   "id": "cy",
@@ -357,7 +576,16 @@
   "size": 18058,
   "count": 90,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/cy.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/cy.json.gz",
+  "notYet": [
+   "Yemen",
+   "Kuwait",
+   "Iraq",
+   "Jordan",
+   "Palestinian territories",
+   "Lebanon",
+   "Syria"
+  ]
  },
  {
   "id": "ir",
@@ -367,7 +595,16 @@
   "size": 120941,
   "count": 398,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/ir.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/ir.json.gz",
+  "notYet": [
+   "Yemen",
+   "Kuwait",
+   "Iraq",
+   "Jordan",
+   "Palestinian territories",
+   "Lebanon",
+   "Syria"
+  ]
  },
  {
   "id": "il",
@@ -377,7 +614,16 @@
   "size": 9762,
   "count": 78,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/il.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/il.json.gz",
+  "notYet": [
+   "Yemen",
+   "Kuwait",
+   "Iraq",
+   "Jordan",
+   "Palestinian territories",
+   "Lebanon",
+   "Syria"
+  ]
  },
  {
   "id": "om",
@@ -387,7 +633,16 @@
   "size": 38378,
   "count": 113,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/om.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/om.json.gz",
+  "notYet": [
+   "Yemen",
+   "Kuwait",
+   "Iraq",
+   "Jordan",
+   "Palestinian territories",
+   "Lebanon",
+   "Syria"
+  ]
  },
  {
   "id": "qa",
@@ -397,7 +652,16 @@
   "size": 11518,
   "count": 33,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/qa.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/qa.json.gz",
+  "notYet": [
+   "Yemen",
+   "Kuwait",
+   "Iraq",
+   "Jordan",
+   "Palestinian territories",
+   "Lebanon",
+   "Syria"
+  ]
  },
  {
   "id": "sa",
@@ -407,7 +671,16 @@
   "size": 74885,
   "count": 193,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/sa.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/sa.json.gz",
+  "notYet": [
+   "Yemen",
+   "Kuwait",
+   "Iraq",
+   "Jordan",
+   "Palestinian territories",
+   "Lebanon",
+   "Syria"
+  ]
  },
  {
   "id": "tr",
@@ -417,7 +690,16 @@
   "size": 102211,
   "count": 349,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/tr.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/tr.json.gz",
+  "notYet": [
+   "Yemen",
+   "Kuwait",
+   "Iraq",
+   "Jordan",
+   "Palestinian territories",
+   "Lebanon",
+   "Syria"
+  ]
  },
  {
   "id": "ae",
@@ -427,7 +709,16 @@
   "size": 25671,
   "count": 136,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/ae.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/ae.json.gz",
+  "notYet": [
+   "Yemen",
+   "Kuwait",
+   "Iraq",
+   "Jordan",
+   "Palestinian territories",
+   "Lebanon",
+   "Syria"
+  ]
  },
  {
   "id": "ie",
@@ -437,7 +728,11 @@
   "size": 44875,
   "count": 83,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/ie.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/ie.json.gz",
+  "notYet": [
+   "Jersey",
+   "Guernsey"
+  ]
  },
  {
   "id": "im",
@@ -447,7 +742,11 @@
   "size": 1838,
   "count": 6,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/im.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/im.json.gz",
+  "notYet": [
+   "Jersey",
+   "Guernsey"
+  ]
  },
  {
   "id": "gb",
@@ -457,7 +756,11 @@
   "size": 241352,
   "count": 1188,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/gb.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/gb.json.gz",
+  "notYet": [
+   "Jersey",
+   "Guernsey"
+  ]
  },
  {
   "id": "at",
@@ -467,7 +770,11 @@
   "size": 81817,
   "count": 225,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/at.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/at.json.gz",
+  "notYet": [
+   "Monaco",
+   "Liechtenstein"
+  ]
  },
  {
   "id": "be",
@@ -477,7 +784,11 @@
   "size": 87280,
   "count": 258,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/be.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/be.json.gz",
+  "notYet": [
+   "Monaco",
+   "Liechtenstein"
+  ]
  },
  {
   "id": "fr",
@@ -487,7 +798,11 @@
   "size": 347759,
   "count": 1795,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/fr.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/fr.json.gz",
+  "notYet": [
+   "Monaco",
+   "Liechtenstein"
+  ]
  },
  {
   "id": "de",
@@ -497,7 +812,11 @@
   "size": 235092,
   "count": 751,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/de.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/de.json.gz",
+  "notYet": [
+   "Monaco",
+   "Liechtenstein"
+  ]
  },
  {
   "id": "lu",
@@ -507,7 +826,11 @@
   "size": 6530,
   "count": 18,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/lu.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/lu.json.gz",
+  "notYet": [
+   "Monaco",
+   "Liechtenstein"
+  ]
  },
  {
   "id": "nl",
@@ -517,7 +840,11 @@
   "size": 92578,
   "count": 263,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/nl.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/nl.json.gz",
+  "notYet": [
+   "Monaco",
+   "Liechtenstein"
+  ]
  },
  {
   "id": "ch",
@@ -527,7 +854,11 @@
   "size": 38230,
   "count": 194,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/ch.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/ch.json.gz",
+  "notYet": [
+   "Monaco",
+   "Liechtenstein"
+  ]
  },
  {
   "id": "dk",
@@ -537,7 +868,11 @@
   "size": 25224,
   "count": 210,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/dk.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/dk.json.gz",
+  "notYet": [
+   "Åland",
+   "Svalbard and Jan Mayen"
+  ]
  },
  {
   "id": "ee",
@@ -547,7 +882,11 @@
   "size": 17509,
   "count": 115,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/ee.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/ee.json.gz",
+  "notYet": [
+   "Åland",
+   "Svalbard and Jan Mayen"
+  ]
  },
  {
   "id": "fo",
@@ -557,7 +896,11 @@
   "size": 1975,
   "count": 1,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/fo.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/fo.json.gz",
+  "notYet": [
+   "Åland",
+   "Svalbard and Jan Mayen"
+  ]
  },
  {
   "id": "fi",
@@ -567,7 +910,11 @@
   "size": 68392,
   "count": 985,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/fi.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/fi.json.gz",
+  "notYet": [
+   "Åland",
+   "Svalbard and Jan Mayen"
+  ]
  },
  {
   "id": "is",
@@ -577,7 +924,11 @@
   "size": 9832,
   "count": 56,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/is.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/is.json.gz",
+  "notYet": [
+   "Åland",
+   "Svalbard and Jan Mayen"
+  ]
  },
  {
   "id": "lv",
@@ -587,7 +938,11 @@
   "size": 49465,
   "count": 162,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/lv.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/lv.json.gz",
+  "notYet": [
+   "Åland",
+   "Svalbard and Jan Mayen"
+  ]
  },
  {
   "id": "lt",
@@ -597,7 +952,11 @@
   "size": 72472,
   "count": 102,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/lt.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/lt.json.gz",
+  "notYet": [
+   "Åland",
+   "Svalbard and Jan Mayen"
+  ]
  },
  {
   "id": "no",
@@ -607,7 +966,11 @@
   "size": 58700,
   "count": 599,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/no.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/no.json.gz",
+  "notYet": [
+   "Åland",
+   "Svalbard and Jan Mayen"
+  ]
  },
  {
   "id": "se",
@@ -617,7 +980,11 @@
   "size": 57832,
   "count": 516,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/se.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/se.json.gz",
+  "notYet": [
+   "Åland",
+   "Svalbard and Jan Mayen"
+  ]
  },
  {
   "id": "gr",
@@ -627,7 +994,12 @@
   "size": 81865,
   "count": 238,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/gr.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/gr.json.gz",
+  "notYet": [
+   "Gibraltar",
+   "Andorra",
+   "San Marino"
+  ]
  },
  {
   "id": "it",
@@ -637,7 +1009,12 @@
   "size": 362172,
   "count": 1558,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/it.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/it.json.gz",
+  "notYet": [
+   "Gibraltar",
+   "Andorra",
+   "San Marino"
+  ]
  },
  {
   "id": "mt",
@@ -647,7 +1024,12 @@
   "size": 4713,
   "count": 8,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/mt.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/mt.json.gz",
+  "notYet": [
+   "Gibraltar",
+   "Andorra",
+   "San Marino"
+  ]
  },
  {
   "id": "pt",
@@ -657,7 +1039,12 @@
   "size": 31042,
   "count": 94,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/pt.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/pt.json.gz",
+  "notYet": [
+   "Gibraltar",
+   "Andorra",
+   "San Marino"
+  ]
  },
  {
   "id": "es",
@@ -667,7 +1054,12 @@
   "size": 162734,
   "count": 808,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/es.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/es.json.gz",
+  "notYet": [
+   "Gibraltar",
+   "Andorra",
+   "San Marino"
+  ]
  },
  {
   "id": "al",
@@ -677,7 +1069,12 @@
   "size": 2139,
   "count": 16,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/al.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/al.json.gz",
+  "notYet": [
+   "Montenegro",
+   "Kosovo",
+   "Ukraine"
+  ]
  },
  {
   "id": "by",
@@ -687,7 +1084,12 @@
   "size": 31857,
   "count": 111,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/by.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/by.json.gz",
+  "notYet": [
+   "Montenegro",
+   "Kosovo",
+   "Ukraine"
+  ]
  },
  {
   "id": "ba",
@@ -697,7 +1099,12 @@
   "size": 12159,
   "count": 79,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/ba.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/ba.json.gz",
+  "notYet": [
+   "Montenegro",
+   "Kosovo",
+   "Ukraine"
+  ]
  },
  {
   "id": "bg",
@@ -707,7 +1114,12 @@
   "size": 44705,
   "count": 190,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/bg.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/bg.json.gz",
+  "notYet": [
+   "Montenegro",
+   "Kosovo",
+   "Ukraine"
+  ]
  },
  {
   "id": "hr",
@@ -717,7 +1129,12 @@
   "size": 54738,
   "count": 419,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/hr.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/hr.json.gz",
+  "notYet": [
+   "Montenegro",
+   "Kosovo",
+   "Ukraine"
+  ]
  },
  {
   "id": "cz",
@@ -727,7 +1144,12 @@
   "size": 145131,
   "count": 356,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/cz.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/cz.json.gz",
+  "notYet": [
+   "Montenegro",
+   "Kosovo",
+   "Ukraine"
+  ]
  },
  {
   "id": "hu",
@@ -737,7 +1159,12 @@
   "size": 38360,
   "count": 192,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/hu.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/hu.json.gz",
+  "notYet": [
+   "Montenegro",
+   "Kosovo",
+   "Ukraine"
+  ]
  },
  {
   "id": "md",
@@ -747,7 +1174,12 @@
   "size": 16480,
   "count": 34,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/md.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/md.json.gz",
+  "notYet": [
+   "Montenegro",
+   "Kosovo",
+   "Ukraine"
+  ]
  },
  {
   "id": "mk",
@@ -757,7 +1189,12 @@
   "size": 2058,
   "count": 6,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/mk.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/mk.json.gz",
+  "notYet": [
+   "Montenegro",
+   "Kosovo",
+   "Ukraine"
+  ]
  },
  {
   "id": "pl",
@@ -767,7 +1204,12 @@
   "size": 183325,
   "count": 1018,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/pl.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/pl.json.gz",
+  "notYet": [
+   "Montenegro",
+   "Kosovo",
+   "Ukraine"
+  ]
  },
  {
   "id": "ro",
@@ -777,7 +1219,12 @@
   "size": 164660,
   "count": 381,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/ro.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/ro.json.gz",
+  "notYet": [
+   "Montenegro",
+   "Kosovo",
+   "Ukraine"
+  ]
  },
  {
   "id": "rs",
@@ -787,7 +1234,12 @@
   "size": 98215,
   "count": 208,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/rs.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/rs.json.gz",
+  "notYet": [
+   "Montenegro",
+   "Kosovo",
+   "Ukraine"
+  ]
  },
  {
   "id": "sk",
@@ -797,7 +1249,12 @@
   "size": 75326,
   "count": 130,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/sk.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/sk.json.gz",
+  "notYet": [
+   "Montenegro",
+   "Kosovo",
+   "Ukraine"
+  ]
  },
  {
   "id": "si",
@@ -807,7 +1264,12 @@
   "size": 16615,
   "count": 64,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/si.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/si.json.gz",
+  "notYet": [
+   "Montenegro",
+   "Kosovo",
+   "Ukraine"
+  ]
  },
  {
   "id": "ca",
@@ -817,7 +1279,11 @@
   "size": 842747,
   "count": 2272,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/ca.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/ca.json.gz",
+  "notYet": [
+   "Bermuda",
+   "Saint Pierre and Miquelon"
+  ]
  },
  {
   "id": "gl",
@@ -827,7 +1293,11 @@
   "size": 30543,
   "count": 27,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/gl.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/gl.json.gz",
+  "notYet": [
+   "Bermuda",
+   "Saint Pierre and Miquelon"
+  ]
  },
  {
   "id": "mx",
@@ -837,7 +1307,11 @@
   "size": 11901,
   "count": 18,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/mx.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/mx.json.gz",
+  "notYet": [
+   "Bermuda",
+   "Saint Pierre and Miquelon"
+  ]
  },
  {
   "id": "us-so",
@@ -1037,7 +1511,41 @@
   "size": 9777,
   "count": 22,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/cr.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/cr.json.gz",
+  "notYet": [
+   "Guatemala",
+   "Belize",
+   "Honduras",
+   "El Salvador",
+   "Nicaragua",
+   "Panama",
+   "Cuba",
+   "Cayman Islands",
+   "Jamaica",
+   "Haiti",
+   "Dominican Republic",
+   "US Virgin Islands",
+   "British Virgin Islands",
+   "Bahamas",
+   "Turks and Caicos",
+   "Anguilla",
+   "Antigua and Barbuda",
+   "Saint Kitts and Nevis",
+   "Montserrat",
+   "Guadeloupe",
+   "Dominica",
+   "Martinique",
+   "Saint Lucia",
+   "Saint Vincent and the Grenadines",
+   "Barbados",
+   "Grenada",
+   "Trinidad and Tobago",
+   "Aruba",
+   "Bonaire, Sint Eustatius and Saba",
+   "Sint Maarten",
+   "Saint Martin",
+   "Saint Barthélemy"
+  ]
  },
  {
   "id": "cw",
@@ -1047,7 +1555,41 @@
   "size": 11054,
   "count": 32,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/cw.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/cw.json.gz",
+  "notYet": [
+   "Guatemala",
+   "Belize",
+   "Honduras",
+   "El Salvador",
+   "Nicaragua",
+   "Panama",
+   "Cuba",
+   "Cayman Islands",
+   "Jamaica",
+   "Haiti",
+   "Dominican Republic",
+   "US Virgin Islands",
+   "British Virgin Islands",
+   "Bahamas",
+   "Turks and Caicos",
+   "Anguilla",
+   "Antigua and Barbuda",
+   "Saint Kitts and Nevis",
+   "Montserrat",
+   "Guadeloupe",
+   "Dominica",
+   "Martinique",
+   "Saint Lucia",
+   "Saint Vincent and the Grenadines",
+   "Barbados",
+   "Grenada",
+   "Trinidad and Tobago",
+   "Aruba",
+   "Bonaire, Sint Eustatius and Saba",
+   "Sint Maarten",
+   "Saint Martin",
+   "Saint Barthélemy"
+  ]
  },
  {
   "id": "pr",
@@ -1057,7 +1599,41 @@
   "size": 3537,
   "count": 6,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/pr.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/pr.json.gz",
+  "notYet": [
+   "Guatemala",
+   "Belize",
+   "Honduras",
+   "El Salvador",
+   "Nicaragua",
+   "Panama",
+   "Cuba",
+   "Cayman Islands",
+   "Jamaica",
+   "Haiti",
+   "Dominican Republic",
+   "US Virgin Islands",
+   "British Virgin Islands",
+   "Bahamas",
+   "Turks and Caicos",
+   "Anguilla",
+   "Antigua and Barbuda",
+   "Saint Kitts and Nevis",
+   "Montserrat",
+   "Guadeloupe",
+   "Dominica",
+   "Martinique",
+   "Saint Lucia",
+   "Saint Vincent and the Grenadines",
+   "Barbados",
+   "Grenada",
+   "Trinidad and Tobago",
+   "Aruba",
+   "Bonaire, Sint Eustatius and Saba",
+   "Sint Maarten",
+   "Saint Martin",
+   "Saint Barthélemy"
+  ]
  },
  {
   "id": "ar",
@@ -1067,7 +1643,14 @@
   "size": 163157,
   "count": 226,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/ar.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/ar.json.gz",
+  "notYet": [
+   "Suriname",
+   "French Guiana",
+   "Ecuador",
+   "Peru",
+   "Bolivia"
+  ]
  },
  {
   "id": "br",
@@ -1077,7 +1660,14 @@
   "size": 138750,
   "count": 735,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/br.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/br.json.gz",
+  "notYet": [
+   "Suriname",
+   "French Guiana",
+   "Ecuador",
+   "Peru",
+   "Bolivia"
+  ]
  },
  {
   "id": "cl",
@@ -1087,7 +1677,14 @@
   "size": 14269,
   "count": 36,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/cl.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/cl.json.gz",
+  "notYet": [
+   "Suriname",
+   "French Guiana",
+   "Ecuador",
+   "Peru",
+   "Bolivia"
+  ]
  },
  {
   "id": "co",
@@ -1097,7 +1694,14 @@
   "size": 25802,
   "count": 109,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/co.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/co.json.gz",
+  "notYet": [
+   "Suriname",
+   "French Guiana",
+   "Ecuador",
+   "Peru",
+   "Bolivia"
+  ]
  },
  {
   "id": "fk",
@@ -1107,7 +1711,14 @@
   "size": 2108,
   "count": 1,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/fk.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/fk.json.gz",
+  "notYet": [
+   "Suriname",
+   "French Guiana",
+   "Ecuador",
+   "Peru",
+   "Bolivia"
+  ]
  },
  {
   "id": "gy",
@@ -1117,7 +1728,14 @@
   "size": 5787,
   "count": 5,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/gy.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/gy.json.gz",
+  "notYet": [
+   "Suriname",
+   "French Guiana",
+   "Ecuador",
+   "Peru",
+   "Bolivia"
+  ]
  },
  {
   "id": "py",
@@ -1127,7 +1745,14 @@
   "size": 9651,
   "count": 26,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/py.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/py.json.gz",
+  "notYet": [
+   "Suriname",
+   "French Guiana",
+   "Ecuador",
+   "Peru",
+   "Bolivia"
+  ]
  },
  {
   "id": "uy",
@@ -1137,7 +1762,14 @@
   "size": 20612,
   "count": 57,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/uy.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/uy.json.gz",
+  "notYet": [
+   "Suriname",
+   "French Guiana",
+   "Ecuador",
+   "Peru",
+   "Bolivia"
+  ]
  },
  {
   "id": "ve",
@@ -1147,7 +1779,14 @@
   "size": 60336,
   "count": 113,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/ve.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/ve.json.gz",
+  "notYet": [
+   "Suriname",
+   "French Guiana",
+   "Ecuador",
+   "Peru",
+   "Bolivia"
+  ]
  },
  {
   "id": "ru",
@@ -1167,7 +1806,10 @@
   "size": 8649,
   "count": 15,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/am.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/am.json.gz",
+  "notYet": [
+   "Kyrgyzstan"
+  ]
  },
  {
   "id": "az",
@@ -1177,7 +1819,10 @@
   "size": 18845,
   "count": 27,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/az.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/az.json.gz",
+  "notYet": [
+   "Kyrgyzstan"
+  ]
  },
  {
   "id": "ge",
@@ -1187,7 +1832,10 @@
   "size": 11328,
   "count": 71,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/ge.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/ge.json.gz",
+  "notYet": [
+   "Kyrgyzstan"
+  ]
  },
  {
   "id": "kz",
@@ -1197,7 +1845,10 @@
   "size": 101317,
   "count": 318,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/kz.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/kz.json.gz",
+  "notYet": [
+   "Kyrgyzstan"
+  ]
  },
  {
   "id": "tj",
@@ -1207,7 +1858,10 @@
   "size": 9192,
   "count": 10,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/tj.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/tj.json.gz",
+  "notYet": [
+   "Kyrgyzstan"
+  ]
  },
  {
   "id": "tm",
@@ -1217,7 +1871,10 @@
   "size": 11911,
   "count": 26,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/tm.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/tm.json.gz",
+  "notYet": [
+   "Kyrgyzstan"
+  ]
  },
  {
   "id": "uz",
@@ -1227,7 +1884,10 @@
   "size": 30047,
   "count": 62,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/uz.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/uz.json.gz",
+  "notYet": [
+   "Kyrgyzstan"
+  ]
  },
  {
   "id": "af",
@@ -1237,7 +1897,11 @@
   "size": 22969,
   "count": 94,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/af.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/af.json.gz",
+  "notYet": [
+   "Bhutan",
+   "Bangladesh"
+  ]
  },
  {
   "id": "in",
@@ -1247,7 +1911,11 @@
   "size": 20222,
   "count": 4,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/in.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/in.json.gz",
+  "notYet": [
+   "Bhutan",
+   "Bangladesh"
+  ]
  },
  {
   "id": "mv",
@@ -1257,7 +1925,11 @@
   "size": 19281,
   "count": 26,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/mv.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/mv.json.gz",
+  "notYet": [
+   "Bhutan",
+   "Bangladesh"
+  ]
  },
  {
   "id": "np",
@@ -1267,7 +1939,11 @@
   "size": 93196,
   "count": 14,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/np.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/np.json.gz",
+  "notYet": [
+   "Bhutan",
+   "Bangladesh"
+  ]
  },
  {
   "id": "pk",
@@ -1277,7 +1953,11 @@
   "size": 44358,
   "count": 178,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/pk.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/pk.json.gz",
+  "notYet": [
+   "Bhutan",
+   "Bangladesh"
+  ]
  },
  {
   "id": "lk",
@@ -1287,7 +1967,11 @@
   "size": 22129,
   "count": 47,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/lk.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/lk.json.gz",
+  "notYet": [
+   "Bhutan",
+   "Bangladesh"
+  ]
  },
  {
   "id": "cn",
@@ -1297,7 +1981,12 @@
   "size": 173021,
   "count": 150,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/cn.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/cn.json.gz",
+  "notYet": [
+   "Macau",
+   "South Korea",
+   "Taiwan"
+  ]
  },
  {
   "id": "hk",
@@ -1307,7 +1996,12 @@
   "size": 3637,
   "count": 13,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/hk.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/hk.json.gz",
+  "notYet": [
+   "Macau",
+   "South Korea",
+   "Taiwan"
+  ]
  },
  {
   "id": "jp",
@@ -1317,7 +2011,12 @@
   "size": 289101,
   "count": 1182,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/jp.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/jp.json.gz",
+  "notYet": [
+   "Macau",
+   "South Korea",
+   "Taiwan"
+  ]
  },
  {
   "id": "mn",
@@ -1327,7 +2026,12 @@
   "size": 56148,
   "count": 61,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/mn.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/mn.json.gz",
+  "notYet": [
+   "Macau",
+   "South Korea",
+   "Taiwan"
+  ]
  },
  {
   "id": "kp",
@@ -1337,7 +2041,12 @@
   "size": 8075,
   "count": 20,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/kp.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/kp.json.gz",
+  "notYet": [
+   "Macau",
+   "South Korea",
+   "Taiwan"
+  ]
  },
  {
   "id": "bn",
@@ -1347,7 +2056,14 @@
   "size": 2274,
   "count": 4,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/bn.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/bn.json.gz",
+  "notYet": [
+   "Cambodia",
+   "Vietnam",
+   "Singapore",
+   "Christmas Island",
+   "Cocos (Keeling) Islands"
+  ]
  },
  {
   "id": "id",
@@ -1357,7 +2073,14 @@
   "size": 11353,
   "count": 8,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/id.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/id.json.gz",
+  "notYet": [
+   "Cambodia",
+   "Vietnam",
+   "Singapore",
+   "Christmas Island",
+   "Cocos (Keeling) Islands"
+  ]
  },
  {
   "id": "la",
@@ -1367,7 +2090,14 @@
   "size": 177915,
   "count": 27,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/la.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/la.json.gz",
+  "notYet": [
+   "Cambodia",
+   "Vietnam",
+   "Singapore",
+   "Christmas Island",
+   "Cocos (Keeling) Islands"
+  ]
  },
  {
   "id": "my",
@@ -1377,7 +2107,14 @@
   "size": 65256,
   "count": 163,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/my.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/my.json.gz",
+  "notYet": [
+   "Cambodia",
+   "Vietnam",
+   "Singapore",
+   "Christmas Island",
+   "Cocos (Keeling) Islands"
+  ]
  },
  {
   "id": "mm",
@@ -1387,7 +2124,14 @@
   "size": 11569,
   "count": 1,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/mm.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/mm.json.gz",
+  "notYet": [
+   "Cambodia",
+   "Vietnam",
+   "Singapore",
+   "Christmas Island",
+   "Cocos (Keeling) Islands"
+  ]
  },
  {
   "id": "ph",
@@ -1397,7 +2141,14 @@
   "size": 60192,
   "count": 135,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/ph.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/ph.json.gz",
+  "notYet": [
+   "Cambodia",
+   "Vietnam",
+   "Singapore",
+   "Christmas Island",
+   "Cocos (Keeling) Islands"
+  ]
  },
  {
   "id": "th",
@@ -1407,7 +2158,14 @@
   "size": 13231,
   "count": 13,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/th.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/th.json.gz",
+  "notYet": [
+   "Cambodia",
+   "Vietnam",
+   "Singapore",
+   "Christmas Island",
+   "Cocos (Keeling) Islands"
+  ]
  },
  {
   "id": "tl",
@@ -1417,7 +2175,14 @@
   "size": 9990,
   "count": 9,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/tl.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/tl.json.gz",
+  "notYet": [
+   "Cambodia",
+   "Vietnam",
+   "Singapore",
+   "Christmas Island",
+   "Cocos (Keeling) Islands"
+  ]
  },
  {
   "id": "au",
@@ -1427,7 +2192,27 @@
   "size": 1373047,
   "count": 1911,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/au.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/au.json.gz",
+  "notYet": [
+   "Norfolk Island",
+   "Solomon Islands",
+   "Fiji",
+   "Tuvalu",
+   "Samoa",
+   "American Samoa",
+   "Tonga",
+   "Wallis and Futuna",
+   "Niue",
+   "Tokelau",
+   "Cook Islands",
+   "Kiribati",
+   "Guam",
+   "Northern Mariana Islands",
+   "Palau",
+   "Micronesia",
+   "Marshall Islands",
+   "Nauru"
+  ]
  },
  {
   "id": "pf",
@@ -1437,7 +2222,27 @@
   "size": 8534,
   "count": 19,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/pf.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/pf.json.gz",
+  "notYet": [
+   "Norfolk Island",
+   "Solomon Islands",
+   "Fiji",
+   "Tuvalu",
+   "Samoa",
+   "American Samoa",
+   "Tonga",
+   "Wallis and Futuna",
+   "Niue",
+   "Tokelau",
+   "Cook Islands",
+   "Kiribati",
+   "Guam",
+   "Northern Mariana Islands",
+   "Palau",
+   "Micronesia",
+   "Marshall Islands",
+   "Nauru"
+  ]
  },
  {
   "id": "nc",
@@ -1447,7 +2252,27 @@
   "size": 12867,
   "count": 23,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/nc.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/nc.json.gz",
+  "notYet": [
+   "Norfolk Island",
+   "Solomon Islands",
+   "Fiji",
+   "Tuvalu",
+   "Samoa",
+   "American Samoa",
+   "Tonga",
+   "Wallis and Futuna",
+   "Niue",
+   "Tokelau",
+   "Cook Islands",
+   "Kiribati",
+   "Guam",
+   "Northern Mariana Islands",
+   "Palau",
+   "Micronesia",
+   "Marshall Islands",
+   "Nauru"
+  ]
  },
  {
   "id": "nz",
@@ -1457,7 +2282,27 @@
   "size": 105642,
   "count": 415,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/nz.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/nz.json.gz",
+  "notYet": [
+   "Norfolk Island",
+   "Solomon Islands",
+   "Fiji",
+   "Tuvalu",
+   "Samoa",
+   "American Samoa",
+   "Tonga",
+   "Wallis and Futuna",
+   "Niue",
+   "Tokelau",
+   "Cook Islands",
+   "Kiribati",
+   "Guam",
+   "Northern Mariana Islands",
+   "Palau",
+   "Micronesia",
+   "Marshall Islands",
+   "Nauru"
+  ]
  },
  {
   "id": "pg",
@@ -1467,7 +2312,27 @@
   "size": 864,
   "count": 1,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/pg.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/pg.json.gz",
+  "notYet": [
+   "Norfolk Island",
+   "Solomon Islands",
+   "Fiji",
+   "Tuvalu",
+   "Samoa",
+   "American Samoa",
+   "Tonga",
+   "Wallis and Futuna",
+   "Niue",
+   "Tokelau",
+   "Cook Islands",
+   "Kiribati",
+   "Guam",
+   "Northern Mariana Islands",
+   "Palau",
+   "Micronesia",
+   "Marshall Islands",
+   "Nauru"
+  ]
  },
  {
   "id": "vu",
@@ -1477,6 +2342,26 @@
   "size": 6070,
   "count": 9,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/vu.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/vu.json.gz",
+  "notYet": [
+   "Norfolk Island",
+   "Solomon Islands",
+   "Fiji",
+   "Tuvalu",
+   "Samoa",
+   "American Samoa",
+   "Tonga",
+   "Wallis and Futuna",
+   "Niue",
+   "Tokelau",
+   "Cook Islands",
+   "Kiribati",
+   "Guam",
+   "Northern Mariana Islands",
+   "Palau",
+   "Micronesia",
+   "Marshall Islands",
+   "Nauru"
+  ]
  }
 ]
