@@ -380,6 +380,8 @@ files here (`airspace-<edition>`). 148 files, 19 MB together.
 | Namibia | `na.json.gz` | 49 | 39 KB | 3 November 2026 |
 | South Africa | `za.json.gz` | 273 | 122 KB | 3 November 2026 |
 
+Not in openAIP yet: Lesotho, Eswatini, Zimbabwe, Zambia.
+
 ## East Africa (5 countries)
 
 | Country | File | Airspaces | Size | Edition |
@@ -389,6 +391,8 @@ files here (`airspace-<edition>`). 148 files, 19 MB together.
 | Rwanda | `rw.json.gz` | 10 | 5 KB | 3 November 2026 |
 | Somalia | `so.json.gz` | 17 | 18 KB | 3 November 2026 |
 | South Sudan | `ss.json.gz` | 5 | 5 KB | 3 November 2026 |
+
+Not in openAIP yet: Tanzania, Uganda, Burundi, Ethiopia, Eritrea.
 
 ## Indian Ocean islands (5 countries)
 
@@ -400,6 +404,8 @@ files here (`airspace-<edition>`). 148 files, 19 MB together.
 | Réunion | `re.json.gz` | 13 | 6 KB | 3 November 2026 |
 | Seychelles | `sc.json.gz` | 12 | 8 KB | 3 November 2026 |
 
+Not in openAIP yet: Mayotte.
+
 ## Central Africa (6 countries)
 
 | Country | File | Airspaces | Size | Edition |
@@ -410,6 +416,8 @@ files here (`airspace-<edition>`). 148 files, 19 MB together.
 | Congo (Brazzaville) | `cg.json.gz` | 20 | 8 KB | 3 November 2026 |
 | Equatorial Guinea | `gq.json.gz` | 3 | 4 KB | 3 November 2026 |
 | Gabon | `ga.json.gz` | 23 | 14 KB | 3 November 2026 |
+
+Not in openAIP yet: DR Congo, São Tomé and Príncipe.
 
 ## West Africa (8 countries)
 
@@ -424,6 +432,8 @@ files here (`airspace-<edition>`). 148 files, 19 MB together.
 | Senegal | `sn.json.gz` | 29 | 17 KB | 3 November 2026 |
 | Togo | `tg.json.gz` | 10 | 4 KB | 3 November 2026 |
 
+Not in openAIP yet: Nigeria, Ghana, Côte d'Ivoire, Liberia, Sierra Leone, Guinea, The Gambia, Cape Verde.
+
 ## North Africa (4 countries)
 
 | Country | File | Airspaces | Size | Edition |
@@ -432,6 +442,8 @@ files here (`airspace-<edition>`). 148 files, 19 MB together.
 | Libya | `ly.json.gz` | 19 | 14 KB | 3 November 2026 |
 | Morocco | `ma.json.gz` | 89 | 39 KB | 3 November 2026 |
 | Tunisia | `tn.json.gz` | 61 | 30 KB | 3 November 2026 |
+
+Not in openAIP yet: Western Sahara, Egypt, Sudan.
 
 ## Middle East (9 countries)
 
@@ -447,6 +459,8 @@ files here (`airspace-<edition>`). 148 files, 19 MB together.
 | Turkey | `tr.json.gz` | 349 | 102 KB | 3 November 2026 |
 | United Arab Emirates | `ae.json.gz` | 136 | 26 KB | 3 November 2026 |
 
+Not in openAIP yet: Yemen, Kuwait, Iraq, Jordan, Palestinian territories, Lebanon, Syria.
+
 ## British Isles (3 countries)
 
 | Country | File | Airspaces | Size | Edition |
@@ -454,6 +468,8 @@ files here (`airspace-<edition>`). 148 files, 19 MB together.
 | Ireland | `ie.json.gz` | 83 | 45 KB | 3 November 2026 |
 | Isle of Man | `im.json.gz` | 6 | 2 KB | 3 November 2026 |
 | United Kingdom | `gb.json.gz` | 1188 | 241 KB | 3 November 2026 |
+
+Not in openAIP yet: Jersey, Guernsey.
 
 ## Western Europe (7 countries)
 
@@ -466,6 +482,8 @@ files here (`airspace-<edition>`). 148 files, 19 MB together.
 | Luxembourg | `lu.json.gz` | 18 | 7 KB | 3 November 2026 |
 | Netherlands | `nl.json.gz` | 263 | 93 KB | 3 November 2026 |
 | Switzerland | `ch.json.gz` | 194 | 38 KB | 3 November 2026 |
+
+Not in openAIP yet: Monaco, Liechtenstein.
 
 ## Northern Europe (9 countries)
 
@@ -481,6 +499,8 @@ files here (`airspace-<edition>`). 148 files, 19 MB together.
 | Norway | `no.json.gz` | 599 | 59 KB | 3 November 2026 |
 | Sweden | `se.json.gz` | 516 | 58 KB | 3 November 2026 |
 
+Not in openAIP yet: Åland, Svalbard and Jan Mayen.
+
 ## Southern Europe (5 countries)
 
 | Country | File | Airspaces | Size | Edition |
@@ -490,6 +510,8 @@ files here (`airspace-<edition>`). 148 files, 19 MB together.
 | Malta | `mt.json.gz` | 8 | 5 KB | 3 November 2026 |
 | Portugal | `pt.json.gz` | 94 | 31 KB | 3 November 2026 |
 | Spain | `es.json.gz` | 808 | 163 KB | 3 November 2026 |
+
+Not in openAIP yet: Gibraltar, Andorra, San Marino.
 
 ## Eastern Europe and the Balkans (14 countries)
 
@@ -510,6 +532,8 @@ files here (`airspace-<edition>`). 148 files, 19 MB together.
 | Slovakia | `sk.json.gz` | 130 | 75 KB | 3 November 2026 |
 | Slovenia | `si.json.gz` | 64 | 17 KB | 3 November 2026 |
 
+Not in openAIP yet: Montenegro, Kosovo, Ukraine.
+
 ## North America (3 countries)
 
 | Country | File | Airspaces | Size | Edition |
@@ -517,6 +541,8 @@ files here (`airspace-<edition>`). 148 files, 19 MB together.
 | Canada | `ca.json.gz` | 2272 | 843 KB | 3 November 2026 |
 | Greenland | `gl.json.gz` | 27 | 31 KB | 3 November 2026 |
 | Mexico | `mx.json.gz` | 18 | 12 KB | 3 November 2026 |
+
+Not in openAIP yet: Bermuda, Saint Pierre and Miquelon.
 
 ## United States (19 areas)
 
@@ -550,6 +576,8 @@ files here (`airspace-<edition>`). 148 files, 19 MB together.
 | Curaçao | `cw.json.gz` | 32 | 11 KB | 3 November 2026 |
 | Puerto Rico | `pr.json.gz` | 6 | 4 KB | 3 November 2026 |
 
+Not in openAIP yet: Guatemala, Belize, Honduras, El Salvador, Nicaragua, Panama, Cuba, Cayman Islands, Jamaica, Haiti, Dominican Republic, US Virgin Islands, British Virgin Islands, Bahamas, Turks and Caicos, Anguilla, Antigua and Barbuda, Saint Kitts and Nevis, Montserrat, Guadeloupe, Dominica, Martinique, Saint Lucia, Saint Vincent and the Grenadines, Barbados, Grenada, Trinidad and Tobago, Aruba, Bonaire, Sint Eustatius and Saba, Sint Maarten, Saint Martin, Saint Barthélemy.
+
 ## South America (9 countries)
 
 | Country | File | Airspaces | Size | Edition |
@@ -563,6 +591,8 @@ files here (`airspace-<edition>`). 148 files, 19 MB together.
 | Paraguay | `py.json.gz` | 26 | 10 KB | 3 November 2026 |
 | Uruguay | `uy.json.gz` | 57 | 21 KB | 3 November 2026 |
 | Venezuela | `ve.json.gz` | 113 | 60 KB | 3 November 2026 |
+
+Not in openAIP yet: Suriname, French Guiana, Ecuador, Peru, Bolivia.
 
 ## Russia (1 country)
 
@@ -582,6 +612,8 @@ files here (`airspace-<edition>`). 148 files, 19 MB together.
 | Turkmenistan | `tm.json.gz` | 26 | 12 KB | 3 November 2026 |
 | Uzbekistan | `uz.json.gz` | 62 | 30 KB | 3 November 2026 |
 
+Not in openAIP yet: Kyrgyzstan.
+
 ## South Asia (6 countries)
 
 | Country | File | Airspaces | Size | Edition |
@@ -593,6 +625,8 @@ files here (`airspace-<edition>`). 148 files, 19 MB together.
 | Pakistan | `pk.json.gz` | 178 | 44 KB | 3 November 2026 |
 | Sri Lanka | `lk.json.gz` | 47 | 22 KB | 3 November 2026 |
 
+Not in openAIP yet: Bhutan, Bangladesh.
+
 ## East Asia (5 countries)
 
 | Country | File | Airspaces | Size | Edition |
@@ -602,6 +636,8 @@ files here (`airspace-<edition>`). 148 files, 19 MB together.
 | Japan | `jp.json.gz` | 1182 | 289 KB | 3 November 2026 |
 | Mongolia | `mn.json.gz` | 61 | 56 KB | 3 November 2026 |
 | North Korea | `kp.json.gz` | 20 | 8 KB | 3 November 2026 |
+
+Not in openAIP yet: Macau, South Korea, Taiwan.
 
 ## Southeast Asia (8 countries)
 
@@ -616,6 +652,8 @@ files here (`airspace-<edition>`). 148 files, 19 MB together.
 | Thailand | `th.json.gz` | 13 | 13 KB | 3 November 2026 |
 | Timor-Leste | `tl.json.gz` | 9 | 10 KB | 3 November 2026 |
 
+Not in openAIP yet: Cambodia, Vietnam, Singapore, Christmas Island, Cocos (Keeling) Islands.
+
 ## Australia and the Pacific (6 countries)
 
 | Country | File | Airspaces | Size | Edition |
@@ -626,6 +664,8 @@ files here (`airspace-<edition>`). 148 files, 19 MB together.
 | New Zealand | `nz.json.gz` | 415 | 106 KB | 3 November 2026 |
 | Papua New Guinea | `pg.json.gz` | 1 | 1 KB | 3 November 2026 |
 | Vanuatu | `vu.json.gz` | 9 | 6 KB | 3 November 2026 |
+
+Not in openAIP yet: Norfolk Island, Solomon Islands, Fiji, Tuvalu, Samoa, American Samoa, Tonga, Wallis and Futuna, Niue, Tokelau, Cook Islands, Kiribati, Guam, Northern Mariana Islands, Palau, Micronesia, Marshall Islands, Nauru.
 
 ## Licence and attribution
 
