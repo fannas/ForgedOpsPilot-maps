@@ -364,29 +364,30 @@ release files here.
 # Airspace by country
 
 Airspace files for the same app (Fly > Airspace and NOTAM data > Choose countries): one `.json.gz` file per
-country (gzip JSON in openAIP's layout), made from [openAIP](https://www.openaip.net) data and renewed about
-every four weeks. The app reads `airspace.json` in this repository, which points at the release files here
-(`airspace-<edition>`). 130 countries, 82 MB together.
+country (gzip JSON in openAIP's layout, shapes simplified to within 10 m), made from
+[openAIP](https://www.openaip.net) data and renewed about every four weeks. The United States comes as the
+same 19 areas as the map above. The app reads `airspace.json` in this repository, which points at the release
+files here (`airspace-<edition>`). 148 files, 19 MB together.
 
 ## Southern Africa (6 countries)
 
 | Country | File | Airspaces | Size | Edition |
 |---|---|---|---|---|
-| Angola | `ao.json.gz` | 9 | 5 KB | 3 November 2026 |
+| Angola | `ao.json.gz` | 9 | 4 KB | 3 November 2026 |
 | Botswana | `bw.json.gz` | 41 | 11 KB | 3 November 2026 |
-| Malawi | `mw.json.gz` | 23 | 44 KB | 3 November 2026 |
-| Mozambique | `mz.json.gz` | 37 | 59 KB | 3 November 2026 |
-| Namibia | `na.json.gz` | 49 | 75 KB | 3 November 2026 |
-| South Africa | `za.json.gz` | 273 | 173 KB | 3 November 2026 |
+| Malawi | `mw.json.gz` | 23 | 38 KB | 3 November 2026 |
+| Mozambique | `mz.json.gz` | 37 | 48 KB | 3 November 2026 |
+| Namibia | `na.json.gz` | 49 | 39 KB | 3 November 2026 |
+| South Africa | `za.json.gz` | 273 | 122 KB | 3 November 2026 |
 
 ## East Africa (5 countries)
 
 | Country | File | Airspaces | Size | Edition |
 |---|---|---|---|---|
-| Djibouti | `dj.json.gz` | 15 | 7 KB | 3 November 2026 |
+| Djibouti | `dj.json.gz` | 15 | 5 KB | 3 November 2026 |
 | Kenya | `ke.json.gz` | 18 | 15 KB | 3 November 2026 |
 | Rwanda | `rw.json.gz` | 10 | 5 KB | 3 November 2026 |
-| Somalia | `so.json.gz` | 17 | 20 KB | 3 November 2026 |
+| Somalia | `so.json.gz` | 17 | 18 KB | 3 November 2026 |
 | South Sudan | `ss.json.gz` | 5 | 5 KB | 3 November 2026 |
 
 ## Indian Ocean islands (5 countries)
@@ -394,21 +395,21 @@ every four weeks. The app reads `airspace.json` in this repository, which points
 | Country | File | Airspaces | Size | Edition |
 |---|---|---|---|---|
 | Comoros | `km.json.gz` | 2 | 2 KB | 3 November 2026 |
-| Madagascar | `mg.json.gz` | 59 | 47 KB | 3 November 2026 |
-| Mauritius | `mu.json.gz` | 7 | 5 KB | 3 November 2026 |
-| Réunion | `re.json.gz` | 13 | 7 KB | 3 November 2026 |
-| Seychelles | `sc.json.gz` | 12 | 12 KB | 3 November 2026 |
+| Madagascar | `mg.json.gz` | 59 | 31 KB | 3 November 2026 |
+| Mauritius | `mu.json.gz` | 7 | 4 KB | 3 November 2026 |
+| Réunion | `re.json.gz` | 13 | 6 KB | 3 November 2026 |
+| Seychelles | `sc.json.gz` | 12 | 8 KB | 3 November 2026 |
 
 ## Central Africa (6 countries)
 
 | Country | File | Airspaces | Size | Edition |
 |---|---|---|---|---|
-| Cameroon | `cm.json.gz` | 28 | 13 KB | 3 November 2026 |
+| Cameroon | `cm.json.gz` | 28 | 12 KB | 3 November 2026 |
 | Central African Republic | `cf.json.gz` | 6 | 5 KB | 3 November 2026 |
-| Chad | `td.json.gz` | 18 | 18 KB | 3 November 2026 |
-| Congo (Brazzaville) | `cg.json.gz` | 20 | 11 KB | 3 November 2026 |
+| Chad | `td.json.gz` | 18 | 15 KB | 3 November 2026 |
+| Congo (Brazzaville) | `cg.json.gz` | 20 | 8 KB | 3 November 2026 |
 | Equatorial Guinea | `gq.json.gz` | 3 | 4 KB | 3 November 2026 |
-| Gabon | `ga.json.gz` | 23 | 22 KB | 3 November 2026 |
+| Gabon | `ga.json.gz` | 23 | 14 KB | 3 November 2026 |
 
 ## West Africa (8 countries)
 
@@ -416,195 +417,213 @@ every four weeks. The app reads `airspace.json` in this repository, which points
 |---|---|---|---|---|
 | Benin | `bj.json.gz` | 10 | 4 KB | 3 November 2026 |
 | Burkina Faso | `bf.json.gz` | 13 | 4 KB | 3 November 2026 |
-| Guinea-Bissau | `gw.json.gz` | 7 | 5 KB | 3 November 2026 |
-| Mali | `ml.json.gz` | 15 | 18 KB | 3 November 2026 |
-| Mauritania | `mr.json.gz` | 15 | 11 KB | 3 November 2026 |
-| Niger | `ne.json.gz` | 7 | 9 KB | 3 November 2026 |
-| Senegal | `sn.json.gz` | 29 | 24 KB | 3 November 2026 |
-| Togo | `tg.json.gz` | 10 | 5 KB | 3 November 2026 |
+| Guinea-Bissau | `gw.json.gz` | 7 | 4 KB | 3 November 2026 |
+| Mali | `ml.json.gz` | 15 | 15 KB | 3 November 2026 |
+| Mauritania | `mr.json.gz` | 15 | 9 KB | 3 November 2026 |
+| Niger | `ne.json.gz` | 7 | 8 KB | 3 November 2026 |
+| Senegal | `sn.json.gz` | 29 | 17 KB | 3 November 2026 |
+| Togo | `tg.json.gz` | 10 | 4 KB | 3 November 2026 |
 
 ## North Africa (4 countries)
 
 | Country | File | Airspaces | Size | Edition |
 |---|---|---|---|---|
-| Algeria | `dz.json.gz` | 103 | 71 KB | 3 November 2026 |
-| Libya | `ly.json.gz` | 19 | 15 KB | 3 November 2026 |
-| Morocco | `ma.json.gz` | 89 | 63 KB | 3 November 2026 |
-| Tunisia | `tn.json.gz` | 61 | 36 KB | 3 November 2026 |
+| Algeria | `dz.json.gz` | 103 | 58 KB | 3 November 2026 |
+| Libya | `ly.json.gz` | 19 | 14 KB | 3 November 2026 |
+| Morocco | `ma.json.gz` | 89 | 39 KB | 3 November 2026 |
+| Tunisia | `tn.json.gz` | 61 | 30 KB | 3 November 2026 |
 
 ## Middle East (9 countries)
 
 | Country | File | Airspaces | Size | Edition |
 |---|---|---|---|---|
-| Bahrain | `bh.json.gz` | 8 | 8 KB | 3 November 2026 |
-| Cyprus | `cy.json.gz` | 90 | 22 KB | 3 November 2026 |
-| Iran | `ir.json.gz` | 398 | 143 KB | 3 November 2026 |
-| Israel | `il.json.gz` | 78 | 16 KB | 3 November 2026 |
-| Oman | `om.json.gz` | 113 | 79 KB | 3 November 2026 |
-| Qatar | `qa.json.gz` | 33 | 21 KB | 3 November 2026 |
-| Saudi Arabia | `sa.json.gz` | 193 | 140 KB | 3 November 2026 |
-| Turkey | `tr.json.gz` | 349 | 168 KB | 3 November 2026 |
-| United Arab Emirates | `ae.json.gz` | 136 | 43 KB | 3 November 2026 |
+| Bahrain | `bh.json.gz` | 8 | 3 KB | 3 November 2026 |
+| Cyprus | `cy.json.gz` | 90 | 18 KB | 3 November 2026 |
+| Iran | `ir.json.gz` | 398 | 121 KB | 3 November 2026 |
+| Israel | `il.json.gz` | 78 | 10 KB | 3 November 2026 |
+| Oman | `om.json.gz` | 113 | 38 KB | 3 November 2026 |
+| Qatar | `qa.json.gz` | 33 | 12 KB | 3 November 2026 |
+| Saudi Arabia | `sa.json.gz` | 193 | 75 KB | 3 November 2026 |
+| Turkey | `tr.json.gz` | 349 | 102 KB | 3 November 2026 |
+| United Arab Emirates | `ae.json.gz` | 136 | 26 KB | 3 November 2026 |
 
 ## British Isles (3 countries)
 
 | Country | File | Airspaces | Size | Edition |
 |---|---|---|---|---|
-| Ireland | `ie.json.gz` | 83 | 93 KB | 3 November 2026 |
-| Isle of Man | `im.json.gz` | 6 | 3 KB | 3 November 2026 |
-| United Kingdom | `gb.json.gz` | 1188 | 491 KB | 3 November 2026 |
+| Ireland | `ie.json.gz` | 83 | 45 KB | 3 November 2026 |
+| Isle of Man | `im.json.gz` | 6 | 2 KB | 3 November 2026 |
+| United Kingdom | `gb.json.gz` | 1188 | 241 KB | 3 November 2026 |
 
 ## Western Europe (7 countries)
 
 | Country | File | Airspaces | Size | Edition |
 |---|---|---|---|---|
-| Austria | `at.json.gz` | 225 | 89 KB | 3 November 2026 |
-| Belgium | `be.json.gz` | 258 | 108 KB | 3 November 2026 |
-| France | `fr.json.gz` | 1795 | 802 KB | 3 November 2026 |
-| Germany | `de.json.gz` | 751 | 336 KB | 3 November 2026 |
+| Austria | `at.json.gz` | 225 | 82 KB | 3 November 2026 |
+| Belgium | `be.json.gz` | 258 | 87 KB | 3 November 2026 |
+| France | `fr.json.gz` | 1795 | 348 KB | 3 November 2026 |
+| Germany | `de.json.gz` | 751 | 235 KB | 3 November 2026 |
 | Luxembourg | `lu.json.gz` | 18 | 7 KB | 3 November 2026 |
-| Netherlands | `nl.json.gz` | 263 | 145 KB | 3 November 2026 |
-| Switzerland | `ch.json.gz` | 194 | 52 KB | 3 November 2026 |
+| Netherlands | `nl.json.gz` | 263 | 93 KB | 3 November 2026 |
+| Switzerland | `ch.json.gz` | 194 | 38 KB | 3 November 2026 |
 
 ## Northern Europe (9 countries)
 
 | Country | File | Airspaces | Size | Edition |
 |---|---|---|---|---|
-| Denmark | `dk.json.gz` | 210 | 35 KB | 3 November 2026 |
-| Estonia | `ee.json.gz` | 115 | 19 KB | 3 November 2026 |
+| Denmark | `dk.json.gz` | 210 | 25 KB | 3 November 2026 |
+| Estonia | `ee.json.gz` | 115 | 18 KB | 3 November 2026 |
 | Faroe Islands | `fo.json.gz` | 1 | 2 KB | 3 November 2026 |
-| Finland | `fi.json.gz` | 985 | 71 KB | 3 November 2026 |
-| Iceland | `is.json.gz` | 56 | 15 KB | 3 November 2026 |
-| Latvia | `lv.json.gz` | 162 | 69 KB | 3 November 2026 |
-| Lithuania | `lt.json.gz` | 102 | 121 KB | 3 November 2026 |
-| Norway | `no.json.gz` | 599 | 64 KB | 3 November 2026 |
-| Sweden | `se.json.gz` | 516 | 80 KB | 3 November 2026 |
+| Finland | `fi.json.gz` | 985 | 68 KB | 3 November 2026 |
+| Iceland | `is.json.gz` | 56 | 10 KB | 3 November 2026 |
+| Latvia | `lv.json.gz` | 162 | 49 KB | 3 November 2026 |
+| Lithuania | `lt.json.gz` | 102 | 72 KB | 3 November 2026 |
+| Norway | `no.json.gz` | 599 | 59 KB | 3 November 2026 |
+| Sweden | `se.json.gz` | 516 | 58 KB | 3 November 2026 |
 
 ## Southern Europe (5 countries)
 
 | Country | File | Airspaces | Size | Edition |
 |---|---|---|---|---|
-| Greece | `gr.json.gz` | 238 | 137 KB | 3 November 2026 |
-| Italy | `it.json.gz` | 1558 | 860 KB | 3 November 2026 |
-| Malta | `mt.json.gz` | 8 | 9 KB | 3 November 2026 |
+| Greece | `gr.json.gz` | 238 | 82 KB | 3 November 2026 |
+| Italy | `it.json.gz` | 1558 | 362 KB | 3 November 2026 |
+| Malta | `mt.json.gz` | 8 | 5 KB | 3 November 2026 |
 | Portugal | `pt.json.gz` | 94 | 31 KB | 3 November 2026 |
-| Spain | `es.json.gz` | 808 | 212 KB | 3 November 2026 |
+| Spain | `es.json.gz` | 808 | 163 KB | 3 November 2026 |
 
 ## Eastern Europe and the Balkans (14 countries)
 
 | Country | File | Airspaces | Size | Edition |
 |---|---|---|---|---|
 | Albania | `al.json.gz` | 16 | 2 KB | 3 November 2026 |
-| Belarus | `by.json.gz` | 111 | 38 KB | 3 November 2026 |
-| Bosnia and Herzegovina | `ba.json.gz` | 79 | 23 KB | 3 November 2026 |
-| Bulgaria | `bg.json.gz` | 190 | 77 KB | 3 November 2026 |
-| Croatia | `hr.json.gz` | 419 | 79 KB | 3 November 2026 |
-| Czechia | `cz.json.gz` | 356 | 215 KB | 3 November 2026 |
-| Hungary | `hu.json.gz` | 192 | 49 KB | 3 November 2026 |
-| Moldova | `md.json.gz` | 34 | 17 KB | 3 November 2026 |
-| North Macedonia | `mk.json.gz` | 6 | 4 KB | 3 November 2026 |
-| Poland | `pl.json.gz` | 1018 | 287 KB | 3 November 2026 |
-| Romania | `ro.json.gz` | 381 | 229 KB | 3 November 2026 |
-| Serbia | `rs.json.gz` | 208 | 152 KB | 3 November 2026 |
-| Slovakia | `sk.json.gz` | 130 | 80 KB | 3 November 2026 |
-| Slovenia | `si.json.gz` | 64 | 34 KB | 3 November 2026 |
+| Belarus | `by.json.gz` | 111 | 32 KB | 3 November 2026 |
+| Bosnia and Herzegovina | `ba.json.gz` | 79 | 12 KB | 3 November 2026 |
+| Bulgaria | `bg.json.gz` | 190 | 45 KB | 3 November 2026 |
+| Croatia | `hr.json.gz` | 419 | 55 KB | 3 November 2026 |
+| Czechia | `cz.json.gz` | 356 | 145 KB | 3 November 2026 |
+| Hungary | `hu.json.gz` | 192 | 38 KB | 3 November 2026 |
+| Moldova | `md.json.gz` | 34 | 16 KB | 3 November 2026 |
+| North Macedonia | `mk.json.gz` | 6 | 2 KB | 3 November 2026 |
+| Poland | `pl.json.gz` | 1018 | 183 KB | 3 November 2026 |
+| Romania | `ro.json.gz` | 381 | 165 KB | 3 November 2026 |
+| Serbia | `rs.json.gz` | 208 | 98 KB | 3 November 2026 |
+| Slovakia | `sk.json.gz` | 130 | 75 KB | 3 November 2026 |
+| Slovenia | `si.json.gz` | 64 | 17 KB | 3 November 2026 |
 
 ## North America (3 countries)
 
 | Country | File | Airspaces | Size | Edition |
 |---|---|---|---|---|
-| Canada | `ca.json.gz` | 2272 | 1 MB | 3 November 2026 |
-| Greenland | `gl.json.gz` | 27 | 32 KB | 3 November 2026 |
-| Mexico | `mx.json.gz` | 18 | 20 KB | 3 November 2026 |
+| Canada | `ca.json.gz` | 2272 | 843 KB | 3 November 2026 |
+| Greenland | `gl.json.gz` | 27 | 31 KB | 3 November 2026 |
+| Mexico | `mx.json.gz` | 18 | 12 KB | 3 November 2026 |
 
-## United States (1 country)
+## United States (19 areas)
 
-| Country | File | Airspaces | Size | Edition |
+| Area | File | Airspaces | Size | Edition |
 |---|---|---|---|---|
-| United States | `us.json.gz` | 7730 | 68 MB | 3 November 2026 |
+| Alabama, Mississippi, Tennessee and Kentucky | `us-so.json.gz` | 1056 | 1 MB | 3 November 2026 |
+| Alaska | `us-ak.json.gz` | 498 | 480 KB | 3 November 2026 |
+| Aleutian Islands west of 180° | `us-akw.json.gz` | 38 | 17 KB | 3 November 2026 |
+| Arizona, New Mexico and Nevada | `us-sw.json.gz` | 1161 | 534 KB | 3 November 2026 |
+| California north | `us-can.json.gz` | 509 | 192 KB | 3 November 2026 |
+| California south | `us-cas.json.gz` | 413 | 133 KB | 3 November 2026 |
+| Delaware, Maryland, Washington DC, Virginia, West Virginia and North Carolina | `us-ma.json.gz` | 935 | 864 KB | 3 November 2026 |
+| Hawaii | `us-hi.json.gz` | 116 | 53 KB | 3 November 2026 |
+| Illinois and Wisconsin | `us-il.json.gz` | 575 | 617 KB | 3 November 2026 |
+| Louisiana, Arkansas and Oklahoma | `us-la.json.gz` | 1000 | 914 KB | 3 November 2026 |
+| Minnesota, Iowa and Missouri | `us-mn.json.gz` | 841 | 1 MB | 3 November 2026 |
+| Montana, Wyoming, Idaho, Colorado and Utah | `us-mt.json.gz` | 792 | 441 KB | 3 November 2026 |
+| New England | `us-ne.json.gz` | 300 | 306 KB | 3 November 2026 |
+| New York, New Jersey and Pennsylvania | `us-ny.json.gz` | 623 | 581 KB | 3 November 2026 |
+| North Dakota, South Dakota, Nebraska and Kansas | `us-pl.json.gz` | 637 | 634 KB | 3 November 2026 |
+| Ohio, Michigan and Indiana | `us-oh.json.gz` | 802 | 900 KB | 3 November 2026 |
+| South Carolina, Georgia and Florida | `us-se.json.gz` | 1035 | 696 KB | 3 November 2026 |
+| Texas | `us-tx.json.gz` | 783 | 643 KB | 3 November 2026 |
+| Washington and Oregon | `us-nw.json.gz` | 402 | 145 KB | 3 November 2026 |
 
 ## Central America and the Caribbean (3 countries)
 
 | Country | File | Airspaces | Size | Edition |
 |---|---|---|---|---|
-| Costa Rica | `cr.json.gz` | 22 | 16 KB | 3 November 2026 |
-| Curaçao | `cw.json.gz` | 32 | 21 KB | 3 November 2026 |
-| Puerto Rico | `pr.json.gz` | 6 | 7 KB | 3 November 2026 |
+| Costa Rica | `cr.json.gz` | 22 | 10 KB | 3 November 2026 |
+| Curaçao | `cw.json.gz` | 32 | 11 KB | 3 November 2026 |
+| Puerto Rico | `pr.json.gz` | 6 | 4 KB | 3 November 2026 |
 
 ## South America (9 countries)
 
 | Country | File | Airspaces | Size | Edition |
 |---|---|---|---|---|
-| Argentina | `ar.json.gz` | 226 | 251 KB | 3 November 2026 |
-| Brazil | `br.json.gz` | 735 | 141 KB | 3 November 2026 |
-| Chile | `cl.json.gz` | 36 | 20 KB | 3 November 2026 |
-| Colombia | `co.json.gz` | 109 | 35 KB | 3 November 2026 |
+| Argentina | `ar.json.gz` | 226 | 163 KB | 3 November 2026 |
+| Brazil | `br.json.gz` | 735 | 139 KB | 3 November 2026 |
+| Chile | `cl.json.gz` | 36 | 14 KB | 3 November 2026 |
+| Colombia | `co.json.gz` | 109 | 26 KB | 3 November 2026 |
 | Falkland Islands | `fk.json.gz` | 1 | 2 KB | 3 November 2026 |
 | Guyana | `gy.json.gz` | 5 | 6 KB | 3 November 2026 |
-| Paraguay | `py.json.gz` | 26 | 15 KB | 3 November 2026 |
-| Uruguay | `uy.json.gz` | 57 | 32 KB | 3 November 2026 |
-| Venezuela | `ve.json.gz` | 113 | 86 KB | 3 November 2026 |
+| Paraguay | `py.json.gz` | 26 | 10 KB | 3 November 2026 |
+| Uruguay | `uy.json.gz` | 57 | 21 KB | 3 November 2026 |
+| Venezuela | `ve.json.gz` | 113 | 60 KB | 3 November 2026 |
 
 ## Russia (1 country)
 
 | Country | File | Airspaces | Size | Edition |
 |---|---|---|---|---|
-| Russia | `ru.json.gz` | 2511 | 690 KB | 3 November 2026 |
+| Russia | `ru.json.gz` | 2511 | 548 KB | 3 November 2026 |
 
 ## Caucasus and Central Asia (7 countries)
 
 | Country | File | Airspaces | Size | Edition |
 |---|---|---|---|---|
-| Armenia | `am.json.gz` | 15 | 14 KB | 3 November 2026 |
-| Azerbaijan | `az.json.gz` | 27 | 23 KB | 3 November 2026 |
-| Georgia | `ge.json.gz` | 71 | 19 KB | 3 November 2026 |
-| Kazakhstan | `kz.json.gz` | 318 | 128 KB | 3 November 2026 |
-| Tajikistan | `tj.json.gz` | 10 | 10 KB | 3 November 2026 |
-| Turkmenistan | `tm.json.gz` | 26 | 13 KB | 3 November 2026 |
-| Uzbekistan | `uz.json.gz` | 62 | 36 KB | 3 November 2026 |
+| Armenia | `am.json.gz` | 15 | 9 KB | 3 November 2026 |
+| Azerbaijan | `az.json.gz` | 27 | 19 KB | 3 November 2026 |
+| Georgia | `ge.json.gz` | 71 | 11 KB | 3 November 2026 |
+| Kazakhstan | `kz.json.gz` | 318 | 101 KB | 3 November 2026 |
+| Tajikistan | `tj.json.gz` | 10 | 9 KB | 3 November 2026 |
+| Turkmenistan | `tm.json.gz` | 26 | 12 KB | 3 November 2026 |
+| Uzbekistan | `uz.json.gz` | 62 | 30 KB | 3 November 2026 |
 
 ## South Asia (6 countries)
 
 | Country | File | Airspaces | Size | Edition |
 |---|---|---|---|---|
-| Afghanistan | `af.json.gz` | 94 | 34 KB | 3 November 2026 |
-| India | `in.json.gz` | 4 | 21 KB | 3 November 2026 |
-| Maldives | `mv.json.gz` | 26 | 24 KB | 3 November 2026 |
-| Nepal | `np.json.gz` | 14 | 106 KB | 3 November 2026 |
-| Pakistan | `pk.json.gz` | 178 | 74 KB | 3 November 2026 |
-| Sri Lanka | `lk.json.gz` | 47 | 23 KB | 3 November 2026 |
+| Afghanistan | `af.json.gz` | 94 | 23 KB | 3 November 2026 |
+| India | `in.json.gz` | 4 | 20 KB | 3 November 2026 |
+| Maldives | `mv.json.gz` | 26 | 19 KB | 3 November 2026 |
+| Nepal | `np.json.gz` | 14 | 93 KB | 3 November 2026 |
+| Pakistan | `pk.json.gz` | 178 | 44 KB | 3 November 2026 |
+| Sri Lanka | `lk.json.gz` | 47 | 22 KB | 3 November 2026 |
 
 ## East Asia (5 countries)
 
 | Country | File | Airspaces | Size | Edition |
 |---|---|---|---|---|
-| China | `cn.json.gz` | 150 | 203 KB | 3 November 2026 |
+| China | `cn.json.gz` | 150 | 173 KB | 3 November 2026 |
 | Hong Kong | `hk.json.gz` | 13 | 4 KB | 3 November 2026 |
-| Japan | `jp.json.gz` | 1182 | 294 KB | 3 November 2026 |
-| Mongolia | `mn.json.gz` | 61 | 62 KB | 3 November 2026 |
+| Japan | `jp.json.gz` | 1182 | 289 KB | 3 November 2026 |
+| Mongolia | `mn.json.gz` | 61 | 56 KB | 3 November 2026 |
 | North Korea | `kp.json.gz` | 20 | 8 KB | 3 November 2026 |
 
 ## Southeast Asia (8 countries)
 
 | Country | File | Airspaces | Size | Edition |
 |---|---|---|---|---|
-| Brunei | `bn.json.gz` | 4 | 3 KB | 3 November 2026 |
+| Brunei | `bn.json.gz` | 4 | 2 KB | 3 November 2026 |
 | Indonesia | `id.json.gz` | 8 | 11 KB | 3 November 2026 |
-| Laos | `la.json.gz` | 27 | 350 KB | 3 November 2026 |
-| Malaysia | `my.json.gz` | 163 | 77 KB | 3 November 2026 |
+| Laos | `la.json.gz` | 27 | 178 KB | 3 November 2026 |
+| Malaysia | `my.json.gz` | 163 | 65 KB | 3 November 2026 |
 | Myanmar | `mm.json.gz` | 1 | 12 KB | 3 November 2026 |
-| Philippines | `ph.json.gz` | 135 | 129 KB | 3 November 2026 |
-| Thailand | `th.json.gz` | 13 | 28 KB | 3 November 2026 |
-| Timor-Leste | `tl.json.gz` | 9 | 18 KB | 3 November 2026 |
+| Philippines | `ph.json.gz` | 135 | 60 KB | 3 November 2026 |
+| Thailand | `th.json.gz` | 13 | 13 KB | 3 November 2026 |
+| Timor-Leste | `tl.json.gz` | 9 | 10 KB | 3 November 2026 |
 
 ## Australia and the Pacific (6 countries)
 
 | Country | File | Airspaces | Size | Edition |
 |---|---|---|---|---|
-| Australia | `au.json.gz` | 1911 | 3 MB | 3 November 2026 |
-| French Polynesia | `pf.json.gz` | 19 | 21 KB | 3 November 2026 |
-| New Caledonia | `nc.json.gz` | 23 | 24 KB | 3 November 2026 |
-| New Zealand | `nz.json.gz` | 415 | 167 KB | 3 November 2026 |
+| Australia | `au.json.gz` | 1911 | 1 MB | 3 November 2026 |
+| French Polynesia | `pf.json.gz` | 19 | 9 KB | 3 November 2026 |
+| New Caledonia | `nc.json.gz` | 23 | 13 KB | 3 November 2026 |
+| New Zealand | `nz.json.gz` | 415 | 106 KB | 3 November 2026 |
 | Papua New Guinea | `pg.json.gz` | 1 | 1 KB | 3 November 2026 |
 | Vanuatu | `vu.json.gz` | 9 | 6 KB | 3 November 2026 |
 
