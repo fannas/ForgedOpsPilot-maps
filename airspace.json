@@ -4,7 +4,7 @@
   "name": "Angola",
   "region": "Southern Africa",
   "file": "ao.json.gz",
-  "size": 4802,
+  "size": 4489,
   "count": 9,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/ao.json.gz"
@@ -14,7 +14,7 @@
   "name": "Botswana",
   "region": "Southern Africa",
   "file": "bw.json.gz",
-  "size": 10834,
+  "size": 10829,
   "count": 41,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/bw.json.gz"
@@ -24,7 +24,7 @@
   "name": "Malawi",
   "region": "Southern Africa",
   "file": "mw.json.gz",
-  "size": 43609,
+  "size": 38105,
   "count": 23,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/mw.json.gz"
@@ -34,7 +34,7 @@
   "name": "Mozambique",
   "region": "Southern Africa",
   "file": "mz.json.gz",
-  "size": 59286,
+  "size": 47974,
   "count": 37,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/mz.json.gz"
@@ -44,7 +44,7 @@
   "name": "Namibia",
   "region": "Southern Africa",
   "file": "na.json.gz",
-  "size": 74912,
+  "size": 38694,
   "count": 49,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/na.json.gz"
@@ -54,7 +54,7 @@
   "name": "South Africa",
   "region": "Southern Africa",
   "file": "za.json.gz",
-  "size": 173191,
+  "size": 121769,
   "count": 273,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/za.json.gz"
@@ -64,7 +64,7 @@
   "name": "Djibouti",
   "region": "East Africa",
   "file": "dj.json.gz",
-  "size": 6841,
+  "size": 5156,
   "count": 15,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/dj.json.gz"
@@ -74,7 +74,7 @@
   "name": "Kenya",
   "region": "East Africa",
   "file": "ke.json.gz",
-  "size": 15068,
+  "size": 14602,
   "count": 18,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/ke.json.gz"
@@ -84,7 +84,7 @@
   "name": "Rwanda",
   "region": "East Africa",
   "file": "rw.json.gz",
-  "size": 5426,
+  "size": 4509,
   "count": 10,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/rw.json.gz"
@@ -94,7 +94,7 @@
   "name": "Somalia",
   "region": "East Africa",
   "file": "so.json.gz",
-  "size": 19714,
+  "size": 17574,
   "count": 17,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/so.json.gz"
@@ -104,7 +104,7 @@
   "name": "South Sudan",
   "region": "East Africa",
   "file": "ss.json.gz",
-  "size": 5388,
+  "size": 5368,
   "count": 5,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/ss.json.gz"
@@ -124,7 +124,7 @@
   "name": "Madagascar",
   "region": "Indian Ocean islands",
   "file": "mg.json.gz",
-  "size": 46618,
+  "size": 31018,
   "count": 59,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/mg.json.gz"
@@ -134,7 +134,7 @@
   "name": "Mauritius",
   "region": "Indian Ocean islands",
   "file": "mu.json.gz",
-  "size": 4818,
+  "size": 4165,
   "count": 7,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/mu.json.gz"
@@ -144,7 +144,7 @@
   "name": "Réunion",
   "region": "Indian Ocean islands",
   "file": "re.json.gz",
-  "size": 7432,
+  "size": 5715,
   "count": 13,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/re.json.gz"
@@ -154,7 +154,7 @@
   "name": "Seychelles",
   "region": "Indian Ocean islands",
   "file": "sc.json.gz",
-  "size": 12467,
+  "size": 7788,
   "count": 12,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/sc.json.gz"
@@ -164,7 +164,7 @@
   "name": "Cameroon",
   "region": "Central Africa",
   "file": "cm.json.gz",
-  "size": 12551,
+  "size": 11598,
   "count": 28,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/cm.json.gz"
@@ -174,7 +174,7 @@
   "name": "Central African Republic",
   "region": "Central Africa",
   "file": "cf.json.gz",
-  "size": 5134,
+  "size": 4768,
   "count": 6,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/cf.json.gz"
@@ -184,7 +184,7 @@
   "name": "Chad",
   "region": "Central Africa",
   "file": "td.json.gz",
-  "size": 17953,
+  "size": 14970,
   "count": 18,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/td.json.gz"
@@ -194,7 +194,7 @@
   "name": "Congo (Brazzaville)",
   "region": "Central Africa",
   "file": "cg.json.gz",
-  "size": 11297,
+  "size": 7818,
   "count": 20,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/cg.json.gz"
@@ -214,7 +214,7 @@
   "name": "Gabon",
   "region": "Central Africa",
   "file": "ga.json.gz",
-  "size": 21831,
+  "size": 13895,
   "count": 23,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/ga.json.gz"
@@ -224,7 +224,7 @@
   "name": "Benin",
   "region": "West Africa",
   "file": "bj.json.gz",
-  "size": 4275,
+  "size": 3705,
   "count": 10,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/bj.json.gz"
@@ -234,7 +234,7 @@
   "name": "Burkina Faso",
   "region": "West Africa",
   "file": "bf.json.gz",
-  "size": 4486,
+  "size": 4076,
   "count": 13,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/bf.json.gz"
@@ -244,7 +244,7 @@
   "name": "Guinea-Bissau",
   "region": "West Africa",
   "file": "gw.json.gz",
-  "size": 5207,
+  "size": 4263,
   "count": 7,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/gw.json.gz"
@@ -254,7 +254,7 @@
   "name": "Mali",
   "region": "West Africa",
   "file": "ml.json.gz",
-  "size": 18007,
+  "size": 14657,
   "count": 15,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/ml.json.gz"
@@ -264,7 +264,7 @@
   "name": "Mauritania",
   "region": "West Africa",
   "file": "mr.json.gz",
-  "size": 10861,
+  "size": 9176,
   "count": 15,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/mr.json.gz"
@@ -274,7 +274,7 @@
   "name": "Niger",
   "region": "West Africa",
   "file": "ne.json.gz",
-  "size": 8902,
+  "size": 7795,
   "count": 7,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/ne.json.gz"
@@ -284,7 +284,7 @@
   "name": "Senegal",
   "region": "West Africa",
   "file": "sn.json.gz",
-  "size": 24418,
+  "size": 16679,
   "count": 29,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/sn.json.gz"
@@ -294,7 +294,7 @@
   "name": "Togo",
   "region": "West Africa",
   "file": "tg.json.gz",
-  "size": 4710,
+  "size": 4300,
   "count": 10,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/tg.json.gz"
@@ -304,7 +304,7 @@
   "name": "Algeria",
   "region": "North Africa",
   "file": "dz.json.gz",
-  "size": 70995,
+  "size": 58307,
   "count": 103,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/dz.json.gz"
@@ -314,7 +314,7 @@
   "name": "Libya",
   "region": "North Africa",
   "file": "ly.json.gz",
-  "size": 15161,
+  "size": 13568,
   "count": 19,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/ly.json.gz"
@@ -324,7 +324,7 @@
   "name": "Morocco",
   "region": "North Africa",
   "file": "ma.json.gz",
-  "size": 62860,
+  "size": 39118,
   "count": 89,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/ma.json.gz"
@@ -334,7 +334,7 @@
   "name": "Tunisia",
   "region": "North Africa",
   "file": "tn.json.gz",
-  "size": 35521,
+  "size": 29974,
   "count": 61,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/tn.json.gz"
@@ -344,7 +344,7 @@
   "name": "Bahrain",
   "region": "Middle East",
   "file": "bh.json.gz",
-  "size": 7540,
+  "size": 2879,
   "count": 8,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/bh.json.gz"
@@ -354,7 +354,7 @@
   "name": "Cyprus",
   "region": "Middle East",
   "file": "cy.json.gz",
-  "size": 22494,
+  "size": 18058,
   "count": 90,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/cy.json.gz"
@@ -364,7 +364,7 @@
   "name": "Iran",
   "region": "Middle East",
   "file": "ir.json.gz",
-  "size": 142923,
+  "size": 120941,
   "count": 398,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/ir.json.gz"
@@ -374,7 +374,7 @@
   "name": "Israel",
   "region": "Middle East",
   "file": "il.json.gz",
-  "size": 15831,
+  "size": 9762,
   "count": 78,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/il.json.gz"
@@ -384,7 +384,7 @@
   "name": "Oman",
   "region": "Middle East",
   "file": "om.json.gz",
-  "size": 79106,
+  "size": 38378,
   "count": 113,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/om.json.gz"
@@ -394,7 +394,7 @@
   "name": "Qatar",
   "region": "Middle East",
   "file": "qa.json.gz",
-  "size": 21451,
+  "size": 11518,
   "count": 33,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/qa.json.gz"
@@ -404,7 +404,7 @@
   "name": "Saudi Arabia",
   "region": "Middle East",
   "file": "sa.json.gz",
-  "size": 139819,
+  "size": 74885,
   "count": 193,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/sa.json.gz"
@@ -414,7 +414,7 @@
   "name": "Turkey",
   "region": "Middle East",
   "file": "tr.json.gz",
-  "size": 167665,
+  "size": 102211,
   "count": 349,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/tr.json.gz"
@@ -424,7 +424,7 @@
   "name": "United Arab Emirates",
   "region": "Middle East",
   "file": "ae.json.gz",
-  "size": 43160,
+  "size": 25671,
   "count": 136,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/ae.json.gz"
@@ -434,7 +434,7 @@
   "name": "Ireland",
   "region": "British Isles",
   "file": "ie.json.gz",
-  "size": 92993,
+  "size": 44875,
   "count": 83,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/ie.json.gz"
@@ -444,7 +444,7 @@
   "name": "Isle of Man",
   "region": "British Isles",
   "file": "im.json.gz",
-  "size": 3032,
+  "size": 1838,
   "count": 6,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/im.json.gz"
@@ -454,7 +454,7 @@
   "name": "United Kingdom",
   "region": "British Isles",
   "file": "gb.json.gz",
-  "size": 490798,
+  "size": 241352,
   "count": 1188,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/gb.json.gz"
@@ -464,7 +464,7 @@
   "name": "Austria",
   "region": "Western Europe",
   "file": "at.json.gz",
-  "size": 89065,
+  "size": 81817,
   "count": 225,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/at.json.gz"
@@ -474,7 +474,7 @@
   "name": "Belgium",
   "region": "Western Europe",
   "file": "be.json.gz",
-  "size": 108314,
+  "size": 87280,
   "count": 258,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/be.json.gz"
@@ -484,7 +484,7 @@
   "name": "France",
   "region": "Western Europe",
   "file": "fr.json.gz",
-  "size": 802000,
+  "size": 347759,
   "count": 1795,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/fr.json.gz"
@@ -494,7 +494,7 @@
   "name": "Germany",
   "region": "Western Europe",
   "file": "de.json.gz",
-  "size": 336154,
+  "size": 235092,
   "count": 751,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/de.json.gz"
@@ -504,7 +504,7 @@
   "name": "Luxembourg",
   "region": "Western Europe",
   "file": "lu.json.gz",
-  "size": 6750,
+  "size": 6530,
   "count": 18,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/lu.json.gz"
@@ -514,7 +514,7 @@
   "name": "Netherlands",
   "region": "Western Europe",
   "file": "nl.json.gz",
-  "size": 144969,
+  "size": 92578,
   "count": 263,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/nl.json.gz"
@@ -524,7 +524,7 @@
   "name": "Switzerland",
   "region": "Western Europe",
   "file": "ch.json.gz",
-  "size": 52147,
+  "size": 38230,
   "count": 194,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/ch.json.gz"
@@ -534,7 +534,7 @@
   "name": "Denmark",
   "region": "Northern Europe",
   "file": "dk.json.gz",
-  "size": 35191,
+  "size": 25224,
   "count": 210,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/dk.json.gz"
@@ -544,7 +544,7 @@
   "name": "Estonia",
   "region": "Northern Europe",
   "file": "ee.json.gz",
-  "size": 18961,
+  "size": 17509,
   "count": 115,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/ee.json.gz"
@@ -564,7 +564,7 @@
   "name": "Finland",
   "region": "Northern Europe",
   "file": "fi.json.gz",
-  "size": 70803,
+  "size": 68392,
   "count": 985,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/fi.json.gz"
@@ -574,7 +574,7 @@
   "name": "Iceland",
   "region": "Northern Europe",
   "file": "is.json.gz",
-  "size": 14696,
+  "size": 9832,
   "count": 56,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/is.json.gz"
@@ -584,7 +584,7 @@
   "name": "Latvia",
   "region": "Northern Europe",
   "file": "lv.json.gz",
-  "size": 69210,
+  "size": 49465,
   "count": 162,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/lv.json.gz"
@@ -594,7 +594,7 @@
   "name": "Lithuania",
   "region": "Northern Europe",
   "file": "lt.json.gz",
-  "size": 121027,
+  "size": 72472,
   "count": 102,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/lt.json.gz"
@@ -604,7 +604,7 @@
   "name": "Norway",
   "region": "Northern Europe",
   "file": "no.json.gz",
-  "size": 64146,
+  "size": 58700,
   "count": 599,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/no.json.gz"
@@ -614,7 +614,7 @@
   "name": "Sweden",
   "region": "Northern Europe",
   "file": "se.json.gz",
-  "size": 80399,
+  "size": 57832,
   "count": 516,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/se.json.gz"
@@ -624,7 +624,7 @@
   "name": "Greece",
   "region": "Southern Europe",
   "file": "gr.json.gz",
-  "size": 136948,
+  "size": 81865,
   "count": 238,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/gr.json.gz"
@@ -634,7 +634,7 @@
   "name": "Italy",
   "region": "Southern Europe",
   "file": "it.json.gz",
-  "size": 859604,
+  "size": 362172,
   "count": 1558,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/it.json.gz"
@@ -644,7 +644,7 @@
   "name": "Malta",
   "region": "Southern Europe",
   "file": "mt.json.gz",
-  "size": 9369,
+  "size": 4713,
   "count": 8,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/mt.json.gz"
@@ -654,7 +654,7 @@
   "name": "Portugal",
   "region": "Southern Europe",
   "file": "pt.json.gz",
-  "size": 31270,
+  "size": 31042,
   "count": 94,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/pt.json.gz"
@@ -664,7 +664,7 @@
   "name": "Spain",
   "region": "Southern Europe",
   "file": "es.json.gz",
-  "size": 211538,
+  "size": 162734,
   "count": 808,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/es.json.gz"
@@ -684,7 +684,7 @@
   "name": "Belarus",
   "region": "Eastern Europe and the Balkans",
   "file": "by.json.gz",
-  "size": 38228,
+  "size": 31857,
   "count": 111,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/by.json.gz"
@@ -694,7 +694,7 @@
   "name": "Bosnia and Herzegovina",
   "region": "Eastern Europe and the Balkans",
   "file": "ba.json.gz",
-  "size": 22662,
+  "size": 12159,
   "count": 79,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/ba.json.gz"
@@ -704,7 +704,7 @@
   "name": "Bulgaria",
   "region": "Eastern Europe and the Balkans",
   "file": "bg.json.gz",
-  "size": 76683,
+  "size": 44705,
   "count": 190,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/bg.json.gz"
@@ -714,7 +714,7 @@
   "name": "Croatia",
   "region": "Eastern Europe and the Balkans",
   "file": "hr.json.gz",
-  "size": 78697,
+  "size": 54738,
   "count": 419,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/hr.json.gz"
@@ -724,7 +724,7 @@
   "name": "Czechia",
   "region": "Eastern Europe and the Balkans",
   "file": "cz.json.gz",
-  "size": 214760,
+  "size": 145131,
   "count": 356,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/cz.json.gz"
@@ -734,7 +734,7 @@
   "name": "Hungary",
   "region": "Eastern Europe and the Balkans",
   "file": "hu.json.gz",
-  "size": 49117,
+  "size": 38360,
   "count": 192,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/hu.json.gz"
@@ -744,7 +744,7 @@
   "name": "Moldova",
   "region": "Eastern Europe and the Balkans",
   "file": "md.json.gz",
-  "size": 17376,
+  "size": 16480,
   "count": 34,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/md.json.gz"
@@ -754,7 +754,7 @@
   "name": "North Macedonia",
   "region": "Eastern Europe and the Balkans",
   "file": "mk.json.gz",
-  "size": 3512,
+  "size": 2058,
   "count": 6,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/mk.json.gz"
@@ -764,7 +764,7 @@
   "name": "Poland",
   "region": "Eastern Europe and the Balkans",
   "file": "pl.json.gz",
-  "size": 286674,
+  "size": 183325,
   "count": 1018,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/pl.json.gz"
@@ -774,7 +774,7 @@
   "name": "Romania",
   "region": "Eastern Europe and the Balkans",
   "file": "ro.json.gz",
-  "size": 229055,
+  "size": 164660,
   "count": 381,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/ro.json.gz"
@@ -784,7 +784,7 @@
   "name": "Serbia",
   "region": "Eastern Europe and the Balkans",
   "file": "rs.json.gz",
-  "size": 151518,
+  "size": 98215,
   "count": 208,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/rs.json.gz"
@@ -794,7 +794,7 @@
   "name": "Slovakia",
   "region": "Eastern Europe and the Balkans",
   "file": "sk.json.gz",
-  "size": 79642,
+  "size": 75326,
   "count": 130,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/sk.json.gz"
@@ -804,7 +804,7 @@
   "name": "Slovenia",
   "region": "Eastern Europe and the Balkans",
   "file": "si.json.gz",
-  "size": 33590,
+  "size": 16615,
   "count": 64,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/si.json.gz"
@@ -814,7 +814,7 @@
   "name": "Canada",
   "region": "North America",
   "file": "ca.json.gz",
-  "size": 1141505,
+  "size": 842747,
   "count": 2272,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/ca.json.gz"
@@ -824,7 +824,7 @@
   "name": "Greenland",
   "region": "North America",
   "file": "gl.json.gz",
-  "size": 32383,
+  "size": 30543,
   "count": 27,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/gl.json.gz"
@@ -834,27 +834,207 @@
   "name": "Mexico",
   "region": "North America",
   "file": "mx.json.gz",
-  "size": 19615,
+  "size": 11901,
   "count": 18,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/mx.json.gz"
  },
  {
-  "id": "us",
-  "name": "United States",
+  "id": "us-so",
+  "name": "Alabama, Mississippi, Tennessee and Kentucky",
   "region": "United States",
-  "file": "us.json.gz",
-  "size": 67775530,
-  "count": 7730,
+  "file": "us-so.json.gz",
+  "size": 1127911,
+  "count": 1056,
   "edition": "20261103",
-  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/us.json.gz"
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/us-so.json.gz"
+ },
+ {
+  "id": "us-ak",
+  "name": "Alaska",
+  "region": "United States",
+  "file": "us-ak.json.gz",
+  "size": 480381,
+  "count": 498,
+  "edition": "20261103",
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/us-ak.json.gz"
+ },
+ {
+  "id": "us-akw",
+  "name": "Aleutian Islands west of 180°",
+  "region": "United States",
+  "file": "us-akw.json.gz",
+  "size": 16966,
+  "count": 38,
+  "edition": "20261103",
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/us-akw.json.gz"
+ },
+ {
+  "id": "us-sw",
+  "name": "Arizona, New Mexico and Nevada",
+  "region": "United States",
+  "file": "us-sw.json.gz",
+  "size": 534044,
+  "count": 1161,
+  "edition": "20261103",
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/us-sw.json.gz"
+ },
+ {
+  "id": "us-can",
+  "name": "California north",
+  "region": "United States",
+  "file": "us-can.json.gz",
+  "size": 192398,
+  "count": 509,
+  "edition": "20261103",
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/us-can.json.gz"
+ },
+ {
+  "id": "us-cas",
+  "name": "California south",
+  "region": "United States",
+  "file": "us-cas.json.gz",
+  "size": 133423,
+  "count": 413,
+  "edition": "20261103",
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/us-cas.json.gz"
+ },
+ {
+  "id": "us-ma",
+  "name": "Delaware, Maryland, Washington DC, Virginia, West Virginia and North Carolina",
+  "region": "United States",
+  "file": "us-ma.json.gz",
+  "size": 864173,
+  "count": 935,
+  "edition": "20261103",
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/us-ma.json.gz"
+ },
+ {
+  "id": "us-hi",
+  "name": "Hawaii",
+  "region": "United States",
+  "file": "us-hi.json.gz",
+  "size": 52548,
+  "count": 116,
+  "edition": "20261103",
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/us-hi.json.gz"
+ },
+ {
+  "id": "us-il",
+  "name": "Illinois and Wisconsin",
+  "region": "United States",
+  "file": "us-il.json.gz",
+  "size": 617353,
+  "count": 575,
+  "edition": "20261103",
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/us-il.json.gz"
+ },
+ {
+  "id": "us-la",
+  "name": "Louisiana, Arkansas and Oklahoma",
+  "region": "United States",
+  "file": "us-la.json.gz",
+  "size": 913763,
+  "count": 1000,
+  "edition": "20261103",
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/us-la.json.gz"
+ },
+ {
+  "id": "us-mn",
+  "name": "Minnesota, Iowa and Missouri",
+  "region": "United States",
+  "file": "us-mn.json.gz",
+  "size": 1030410,
+  "count": 841,
+  "edition": "20261103",
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/us-mn.json.gz"
+ },
+ {
+  "id": "us-mt",
+  "name": "Montana, Wyoming, Idaho, Colorado and Utah",
+  "region": "United States",
+  "file": "us-mt.json.gz",
+  "size": 441416,
+  "count": 792,
+  "edition": "20261103",
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/us-mt.json.gz"
+ },
+ {
+  "id": "us-ne",
+  "name": "New England",
+  "region": "United States",
+  "file": "us-ne.json.gz",
+  "size": 306263,
+  "count": 300,
+  "edition": "20261103",
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/us-ne.json.gz"
+ },
+ {
+  "id": "us-ny",
+  "name": "New York, New Jersey and Pennsylvania",
+  "region": "United States",
+  "file": "us-ny.json.gz",
+  "size": 581229,
+  "count": 623,
+  "edition": "20261103",
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/us-ny.json.gz"
+ },
+ {
+  "id": "us-pl",
+  "name": "North Dakota, South Dakota, Nebraska and Kansas",
+  "region": "United States",
+  "file": "us-pl.json.gz",
+  "size": 634414,
+  "count": 637,
+  "edition": "20261103",
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/us-pl.json.gz"
+ },
+ {
+  "id": "us-oh",
+  "name": "Ohio, Michigan and Indiana",
+  "region": "United States",
+  "file": "us-oh.json.gz",
+  "size": 899716,
+  "count": 802,
+  "edition": "20261103",
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/us-oh.json.gz"
+ },
+ {
+  "id": "us-se",
+  "name": "South Carolina, Georgia and Florida",
+  "region": "United States",
+  "file": "us-se.json.gz",
+  "size": 696258,
+  "count": 1035,
+  "edition": "20261103",
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/us-se.json.gz"
+ },
+ {
+  "id": "us-tx",
+  "name": "Texas",
+  "region": "United States",
+  "file": "us-tx.json.gz",
+  "size": 643425,
+  "count": 783,
+  "edition": "20261103",
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/us-tx.json.gz"
+ },
+ {
+  "id": "us-nw",
+  "name": "Washington and Oregon",
+  "region": "United States",
+  "file": "us-nw.json.gz",
+  "size": 144988,
+  "count": 402,
+  "edition": "20261103",
+  "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/us-nw.json.gz"
  },
  {
   "id": "cr",
   "name": "Costa Rica",
   "region": "Central America and the Caribbean",
   "file": "cr.json.gz",
-  "size": 16328,
+  "size": 9777,
   "count": 22,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/cr.json.gz"
@@ -864,7 +1044,7 @@
   "name": "Curaçao",
   "region": "Central America and the Caribbean",
   "file": "cw.json.gz",
-  "size": 20618,
+  "size": 11054,
   "count": 32,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/cw.json.gz"
@@ -874,7 +1054,7 @@
   "name": "Puerto Rico",
   "region": "Central America and the Caribbean",
   "file": "pr.json.gz",
-  "size": 6838,
+  "size": 3537,
   "count": 6,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/pr.json.gz"
@@ -884,7 +1064,7 @@
   "name": "Argentina",
   "region": "South America",
   "file": "ar.json.gz",
-  "size": 250992,
+  "size": 163157,
   "count": 226,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/ar.json.gz"
@@ -894,7 +1074,7 @@
   "name": "Brazil",
   "region": "South America",
   "file": "br.json.gz",
-  "size": 141134,
+  "size": 138750,
   "count": 735,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/br.json.gz"
@@ -904,7 +1084,7 @@
   "name": "Chile",
   "region": "South America",
   "file": "cl.json.gz",
-  "size": 19992,
+  "size": 14269,
   "count": 36,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/cl.json.gz"
@@ -914,7 +1094,7 @@
   "name": "Colombia",
   "region": "South America",
   "file": "co.json.gz",
-  "size": 34891,
+  "size": 25802,
   "count": 109,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/co.json.gz"
@@ -924,7 +1104,7 @@
   "name": "Falkland Islands",
   "region": "South America",
   "file": "fk.json.gz",
-  "size": 2112,
+  "size": 2108,
   "count": 1,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/fk.json.gz"
@@ -934,7 +1114,7 @@
   "name": "Guyana",
   "region": "South America",
   "file": "gy.json.gz",
-  "size": 6497,
+  "size": 5787,
   "count": 5,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/gy.json.gz"
@@ -944,7 +1124,7 @@
   "name": "Paraguay",
   "region": "South America",
   "file": "py.json.gz",
-  "size": 14885,
+  "size": 9651,
   "count": 26,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/py.json.gz"
@@ -954,7 +1134,7 @@
   "name": "Uruguay",
   "region": "South America",
   "file": "uy.json.gz",
-  "size": 31827,
+  "size": 20612,
   "count": 57,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/uy.json.gz"
@@ -964,7 +1144,7 @@
   "name": "Venezuela",
   "region": "South America",
   "file": "ve.json.gz",
-  "size": 85869,
+  "size": 60336,
   "count": 113,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/ve.json.gz"
@@ -974,7 +1154,7 @@
   "name": "Russia",
   "region": "Russia",
   "file": "ru.json.gz",
-  "size": 690342,
+  "size": 548368,
   "count": 2511,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/ru.json.gz"
@@ -984,7 +1164,7 @@
   "name": "Armenia",
   "region": "Caucasus and Central Asia",
   "file": "am.json.gz",
-  "size": 13550,
+  "size": 8649,
   "count": 15,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/am.json.gz"
@@ -994,7 +1174,7 @@
   "name": "Azerbaijan",
   "region": "Caucasus and Central Asia",
   "file": "az.json.gz",
-  "size": 22971,
+  "size": 18845,
   "count": 27,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/az.json.gz"
@@ -1004,7 +1184,7 @@
   "name": "Georgia",
   "region": "Caucasus and Central Asia",
   "file": "ge.json.gz",
-  "size": 19287,
+  "size": 11328,
   "count": 71,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/ge.json.gz"
@@ -1014,7 +1194,7 @@
   "name": "Kazakhstan",
   "region": "Caucasus and Central Asia",
   "file": "kz.json.gz",
-  "size": 128232,
+  "size": 101317,
   "count": 318,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/kz.json.gz"
@@ -1024,7 +1204,7 @@
   "name": "Tajikistan",
   "region": "Caucasus and Central Asia",
   "file": "tj.json.gz",
-  "size": 10138,
+  "size": 9192,
   "count": 10,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/tj.json.gz"
@@ -1034,7 +1214,7 @@
   "name": "Turkmenistan",
   "region": "Caucasus and Central Asia",
   "file": "tm.json.gz",
-  "size": 12597,
+  "size": 11911,
   "count": 26,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/tm.json.gz"
@@ -1044,7 +1224,7 @@
   "name": "Uzbekistan",
   "region": "Caucasus and Central Asia",
   "file": "uz.json.gz",
-  "size": 35838,
+  "size": 30047,
   "count": 62,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/uz.json.gz"
@@ -1054,7 +1234,7 @@
   "name": "Afghanistan",
   "region": "South Asia",
   "file": "af.json.gz",
-  "size": 33833,
+  "size": 22969,
   "count": 94,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/af.json.gz"
@@ -1064,7 +1244,7 @@
   "name": "India",
   "region": "South Asia",
   "file": "in.json.gz",
-  "size": 20530,
+  "size": 20222,
   "count": 4,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/in.json.gz"
@@ -1074,7 +1254,7 @@
   "name": "Maldives",
   "region": "South Asia",
   "file": "mv.json.gz",
-  "size": 24053,
+  "size": 19281,
   "count": 26,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/mv.json.gz"
@@ -1084,7 +1264,7 @@
   "name": "Nepal",
   "region": "South Asia",
   "file": "np.json.gz",
-  "size": 105976,
+  "size": 93196,
   "count": 14,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/np.json.gz"
@@ -1094,7 +1274,7 @@
   "name": "Pakistan",
   "region": "South Asia",
   "file": "pk.json.gz",
-  "size": 74276,
+  "size": 44358,
   "count": 178,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/pk.json.gz"
@@ -1104,7 +1284,7 @@
   "name": "Sri Lanka",
   "region": "South Asia",
   "file": "lk.json.gz",
-  "size": 22843,
+  "size": 22129,
   "count": 47,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/lk.json.gz"
@@ -1114,7 +1294,7 @@
   "name": "China",
   "region": "East Asia",
   "file": "cn.json.gz",
-  "size": 202590,
+  "size": 173021,
   "count": 150,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/cn.json.gz"
@@ -1124,7 +1304,7 @@
   "name": "Hong Kong",
   "region": "East Asia",
   "file": "hk.json.gz",
-  "size": 4077,
+  "size": 3637,
   "count": 13,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/hk.json.gz"
@@ -1134,7 +1314,7 @@
   "name": "Japan",
   "region": "East Asia",
   "file": "jp.json.gz",
-  "size": 294244,
+  "size": 289101,
   "count": 1182,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/jp.json.gz"
@@ -1144,7 +1324,7 @@
   "name": "Mongolia",
   "region": "East Asia",
   "file": "mn.json.gz",
-  "size": 62064,
+  "size": 56148,
   "count": 61,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/mn.json.gz"
@@ -1154,7 +1334,7 @@
   "name": "North Korea",
   "region": "East Asia",
   "file": "kp.json.gz",
-  "size": 8107,
+  "size": 8075,
   "count": 20,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/kp.json.gz"
@@ -1164,7 +1344,7 @@
   "name": "Brunei",
   "region": "Southeast Asia",
   "file": "bn.json.gz",
-  "size": 2552,
+  "size": 2274,
   "count": 4,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/bn.json.gz"
@@ -1174,7 +1354,7 @@
   "name": "Indonesia",
   "region": "Southeast Asia",
   "file": "id.json.gz",
-  "size": 11370,
+  "size": 11353,
   "count": 8,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/id.json.gz"
@@ -1184,7 +1364,7 @@
   "name": "Laos",
   "region": "Southeast Asia",
   "file": "la.json.gz",
-  "size": 350096,
+  "size": 177915,
   "count": 27,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/la.json.gz"
@@ -1194,7 +1374,7 @@
   "name": "Malaysia",
   "region": "Southeast Asia",
   "file": "my.json.gz",
-  "size": 76899,
+  "size": 65256,
   "count": 163,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/my.json.gz"
@@ -1204,7 +1384,7 @@
   "name": "Myanmar",
   "region": "Southeast Asia",
   "file": "mm.json.gz",
-  "size": 11655,
+  "size": 11569,
   "count": 1,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/mm.json.gz"
@@ -1214,7 +1394,7 @@
   "name": "Philippines",
   "region": "Southeast Asia",
   "file": "ph.json.gz",
-  "size": 128650,
+  "size": 60192,
   "count": 135,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/ph.json.gz"
@@ -1224,7 +1404,7 @@
   "name": "Thailand",
   "region": "Southeast Asia",
   "file": "th.json.gz",
-  "size": 27908,
+  "size": 13231,
   "count": 13,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/th.json.gz"
@@ -1234,7 +1414,7 @@
   "name": "Timor-Leste",
   "region": "Southeast Asia",
   "file": "tl.json.gz",
-  "size": 17788,
+  "size": 9990,
   "count": 9,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/tl.json.gz"
@@ -1244,7 +1424,7 @@
   "name": "Australia",
   "region": "Australia and the Pacific",
   "file": "au.json.gz",
-  "size": 3030340,
+  "size": 1373047,
   "count": 1911,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/au.json.gz"
@@ -1254,7 +1434,7 @@
   "name": "French Polynesia",
   "region": "Australia and the Pacific",
   "file": "pf.json.gz",
-  "size": 20525,
+  "size": 8534,
   "count": 19,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/pf.json.gz"
@@ -1264,7 +1444,7 @@
   "name": "New Caledonia",
   "region": "Australia and the Pacific",
   "file": "nc.json.gz",
-  "size": 24208,
+  "size": 12867,
   "count": 23,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/nc.json.gz"
@@ -1274,7 +1454,7 @@
   "name": "New Zealand",
   "region": "Australia and the Pacific",
   "file": "nz.json.gz",
-  "size": 167469,
+  "size": 105642,
   "count": 415,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/nz.json.gz"
@@ -1284,7 +1464,7 @@
   "name": "Papua New Guinea",
   "region": "Australia and the Pacific",
   "file": "pg.json.gz",
-  "size": 877,
+  "size": 864,
   "count": 1,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/pg.json.gz"
@@ -1294,7 +1474,7 @@
   "name": "Vanuatu",
   "region": "Australia and the Pacific",
   "file": "vu.json.gz",
-  "size": 6105,
+  "size": 6070,
   "count": 9,
   "edition": "20261103",
   "url": "https://github.com/fannas/ForgedOpsPilot-maps/releases/download/airspace-20261103/vu.json.gz"
